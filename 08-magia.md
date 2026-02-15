@@ -4,55 +4,55 @@ La magia es una parte fundamental de Crónicas de la Marca del Este. Solo los ma
 Los conjuradores suelen preparar sus conjuros (también llamados hechizos) todos los días por la noche, antes de descansar, ya sea estudiando sus libros arcanos, apelando a sus deidades patronas o entrando en comunión con la naturaleza. Los usuarios de la magia pueden memorizar un número determinado de hechizos de cada nivel, dependiendo del nivel de experiencia del lanzador, tal como aparece reflejado en sus tablas correspondientes. Cuando se lanza un conjuro, este se borra de la memoria del conjurador, que debe volver a memorizarlo y descansar al menos 8 horas si desea utilizarlo nuevamente. Sin embargo, un aventurero puede memorizar el mismo conjuro más de una vez, siempre que sea capaz de lanzar más de un conjuro del nivel elegido. Por ejemplo: Alana es una maga de nivel 6 que, según su tabla de progresión de conjuros, puede ya lanzar 2 conjuros de nivel 3. Consciente del poder de destrucción de las bolas de fuego, decide memorizarlo dos veces.
 Para lanzar conjuros con eficacia, el lanzador debe ser capaz de mover las manos libremente y hablar sin impedimento, de manera que pueda articular los laboriosos gestos manuales que requiere el uso de conjuros y pronunciar las palabras de mando adecuadas. Un conjurador será incapaz de lanzar hechizos si está atado de manos o amordazado. Asimismo, los lanzadores de conjuros no pueden hacer otra cosa durante el mismo asalto en que estén conjurando. El aventurero debe anunciar su intención de lanzar un conjuro antes de que se determine la iniciativa. Si el lanzador es golpeado antes de que pueda lanzar el conjuro, o debe realizar una tirada de salvación y resulta fallida, el conjuro se perderá y no tendrá ningún efecto, borrándose de la memoria del lanzador. Finalmente, el lanzador debe ser capaz de ver a la criatura elegida para que esta sufra el efecto de su conjuro de manera nítida y directa.
 
-##### Aprender conjuros de magia arcana
+### Aprender conjuros de magia arcana
 
 Cuando los lanzadores de conjuros arcanos suben de nivel pueden aprender nuevos conjuros, según establezca su tabla de progresión de conjuros correspondiente. Los nuevos conjuros no se aprenden por ciencia infusa, el aventurero debe acudir a un gremio de magos, o a un conjurador de nivel superior, para aprender o comprar nuevos sortilegios que añadir a su libro de conjuros. De igual modo, el aventurero puede, durante el transcurso de sus aventuras, encontrar nuevos conjuros impresos en viejos libros de magia o en pergaminos. Para descifrar y comprender los mismos, el mago o ilusionista deberá lanzar sobre ellos un conjuro de leer magia. Tras esto, podrán ser copiados al libro de conjuros del aventurero, pero tras la copia, el pergamino se destruirá. No sucederá así tras copiar hechizos de un libro de conjuros a otro, pues el conjuro copiado no desaparecerá.
 Podría ocurrir que el libro de conjuros de un aventurero desapareciera, fuera destruido, se perdiera o algo peor durante el transcurso de sus aventuras. Si esta desgracia ocurriese, el conjurador podrá reescribir uno nuevo, proceso que le llevaría una semana de trabajo y un coste de 1.000 monedas de oro por cada nivel de conjuro reescrito. Por ejemplo, si desapareciera un libro de conjuros que contuviera dos conjuros de nivel 1 y un conjuro de nivel 2, el lanzador tardaría cuatro semanas en reescribirlo, con un coste de 4.000 monedas de oro (1.000 mo por cada conjuro de nivel 1 y 2.000 por el conjuro de nivel 2).
 
-##### Aprender conjuros de magia divina
+### Aprender conjuros de magia divina
 
 Hay una diferencia fundamental entre los conjuros arcanos y la magia divina. Los magos e ilusionistas memorizan y lanzan conjuros anotados en sus libros de conjuros. Por el contrario, los clérigos y los druidas no poseen libros de conjuros pues reciben su poder a través de las plegarias que dirigen a su deidad patrona. Por esta razón, los clérigos y druidas tienen acceso a toda la lista de conjuros de cada nivel para elegir los hechizos que deseen memorizar, siempre con arreglo a su nivel de experiencia.
 
-##### Tiradas de salvación de conjuros
+### Tiradas de salvación de conjuros
 
 Algunos conjuros admiten tiradas de salvación para eludir sus efectos, tal y como aparece reflejado en la descripción de cada conjuro. Cuando se admiten tiradas de salvación, un éxito en la misma habitualmente reduce o elimina los efectos del conjuro, dependiendo de la descripción del mismo.
 
-##### Concentración
+### Concentración
 
 Para lanzar un conjuro con éxito, magos, ilusionistas, clérigos y druidas han de mantener la concentración. Cualquier pérdida repentina de la misma podría significar que el hechizo no surte efecto. Según las circunstancias, el Narrador puede requerir una tirada de concentración que se resuelve como una tirada de característica de INT o SAB, según el caso.
 
-##### Conjuros reversibles
+### Conjuros reversibles
 
 Algunos conjuros tienen efectos reversibles, tal y como se puede leer en la descripción de algunos hechizos. Para los usuarios de magia arcana, el efecto reversible de un conjuro es considerado, a todos los efectos, un conjuro diferente y debe ser memorizado independientemente del efecto contrario. Por ejemplo, el conjuro de nivel 9 de mago conocido como liberar, se considera un conjuro único a todos los efectos, mientras que su reverso: aprisionar, debe ser considerado otro conjuro independiente. Los usuarios de magia divina pueden usar un efecto u otro del conjuro reversible de manera totalmente libre, aunque deben ser prudentes en el uso indebido de los conjuros que contravengan su alineamiento y el de su deidad, pues la utilización de conjuros contrarios a su alineamiento puede enfurecer a su patrón, con desagradables consecuencias para el conjurador (consecuencias que dejamos a discreción del Narrador).
 
-##### Acumular efectos de conjuros
+### Acumular efectos de conjuros
 
 Los conjuros que afectan a diferentes habilidades pueden combinarse con otros hechizos u objetos mágicos y artefactos en posesión del lanzador o receptor del conjuro. No obstante, no es posible lanzar conjuros iguales para acumular su efecto en una sola habilidad. Por ejemplo, un clérigo no podrá lanzar sobre sí mismo dos conjuros de bendecir, pero sí podría lanzar un conjuro de bendecir, cuyos efectos se apilarían sin problemas a los de su maza mágica +1.
 
-##### Conjuros iniciales
+### Conjuros iniciales
 
 Como ya hemos mencionado, los usuarios de magia divina tienen acceso a cualquier conjuro que puedan lanzar con arreglo a su nivel de experiencia. No obstante, los usuarios de magia arcana deben elegir sus conjuros iniciales y unos pocos más que pueden aprender aunque no puedan lanzar. Así pues, los magos e ilusionistas comienzan con un libro de conjuros que contendrá todos los hechizos que pueden lanzar según la tabla de progresión de conjuros de su clase de aventurero, más dos conjuros adicionales de nivel 1 y un conjuro adicional de nivel 2. Así, un mago de primer nivel sin bonificadores por inteligencia, empezaría con 4 conjuros de nivel 0, 4 conjuros de nivel 1 y 1 conjuro de nivel 2. Todos los demás conjuros se conseguirán en el transcurso de sus aventuras.
 
-##### Descripción de los conjuros
+### Descripción de los conjuros
 
 A continuación, ofrecemos las listas de conjuros de ilusionistas, magos, clérigos y druidas. Cada conjuro descrito viene precedido por una serie de términos que nos ofrecen información sucinta de las características del sortilegio, como el tiempo que precisaremos para su lanzamiento, duración de sus efectos, alcance, etcétera.
 
-###### Tiempo de lanzamiento (TL)
+#### Tiempo de lanzamiento (TL)
 
 La mayoría de los conjuros precisarán un asalto para su lanzamiento, aunque algunos pueden requerir más tiempo. Un hechizo que precise un asalto surte efecto durante el turno de iniciativa del lanzador.
 Por ejemplo, nuestra maga Alana se ve envuelta en un combate y ha declarado que quiere lanzar un conjuro. Obtiene un 6 en su tirada de iniciativa y actúa detrás del ogro al que se enfrenta. Alana había elegido un conjuro cuyo tiempo de lanzamiento es 1 asalto, así que, una vez le toque actuar, podrá lanzar el sortilegio, surtiendo efecto durante dicho mismo asalto. Si Alana hubiera seleccionado un conjuro que requiriera dos asaltos, el mismo se haría efectivo en el segundo asalto de Alana, según su turno de iniciativa.
 
-###### Alcance
+#### Alcance
 
 Muchos de los conjuros que veremos a continuación tienen un alcance determinado. Todos los efectos de un conjuro más allá de esa distancia, no funcionarán, tal y como viene explicado en la descripción de cada conjuro.
 Cuando usamos esta referencia, también podemos referimos al área, independientemente del alcance, donde los efectos de algunos conjuros, tanto nocivos como beneficiosos, se dejan notar de manera efectiva. Solo unos pocos conjuros emplean este tipo de referencia. Podemos decir, por tanto, que hay dos tipos de conjuros: aquellos que se lanzan contra un individuo u objeto concreto, y otros cuyos efectos se hacen notar en un área determinada, lo que se indicará siempre en la descripción de cada hechizo.
 En ocasiones, algunos conjuros requerirán una tirada de ataque a distancia, como cuando lanzamos un rayo a un enemigo. En otros casos, deberemos realizar una tirada de ataque de toque, donde siguiendo lo indicado en el punto sobre ataque sin armas, no deberemos tener en consideración la armadura del contrincante.
 
-###### Componentes
+#### Componentes
 
 En este apartado se especifica si para lanzar el conjuro es necesario articular las manos, componente somático (S) y/o pronunciar palabras, componente verbal (V).
 
-###### Duración
+#### Duración
 
 Casi todos los conjuros poseen una duración determinada. Una vez concluido el tiempo –indicado en el apartado de duración de cada conjuro– los efectos del conjuro terminarán de manera automática.
 
@@ -71,14 +71,14 @@ Casi todos los conjuros poseen una duración determinada. Una vez concluido el t
 |  | Santuario | Restablecimiento menor | Quitar maldición/lanzar<br>maldición | Recado |
 |  | Soportar los elementos | Silencio | Revivir a los muertos | Restablecimiento |
 
-###### Tirada de salvación (TS)
+#### Tirada de salvación (TS)
 
 Los efectos de algunos conjuros pueden ser evitados o mitigados si tenemos éxito en una tirada de salvación, lo que se indicará en este apartado. Según lo que se especifique, los efectos del conjuro pueden tener diversa consideración:
 • Niega: esto quiere decir que una tirada satisfactoria de salvación niega los efectos del conjuro completamente.
 • Mitad: significa que con una tirada de salvación con éxito, el daño producido por el conjuro será reducido a la mitad, redondeando por abajo.
 • No: poco podremos hacer en estos casos, ya que no está permitida una tirada de salvación o no tiene sentido su aplicación.
 
-###### Resistencia a conjuros (RC)
+#### Resistencia a conjuros (RC)
 
 La gran mayoría de los seres posee una resistencia natural a los efectos de determinados conjuros. Básicamente, se comporta como una clase de armadura (CA), pero contra ataques mágicos. Si la criatura no incluye en su perfil una RC específica, se debe asumir un valor mínimo de 1.
 Si un conjuro indica que resulta factible resistir sus efectos, el lanzador del hechizo debe tirar un d20. El conjuro solo tendrá efecto si el resultado de la tirada es igual o mayor que la RC del objetivo. La resistencia a conjuros se aplica incluso si el conjuro lanzado permite al blanco realizar una tirada de salvación, y debería resolverse antes que cualquier otra tirada. En cualquier caso, la resistencia a conjuros solo debe aplicarse cuando el conjuro se lanza sobre un blanco que desea resistirse. Si la criatura no desea resistirse o se topa con un conjuro activo lanzado anteriormente, la resistencia a conjuros no se aplica.
@@ -99,7 +99,7 @@ Desplazamiento de plano Encontrar el camino/ perder el camino Palabra sagrada/im
 
 Visión verdadera
 
-###### Conjuros de druida por nivel
+#### Conjuros de druida por nivel
 
 Nivel 0 (Trucos) Nivel 1 Nivel 2 Nivel 3 Nivel 4
 Crear agua Alarma Animal mensajero Crecimiento vegetal/ decrecimiento vegetal Caparazón antivegetal
@@ -134,7 +134,7 @@ Nivel 5 Nivel 6 Nivel 7 Nivel 8 Nivel 9
 
 Transmutar barro y roca
 
-###### Conjuros de ilusionista por nivel
+#### Conjuros de ilusionista por nivel
 
 Nivel 0 (Trucos) Nivel 1 Nivel 2 Nivel 3 Nivel 4
 
@@ -188,7 +188,7 @@ Encubrir Despistar Locura Encontrar el camino/ perder el camino Mano apresadora 
 
 Visión verdadera
 
-###### Conjuros de mago por nivel
+#### Conjuros de mago por nivel
 
 Nivel 0 (Trucos) Nivel 1 Nivel 2 Nivel 3 Nivel 4
 
@@ -247,17 +247,17 @@ Invocar elemental Geas Escudriñamiento mayor Hechizar a las masas Disipación m
 
 Vínculo telepático
 
-##### Conjuros por
+### Conjuros por
 
-##### orden alfabético
+### Orden alfabético
 
 A
 
-###### Abrir/cerrar (mago nivel 0)
+#### Abrir/cerrar (mago nivel 0)
 
-###### TL: 1 Alcance: 8 metros Componentes: V y S
+#### TL: 1 Alcance: 8 metros Componentes: V y S
 
-| duraCión: - ts: no |  | rC: no |
+| DuraCión: - ts: no |  | rC: no |
 | --- | --- | --- |
 | El conjurador podrá abrir una<br>normalmente. La versión invers<br>to por medios mundanos, por e<br>una puerta con cerradura.<br>Acelerar/ralentizar (<br>tl: 1 AlCAnCe: 15 | puerta o reci<br>a permite cerr<br>jemplo, echan<br>mago nivel 3<br>metros CoMp | piente<br>ar un<br>do la<br>)<br>onente |
 | duraCión: 1 asalto/nivel ts: CON | niega | rC: sí |
@@ -268,24 +268,24 @@ A
 
 El lanzador puede alterar la apariencia, atuendo y equipo de una criatura por cada dos niveles de experiencia. Las criaturas afectadas deben mantener sus formas básicas (humanoide, cuadrúpedo, etc.), pero pueden parecer hasta 30 centímetros más altas o bajas, así como modificar su complexión hasta en un 50%. La ilusión es solo visual, sin incluir posibles habilidades especiales o de clase de la nueva apariencia. Los cambios en el equipo también serán solo a nivel visual, por ejemplo: una armadura disfrazada de ropa seguirá crujiendo y tintineando, y cualquiera que la toque la sentirá como lo que es. Las criaturas afectadas pueden separarse. La ilusión se mantiene activa en todas ellas hasta que el hechizo expira, una criatura afectada muere o cualquier ser que interactúe con alguna de ellas supere una tirada de salvación de INT.
 
-###### Agrandar/empequeñecer (mago nivel 1)
+#### Agrandar/empequeñecer (mago nivel 1)
 
 Alcance: 15 metros o toque Componentes: V y S
 
-###### TL: 1
+#### TL: 1
 
-| duraCión: 1 turno/nivel ts: CON niega |  | rC: sí |
+| DuraCión: 1 turno/nivel ts: CON niega |  | rC: sí |
 | --- | --- | --- |
 | El conjurador puede lanzar este hec<br>tura u objeto. Si el blanco no supera<br>de CON, su tamaño y su peso se ve<br>disminuidos inmediatamente hasta u<br>lanzador, a elección de este. Por el con<br>tirada de salvación, el conjuro no tie<br>crece o decrece de manera proporciona<br>y peso; además, todo el equipo que p<br>se incrementa en la misma proporció<br>puede superar un tamaño mayor al 50<br>Para lanzar este conjuro el objetivo ha de<br>ce visual del mago. Si en el lugar donde s<br>no existiera espacio suficiente para alcan<br>por el conjurador, el objetivo crecerá lo<br>Todas las características físicas del objet<br>agrandarse, pero no las mágicas, la clase<br>las tiradas de ataque, que serán las de la<br>juro es reversible, y puede reducir con las<br>que agrandar. Además, cualquiera de el<br>otro, es decir, un objetivo reducido que<br>conjuro de agrandar volverá a su tamaño<br>tente para reducir es hasta el 90% del t<br>mucho, el objetivo tendrá un 10% de su<br>Alarido ensordecedor (mago<br>tl: 1 AlCAnCe: ver texto | hizo con<br>la tirada<br>rán incr<br>n 10%<br>trario, s<br>ne efecto<br>l a su alt<br>orte en e<br>n. Sin em<br>% del or<br>estar den<br>e encuen<br>zar el ta<br>máximo<br>ivo se ve<br>de arma<br>criatura b<br>mismas<br>los sirve<br>se vea afe<br>normal.<br>amaño o<br>tamaño<br>nivel 4<br>CoMpo | tra una cria-<br>de salvación<br>ementados o<br>por nivel del<br>i se supera la<br>. El objetivo<br>ura, anchura<br>se momento<br>bargo, no se<br>iginal.<br>tro del alcan-<br>tra el objetivo<br>maño deseado<br>posible.<br>n afectadas al<br>dura (CA), ni<br>ase. Este con-<br>características<br>para negar al<br>ctado por un<br>El límite exis-<br>riginal; como<br>original.<br>)<br>nentes: V y S |
 | duraCión: instantáneo ts: ver texto |  | rC: sí |
 
 El mago es capaz de proferir un alarido mágico ensordecedor, que se expandirá desde su boca en forma de cono con un alcance efectivo de unos 20 metros. Esta onda sónica causará 2d6 de daño a toda criatura presente en el área afectada. Adicionalmente, todo aquel que falle una tirada de CON quedará ensordecido por un número de asaltos equivalente al total de puntos de daño recibidos.
 
-###### Alarma (druida nivel 1)
+#### Alarma (druida nivel 1)
 
-###### TL: 1 Alcance: 15 metros Componentes: V y S
+#### TL: 1 Alcance: 15 metros Componentes: V y S
 
-| duraCión: 2 hora | s/nivel | ts: no | r |
+| DuraCión: 2 hora | s/nivel | ts: no | r |
 | --- | --- | --- | --- |
 | El lanzador p<br>guarde un áre<br>vez que alguie<br>comunicarse<br>bien emitir u<br>nora, será perf<br>El lanzador di<br>transmitir a su<br>de mando al e<br>Aliado ma<br>tl: 1 | uede con<br>a de 15<br>n penet<br>mentalm<br>n sonido<br>ectamen<br>spondrá<br>s comp<br>ntrar en<br>yor d | vocar a un p<br>metros de rad<br>re en el área,<br>ente con el<br>, según el an<br>te audible p<br>de una pala<br>añeros, si esto<br>el área la ala<br>e los pla<br>AlCAnCe: 15 me | equeño anim<br>io como má<br>el animal p<br>druida para<br>imal. Si la al<br>or todos dent<br>bra de mando<br>s pronuncia<br>rma no salta<br>nos (clérigo<br>tros CoMpon |
 | duraCión: ver | texto | ts: ver texto | rC: |
@@ -294,11 +294,11 @@ El mago es capaz de proferir un alarido mágico ensordecedor, que se expandirá 
 
 El lanzador adopta la apariencia de un dragón que lanza su terrible aliento sobre una víctima a no más de 50 metros. Si la víctima falla su salvación de INT, sufre 5d6 puntos de daño, no sufriendo daño en caso contrario. La ilusión desaparece inmediatamente tras el ataque.
 
-###### Alterar atributo (mago nivel 2)
+#### Alterar atributo (mago nivel 2)
 
-###### TL: 1 Alcance: toque Componentes: V y S
+#### TL: 1 Alcance: toque Componentes: V y S
 
-| duraCión: 1 hora/nivel ts: CO | N niega | r | C: sí |
+| DuraCión: 1 hora/nivel ts: CO | N niega | r | C: sí |
 | --- | --- | --- | --- |
 | El lanzador es capaz de aumen<br>cualquiera de las seis caracter<br>Alterar el yo (ilusionis<br>tl: 1 AlCAnCe | tar o dismin<br>ísticas básica<br>ta nivel 2)<br>: personal C | uir en<br>s de u<br>oMpon | 1d4 puntos<br>na criatura.<br>entes: V y S |
 | duraCión: 10 min/nivel ts | : no | r | C: no |
@@ -311,19 +311,19 @@ El lanzador adopta la apariencia de un dragón que lanza su terrible aliento sob
 
 A través de este conjuro, el lanzador establece desde un objeto o punto concreto, en un área de efecto de 20 metros de radio, unas emanaciones que afectarán a las criaturas que pasen por el área afectada en función de la naturaleza de las mismas. El lanzador decidirá a qué tipo de criaturas afectará el conjuro, por ejemplo, a humanos, a criaturas trasgoides, dragones, vampiros, etc. Una vez decidido el tipo de criatura, el lanzador también debe escoger el efecto que quiere entre los dos siguientes:
 
-###### Antipatía:
+#### Antipatía:
 
 Si elige esta opción y pasa por el área de efecto una criatura del tipo seleccionado, sentirá que debe abandonar inmediatamente el lugar o no tocar el objeto afectado. La criatura tiene derecho a una tirada de salvación de CAR; si la supera, podrá tocar el objeto o pasar por el lugar, pero sufrirá la pérdida de un punto de destreza (DES) por asalto mientras permanezca en la zona. Una vez que salga de la misma, recuperará los puntos de destreza perdidos; por el contrario, si falla la tirada de salvación, se verá obligado a abandonar la zona inmediatamente.
 
-###### Simpatía:
+#### Simpatía:
 
 Este efecto es opuesto al anterior, la criatura afectada sentirá un irresistible deseo de coger el objeto o permanecer en la zona. Si falla la tirada de salvación, la criatura se negará a abandonar la zona o soltar el objeto hasta que expire el mismo; si la supera, tendrá que repetir la tirada una vez por cada dos turnos que permanezca dentro del área de efecto.
 
-###### Apariencia de dragón (ilusionista nivel 1)
+#### Apariencia de dragón (ilusionista nivel 1)
 
-###### TL: 1 Alcance: 8 metros Componentes: V y S
+#### TL: 1 Alcance: 8 metros Componentes: V y S
 
-| duraCión: instantáneo ts: INT nieg | a |
+| DuraCión: instantáneo ts: INT nieg | a |
 | --- | --- |
 | El lanzador adopta la apariencia de<br>su aliento a la víctima. La criatura<br>estar dentro del alcance del conju<br>tirada de salvación de INT para da<br>reacción de la víctima ante el ataq<br>Narrador, aunque lo habitual es qu<br>perdiendo la acción que quisiera ll<br>Apertura/cerradura (m<br>TL: 1 Alcance: 15 me | un dragón q<br>objetivo del<br>ro y tiene de<br>rse cuenta de<br>ue queda a di<br>e trate de po<br>evar a cabo e<br>ago nivel 2)<br>tros Compo |
 | duraCión: permanente TS: no | R |
@@ -332,11 +332,11 @@ Este efecto es opuesto al anterior, la criatura afectada sentirá un irresistibl
 
 Cuando el lanzador use este conjuro, debe tener éxito en un ataque sin armas y tocar a la criatura elegida. Esta quedará inmediatamente paralizada, en un estado de animación suspendida, en el interior de una esfera ubicada en otra dimensión. La víctima no sufrirá los efectos del paso del tiempo, y permanecerá encerrada hasta que se lance un conjuro de liberar (reverso de aprisionar) en el mismo lugar donde tuvo lugar el aprisionamiento. Ni siquiera un conjuro de Deseo puede liberar a una criatura así confinada, aunque sí revelará su condición. A discreción del Narrador, es posible que el lanzador necesite conocer el nombre de la criatura que se quiere aprisionar para que el conjuro tenga efecto.
 
-###### Arma espiritual (clérigo nivel 2)
+#### Arma espiritual (clérigo nivel 2)
 
-###### TL: 1 Alcance: 15 metros Componentes: V y S
+#### TL: 1 Alcance: 15 metros Componentes: V y S
 
-| duraCión: 1 asalto/n | ivel | ts: no |  |  | rC: no |
+| DuraCión: 1 asalto/n | ivel | ts: no |  |  | rC: no |
 | --- | --- | --- | --- | --- | --- |
 | El lanzador con<br>que puede move<br>trincantes, provo<br>deberá tener éxit<br>como si de un at<br>arma espiritual e<br>Armadura i<br>tl: 1 | voca<br>r tel<br>cand<br>o en<br>aque<br>s co<br>luso | un arma c<br>epáticamen<br>o 1d8 pun<br>una tirada<br>cuerpo a c<br>nsiderada c<br>ria (ilusi<br>AlCAnCe: t | ompue<br>te par<br>tos de<br>de ata<br>uerpo<br>omo u<br>onista<br>oque | sta de e<br>a golpe<br>daño.<br>que para<br>norma<br>n arma<br>nivel<br>CoMp | nergía divina<br>ar a sus con-<br>El conjurador<br>causar daño,<br>l se tratara. El<br>mágica.<br>1)<br>onentes: V y S |
 | duraCión: 1 min/n | ivel | ts: INT n | iega |  | rC: sí |
@@ -345,11 +345,11 @@ Cuando el lanzador use este conjuro, debe tener éxito en un ataque sin armas y 
 
 El lanzador proyecta en la mente del blanco la imagen de la criatura más horrible que la víctima se pueda imaginar. Solo el lanzador y el blanco pueden ver a la criatura invocada, que simulará atacar a la víctima. Si el blanco falla una tirada de salvación de INT, morirá instantáneamente a causa del miedo y el daño psíquico sufridos. Una tirada de salvación exitosa resulta en 4d6 puntos de daño. Este conjuro no puede atravesar ciertas protecciones mágicas, como una esfera invulnerable o un área de antimagia.
 
-###### Asesino fantasma de masas (ilusionista nivel 9)
+#### Asesino fantasma de masas (ilusionista nivel 9)
 
-###### TL: 1 Alcance: 50 metros Componentes: V y S
+#### TL: 1 Alcance: 50 metros Componentes: V y S
 
-| duraCión: ver texto | ts: v | er texto r |
+| DuraCión: ver texto | ts: v | er texto r |
 | --- | --- | --- |
 | Este conjuro afecta<br>jurador en un área<br>la mente de los bla<br>que la víctima se pu<br>de los blancos pued<br>atacar a la víctima.<br>de INT, morirá inst<br>psíquico sufridos.<br>8d6 puntos de dañ<br>blanco no podrá ll<br>no puede atravesar<br>esfera invulnerable<br>Atar alma (cl<br>tl: 1 | a todas las<br>de 8 por 8<br>ncos la im<br>eda imagi<br>en ver a la<br>Si el blan<br>antáneam<br>Una tirada<br>o y quedar<br>evar a cabo<br>ciertas pr<br>o un área<br>érigo niv<br>AlCAn | criaturas designada<br>metros. El lanzador<br>agen de la criatura<br>nar. Solo el lanzador<br>criatura invocada, q<br>co falla una tirada<br>ente a causa del mie<br>de salvación exitos<br>aturdido durante<br>ninguna acción). E<br>otecciones mágicas<br>de antimagia.<br>el 9)<br>Ce: toque CoMpon |
 | duraCión: permanente | ts | : no r |
@@ -362,11 +362,11 @@ El lanzador proyecta en la mente del blanco la imagen de la criatura más horrib
 
 Este conjuro provocará que la esencia vital de una criatura determinada a no más de 15 metros del lanzador, incluyendo su cuerpo material, quede atrapada en el interior de una gema. Esta piedra preciosa contenedora retendrá el alma indefinidamente a no ser que la gema se rompa, en cuyo caso, el alma quedará libre y el cuerpo físico volverá a su estado natural. Para lanzar este conjuro es preciso disponer de una gema valorada en, al menos, 1.000 monedas de oro por cada dado de golpe que posea la criatura que se quiera atrapar. La criatura tendrá derecho a una tirada de salvación de CAR para evitar el efecto de este conjuro, en cuyo caso, la gema se resquebrajará para romperse en muchos trozos pequeños. Una criatura atrapada no podrá ser liberada de ninguna manera que no sea por deseo expreso del lanzador o rompiendo la gema, ni siquiera un conjuro de deseo puede realizar tal proeza.
 
-###### Aturdir (ilusionista nivel 1)
+#### Aturdir (ilusionista nivel 1)
 
-###### TL: 1 Alcance: 8 metros Componentes: V y S
+#### TL: 1 Alcance: 8 metros Componentes: V y S
 
-| duraCión: 1 asa | lto ts: IN | T niega | rC: sí |
+| DuraCión: 1 asa | lto ts: IN | T niega | rC: sí |
 | --- | --- | --- | --- |
 | Este conjuro n<br>con 4 DG o m<br>duración del he<br>tirada de salvaci<br>de 5 DG o más<br>Augurio (clé<br>tl: 1 | ubla la mente<br>enos, evitando<br>chizo. Dicha<br>ón de INT par<br>no se ven afec<br>rigo nivel 2)<br>AlCAnCe: | de una criatur<br>que pueda actu<br>criatura tendrá d<br>a evitar el efecto<br>tadas.<br>ver texto CoMp | a humanoide<br>ar durante la<br>erecho a una<br>. Las criaturas<br>onentes: V y S |
 | duraCión: ver te | xto ts: | no | rC: no |
@@ -377,11 +377,11 @@ Este conjuro provocará que la esencia vital de una criatura determinada a no m�
 
 El lanzador dota a un objeto de un aura mágica invisible. Esta aura confunde a los conjuros de detección habituales como detectar magia, haciendo que el objeto parezca mágico. Sin embargo, otros conjuros como identificar revelarán que el aura es falsa. El objeto elegido no puede sobrepasar los 2,5 kilos por nivel del lanzador.
 
-###### Aura sagrada/impía (clérigo nivel 8)
+#### Aura sagrada/impía (clérigo nivel 8)
 
-###### TL: 1 Alcance: ver texto Componentes: V y S
+#### TL: 1 Alcance: ver texto Componentes: V y S
 
-| duraCión: 1 asa | lto/nivel | ts: ver tex | to |
+| DuraCión: 1 asa | lto/nivel | ts: ver tex | to |
 | --- | --- | --- | --- |
 | El lanzador<br>que un aura<br>criatura por<br>tando sus de<br>efectos de co<br>gidas ganan<br>de 16 contra<br>aura sagrada<br>dominación<br>cualquier cri<br>protegidos se<br>lizar una tira<br>durante 1d6<br>mismos efect<br>Auxilio (c<br>tl: 1 | provocar<br>mágica e<br>nivel den<br>fensas an<br>njuros.<br>un +4 a<br>conjuro<br>también<br>y contro<br>atura ma<br>rá cegad<br>da de sal<br>asaltos.<br>os pero<br>lérigo ni | á por medi<br>nvuelva a t<br>tro de un r<br>te cualquier<br>De este mo<br>sus CA y<br>s lanzados<br>impide qu<br>l mental su<br>ligna que co<br>a por una p<br>vación de I<br>El reverso d<br>contra criat<br>vel 7, mag<br>AlCAnCe: to | o de este<br>odas las cri<br>adio de 6<br>ataque, inc<br>do, las cria<br>una resisten<br>por criatur<br>e conjuros<br>rtan efecto.<br>nsiga golpe<br>oderosa lu<br>NT para no<br>e este conju<br>uras del bie<br>o nivel 9)<br>que CoM |
 | duraCión: ve | r texto | ts: no |  |
@@ -393,22 +393,22 @@ El lanzador dota a un objeto de un aura mágica invisible. Esta aura confunde a 
 Gracias a este conjuro, el lanzador puede transformar un bastón en una criatura animada tipo planta similar a un treant (árbol viviente), con sus mismas características, salvo que no podrá convocar a otras criaturas del bosque o animar a otros árboles, como hacen los verdaderos treants. Esta criatura combatirá como un treant, y obedecerá todas las órdenes del druida hasta que sea destruido o se llegue a la duración máxima del conjuro.
 mando. El objeto solo funcionará con esa criatura, que será la única transportada junto al equipo que lleve encima en ese momento, no pudiendo transportar a ninguna otra criatura.
 
-###### Auxilio divino (clérigo nivel 2)
+#### Auxilio divino (clérigo nivel 2)
 
-###### TL: 1 Alcance: toque Componentes: V y S
+#### TL: 1 Alcance: toque Componentes: V y S
 
-| duraCión: 1 | min/nivel | ts: n | o | r | C: sí |
+| DuraCión: 1 | min/nivel | ts: n | o | r | C: sí |
 | --- | --- | --- | --- | --- | --- |
 | Gracias al p<br>de reconfort<br>su ánimo. El<br>rales, un mo<br>dificador de<br>Ayuda p<br>tl: 1 | oder de<br>ar a una<br>blanco<br>dificado<br>+1 a sus<br>rovid | este hechizo<br>criatura, ele<br>afectado ga<br>r de +1 a su<br>tiradas de s<br>encial (il<br>AlCAnCe: 6 | divino<br>vando s<br>na 1d8 p<br>s tirada<br>alvación<br>usionist<br>0 metros | , el lanza<br>u moral y<br>untos de<br>s de ataqu<br>contra m<br>a nivel<br>CoMpon | dor es capaz<br>reforzando<br>vida tempo-<br>e, y un mo-<br>iedo (CAR).<br>3)<br>entes: V y S |
 | duraCión: 1 | min/nivel | ts: INT | niega | r | C: sí |
 
 El lanzador invoca la imagen de una criatura humanoide que sostiene en sus manos exactamente lo que necesita el conjurador. Si el lanzador está en un pozo, la ilusión aparece con una escala de cuerda. Si el lanzador está herido, la ilusión aparece con ungüentos que curan hasta dos PG. Si el lanzador lucha por su vida, la ilusión aparece con un escudo y actúa como otro objetivo contra el que combatir. Aunque en situaciones como esta última, los enemigos tienen derecho a una tirada de salvación de INT para darse cuenta del engaño. Este conjuro no puede crear objetos mágicos.
 
-###### Bendecir/maldecir (clérigo nivel 1)
+#### Bendecir/maldecir (clérigo nivel 1)
 
-###### TL: 1 Alcance: 15 metros Componentes: V y S
+#### TL: 1 Alcance: 15 metros Componentes: V y S
 
-| duraCión: 1 min/nivel | ts: no | r |
+| DuraCión: 1 min/nivel | ts: no | r |
 | --- | --- | --- |
 | El receptor del conjuro, y<br>y dentro de un área de 15<br>bonus de +1 en las tiradas<br>tiradas de salvación contra<br>ro esté activo. El reverso, m<br>de -1 a las tiradas de ataqu<br>miedo (CAR).<br>bendecir agua/mal<br>tl: 1 turno AlCA | todos l<br>metros<br>de ataq<br>miedo (<br>aldecir,<br>e y tira<br>decir<br>nCe: toqu | os compañe<br>de diámetro<br>ue y daño y<br>CAR) mient<br>impone un<br>das de salva<br>agua (clé<br>e CoMpon |
 | duraCión: permanente | ts: no | r |
@@ -419,15 +419,15 @@ El lanzador invoca la imagen de una criatura humanoide que sostiene en sus manos
 
 El lanzador señala con su mano al objetivo, al tiempo que se forma una bola de fuego del tamaño de una nuez en la punta de su dedo índice. Esta pequeña esfera incandescente vuela velozmente hasta el blanco, siempre que este se encuentre dentro de su alcance, estallando al impactar en una gran bola de fuego. La explosión produce 1d6 puntos de daño por nivel del lanzador a todos los objetos y criaturas en un radio de 10 metros. Las víctimas del conjuro tienen derecho a una tirada de salvación de DES que, si resulta exitosa, reducirá el daño producido a la mitad.
 
-###### Bola de fuego de explosión retardada
+#### Bola de fuego de explosión retardada
 
-(mago nivel 7)
+(Mago nivel 7)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance: 150 metros Componentes: V y S
+#### Alcance: 150 metros Componentes: V y S
 
-| duraCión: hasta | 5 asaltos t | s: DES mitad |  | rC: sí |
+| DuraCión: hasta | 5 asaltos t | s: DES mitad |  | rC: sí |
 | --- | --- | --- | --- | --- |
 | Este conjuro<br>daño es 1d6+<br>el momento<br>intervalo de<br>borrar (i<br>tl: 1 | es similar<br>1 por nivel<br>en que deto<br>5 asaltos de<br>lusionista<br>15 | al de bola d<br>del lanzador<br>nará la bola<br>sde que el hec<br>nivel 1, mago<br>AlCAnCe:<br>metros o toque | e fuego<br>y el mag<br>de fuego<br>hizo es<br>nivel 1)<br>CoM | , salvo que el<br>o puede elegir<br>dentro de un<br>lanzado.<br>ponentes: V y S |
 | duraCión: ve | r texto | ts: no |  | rC: no |
@@ -439,11 +439,11 @@ El lanzador señala con su mano al objetivo, al tiempo que se forma una bola de 
 El druida puede encantar un puñado de bayas o frutos de cualquier tipo, que podrán alimentar a un individuo como si hubiera ingerido una comida completa. Además, cada baya permite recuperar 1 punto de golpe. Solo se pueden comer 8 bayas cada 8 horas.
 C
 
-###### Caída de pluma (mago nivel 1)
+#### Caída de pluma (mago nivel 1)
 
-###### TL: 1 Alcance: 3 metros Componentes: V
+#### TL: 1 Alcance: 3 metros Componentes: V
 
-| duraCión: 1 asal | to/nivel | ts: no rC |
+| DuraCión: 1 asal | to/nivel | ts: no rC |
 | --- | --- | --- |
 | En el momen<br>turas y objet<br>conjuro, un c<br>de 100 kg m<br>la masa de u<br>partir de ese<br>metro por seg<br>vez terminada<br>volverán a te<br>funciona con<br>Calentar<br>tl: 1 | to en que se<br>os que se e<br>ubo de 3 me<br>ás 100 kg p<br>na pluma, e<br>momento su<br>undo evitan<br>la duración<br>ner su índice<br>criaturas y<br>metal/e<br>AlCA | lanza este conjuro tod<br>ncuentren dentro del a<br>tros de lado y un máxim<br>or nivel del lanzador,<br>s decir, si están en caí<br>velocidad descenderá ha<br>do cualquier daño por c<br>del conjuro, los objetos<br>de caída normal. El co<br>objetos en caída libre.<br>nfriar metal (druid<br>nCe: 15 metros CoMpone |
 | duraCión: 7 a | saltos | ts: no rC |
@@ -455,11 +455,11 @@ C
 Este conjuro permite al lanzador cambiar su forma por la de cualquier cosa viva que conozca una vez por asalto, excepto por un dios o su avatar. Una vez transformado, el lanzador asume todas las características de la criatura en la que se transforma, excepto la resistencia a la magia y las habilidades mágicas innatas (la capacidad de petrificar de un basilisco por ejemplo). El lanzador retiene la inteligencia de su forma anterior, pudiendo lanzar sus conjuros de forma normal, siempre que la criatura tenga la capacidad de hablar y brazos para realizar los movimientos necesarios que desencadenan un conjuro. El lanzador puede cambiar tantas veces como desee de forma mientras dure el hechizo, aunque solo una vez en un mismo asalto. Cualquier criatura en la que se transforme el conjurador mantendrá los puntos de golpe que tuviera el lanzador en el momento del cambio.
 No es necesaria ningún tipo de tirada, de característica o de salvación, para realizar las transformaciones, pues se producen de manera automática. Este conjuro no se puede lanzar sobre ninguna criatura, únicamente tiene efecto sobre el propio lanzador.
 
-###### Cambiar el yo (ilusionista nivel 1, mago nivel 1)
+#### Cambiar el yo (ilusionista nivel 1, mago nivel 1)
 
-###### TL: 1 Alcance: toque Componentes: V y S
+#### TL: 1 Alcance: toque Componentes: V y S
 
-| duraCión: 10 m | in/nivel | ts: INT niega | rC: | no |
+| DuraCión: 10 m | in/nivel | ts: INT niega | rC: | no |
 | --- | --- | --- | --- | --- |
 | Mediante este<br>aspecto, inclu<br>mento. El con<br>tura bípeda d<br>cuerpo, aunq<br>tros. Además,<br>esta alteración<br>no, que tenga<br>lanzador una<br>comparación<br>las criaturas<br>salvación (IN<br>Caminar<br>tl: 1 | conjuro e<br>yendo la r<br>jurador p<br>e aspecto<br>ue el tama<br>el lanzado<br>no le co<br>el tipo de<br>vez transf<br>a como d<br>que lo ve<br>T) para pe<br>por las | l lanzador puede<br>opa y el equipo q<br>uede transformars<br>humanoide que<br>ño no puede varia<br>r mantendrá sus<br>ncede ninguna pr<br>criatura en la que<br>ormado actúa de<br>ebe actuar según<br>an tienen derech<br>rcatarse del enga<br>aguas/aire (<br>AlCAnCe: toque | cambiar<br>ue lleve e<br>e en cual<br>desee, alt<br>r en más<br>caracterís<br>opiedad,<br>se transfo<br>manera e<br>su nuev<br>o a una<br>ño.<br>clérigo n<br>CoMponen | su propio<br>n ese mo-<br>quier cria-<br>erando su<br>de 0,5 me-<br>ticas, pues<br>especial o<br>rme. Si el<br>xtraña en<br>o aspecto,<br>tirada de<br>ivel 4)<br>tes: V y S |
 | duraCión: 10 m | in/nivel | ts: no | rC: | no |
@@ -468,11 +468,11 @@ No es necesaria ningún tipo de tirada, de característica o de salvación, para
 
 Un manto de sombras rojas envuelve al conjurador y se mueve con él. Las criaturas que toquen de forma directa la capa, ya sea con su cuerpo o a través de armas y utensilios sujetados por ellas, y que fallen una tirada de salvación de INT, recibirán 15 puntos de daño. Cada nuevo toque implica una nueva tirada de salvación. La capa protectora no impone ninguna restricción ni impedimento al lanzador.
 
-###### Caparazón antivegetal (druida nivel 4)
+#### Caparazón antivegetal (druida nivel 4)
 
-###### TL: 1 Alcance: personal Componentes: V y S
+#### TL: 1 Alcance: personal Componentes: V y S
 
-| duraCión: 1 min/nivel | ts: no |  |
+| DuraCión: 1 min/nivel | ts: no |  |
 | --- | --- | --- |
 | Este potente sortilegio<br>radio alrededor del lan<br>criatura tipo planta o pl<br>Caparazón ant<br>tl: 1 | crea un escudo<br>zador que evit<br>antas animada<br>ivida (druid<br>AlCAnCe: persona | mágico d<br>a que cual<br>s penetren<br>a nivel 6<br>l CoMpo |
 | duraCión: 1 min/nivel | ts: no |  |
@@ -487,11 +487,11 @@ Un manto de sombras rojas envuelve al conjurador y se mueve con él. Las criatur
 
 Este sortilegio permite al lanzador concentrarse en algún lugar y escuchar o ver (a elección del conjurador) casi como si el aventurero estuviera allí mismo. La distancia no es un factor, pero el lanzador debe tener cierta familiaridad con el sitio designado. Si el lugar está protegido por magia, como puede ser un hechizo de oscuridad (o silencio), el lanzador no podrá ver nada (u oír) mediante este conjuro. Si la oscuridad fuera natural, el conjurador podrá ver en un radio de 3 metros desde el punto exacto designado para el lanzamiento del hechizo. El plomo o las protecciones mágicas bloquean este hechizo, aunque el lanzador sabrá que su conjuro ha sido bloqueado. Clarividencia se puede dispersar mediante el hechizo disipar magia, y solo se puede utilizar sobre una localización que exista en el mismo plano de existencia que ocupe el lanzador.
 
-###### Clonar (ilusionista nivel 9, mago nivel 8)
+#### Clonar (ilusionista nivel 9, mago nivel 8)
 
-###### TL: 10 min Alcance: toque Componentes: V y S
+#### TL: 10 min Alcance: toque Componentes: V y S
 
-| duraCión: permanen | te ts: no | r | C: no |
+| DuraCión: permanen | te ts: no | r | C: no |
 | --- | --- | --- | --- |
 | Este hechizo crea<br>determinada. Para<br>un pedazo de carn<br>trozos de uña, ca<br>de carne deberá<br>Una vez el conjur<br>lentamente por e<br>do, tranquilo y fr<br>y despierte, si la<br>criatura original<br>mes. En este plaz<br>irrefrenable impu<br>alguna manera re<br>lidades de que, bi<br>cordura. Si esto o<br>enloquecerá la cri<br>5% ambos. Tras e<br>bado con el otro,<br>pulsión asesina. A<br>la criatura, el clon<br>cias, recuerdos y v<br>no clonará ningu<br>Cofre secret<br>5, mago nivel 5)<br>tl: 1 hora | un duplicado,<br>crear este clon,<br>e de la criatura a<br>bellos, escamas<br>estar en un esta<br>o sea lanzado, el<br>spacio de 2d4 m<br>esco. Cuando el<br>criatura duplica<br>establecerán un<br>o de tiempo, am<br>lso que empujará<br>sultara imposible<br>en el clon o la cri<br>curre finalmente<br>atura original, en<br>sta semana, si ni<br>el lazo psíquico<br>demás de duplic<br>posee todos los<br>ivencias de la cria<br>na de las posesio<br>o de Karke<br>AlCAnCe: ver te | un clon, de u<br>el lanzador de<br>clonar (no s<br>o similares).<br>do relativam<br>duplicado se<br>eses en un lu<br>clon alcance<br>da está viva,<br>lazo psíquico<br>bas criaturas<br>a ambos a m<br>, hay un 95<br>atura clonada<br>, en un 25%<br>un 70% el c<br>nguno de los<br>se extinguirá,<br>ar el físico e<br>conocimiento<br>tura origen. E<br>nes de la criat<br>mish (ilusio<br>xto CoMpon | na criatura<br>berá poseer<br>erán válidos<br>La muestra<br>ente fresco.<br>desarrollará<br>gar adecua-<br>la madurez<br>el clon y la<br>durante 1<br>sentirán un<br>atarse. Si de<br>% de posibi-<br>, pierdan la<br>de los casos<br>lon y en un<br>dos ha aca-<br>así como la<br>intelecto de<br>s, experien-<br>ste conjuro<br>ura base.<br>nista nivel<br>entes: V y S |
 | duraCión: 60 días | ts: no | r | C: no |
@@ -500,11 +500,11 @@ Este sortilegio permite al lanzador concentrarse en algún lugar y escuchar o ve
 
 Este poderoso hechizo permitirá al lanzador controlar todas las plantas y seres animados de tipo planta en un área de 15 metros de diámetro desde el punto elegido. La fuerza de este conjuro es tal que las plantas inanimadas dentro del área de efecto podrán moverse, en la dirección indicada por el conjurador, y llevar a cabo acciones sencillas, como, por ejemplo, bloquear el paso totalmente en el área afectada a toda criatura ajena al conjurador. En cualquier caso, el grado de comunicación será muy básico.
 
-###### Comunión (clérigo nivel 5)
+#### Comunión (clérigo nivel 5)
 
-###### TL: 10 min Alcance: ver texto Componentes: V y S
+#### TL: 10 min Alcance: ver texto Componentes: V y S
 
-| duraCión: v | er texto | ts: no | r |
+| DuraCión: v | er texto | ts: no | r |
 | --- | --- | --- | --- |
 | Mediante es<br>entrar en co<br>ma sobre a<br>ser lo más<br>generalment<br>conjurador<br>de aventure<br>conjuro no<br>castigar al la<br>e interesada<br>Comunió<br>tl: 10 | te ritual<br>munión<br>suntos q<br>concisas<br>e con u<br>se le per<br>ro que le<br>está exen<br>nzador<br>frecuenc<br>n con<br>min | divino, el conju<br>con su deidad,<br>ue le inquietan.<br>posibles, ya que<br>n mero y lacónic<br>mitirá una pregun<br>otorga esta capa<br>to de peligros, pu<br>si empleara este co<br>ia.<br>la naturalez<br>AlCAnCe: ver texto | rador pue<br>inquiriend<br>Las pregu<br>los diose<br>o “sí” o u<br>ta por nive<br>cidad. El<br>es los dio<br>njuro con<br>a (druid<br>CoMpon |
 | duraCión: pe | rmanente | ts: no | r |
@@ -521,11 +521,11 @@ Este poderoso hechizo permitirá al lanzador controlar todas las plantas y seres
 
 Un cono de frío extremo sale proyectado desde la mano del lanzador para ocupar un área total de 3 metros de ancho x 15 metros de largo. Cualquier criatura tocada por el cono recibe 1d6 puntos de daño por nivel del lanzador, a menos que supere una tirada de salvación de DES, que reduce dicho daño a la mitad.
 
-###### Conocimiento de leyendas (mago nivel 6)
+#### Conocimiento de leyendas (mago nivel 6)
 
-###### TL: 1 Alcance: personal Componentes: V y S
+#### TL: 1 Alcance: personal Componentes: V y S
 
-| duraCión: ver texto ts: | no | rC: no |
+| DuraCión: ver texto ts: | no | rC: no |
 | --- | --- | --- |
 | Este conjuro permite al lanzad<br>la información legendaria de<br>lugar determinado. Cuanto má<br>persona, lugar u objeto del que<br>más probabilidades tendrá de<br>por ejemplo, tener delante el<br>nocer o haber visto a la pers<br>información. Por el contrario,<br>o se tienen pistas vagas, dific<br>obtener información detallad<br>se obtiene queda a discreción<br>En general, hay un 70% de<br>información si se conoce bien<br>de un 30% si no es así. Adem<br>bonificadores o penalizadores<br>dependiendo de lo poderoso q<br>que sea un lugar, lo antiguo d<br>Consagrar/profanar<br>tl: 3 AlCAnCe: | or obtener en s<br>cualquier perso<br>s conozca el con<br>quiere obtener<br>obtener un bu<br>objeto, estar en<br>ona facilita la<br>si solo se cono<br>ultará las prob<br>a. La informació<br>del Narrador.<br>probabilidades<br>el objeto, lugar<br>ás, el Narrador<br>de hasta un 3<br>ue sea el objeto<br>e la leyenda, etc.<br>(clérigo nivel<br>15 metros CoMp | u mente toda<br>na, objeto o<br>jurador de la<br>información,<br>en resultado;<br>el lugar o co-<br>obtención de<br>ce el nombre,<br>abilidades de<br>n exacta que<br>de conseguir<br>o criatura, y<br>puede aplicar<br>0% adicional<br>, lo conocido<br>2)<br>onentes: V y S |
 | duraCión: 2 horas/nivel ts: | no | rC: no |
@@ -534,11 +534,11 @@ Un cono de frío extremo sale proyectado desde la mano del lanzador para ocupar 
 
 Este conjuro santifica y purifica un área de 50 x 50 metros centrada en el lanzador. Toda el área reacciona como un conjuro de protección contra el mal/bien en grupo, recibiendo todas las criaturas en su interior un bonificador de +2 a su CA y a sus tiradas de salvación. Todo intento de expulsar criaturas muertas vivientes se bonifica con un +3 y toda criatura enterrada en la zona consagrada no podrá ser animada como muerto viviente. Por último, el lanzador podrá decidir proteger el área o complementarla con un conjuro de su elección, cuyos efectos serán permanentes (como disipar magia, silencio, etcétera).
 
-###### Contactar con otro plano (mago nivel 5)
+#### Contactar con otro plano (mago nivel 5)
 
-###### TL: 10 min Alcance: ver texto Componentes: V
+#### TL: 10 min Alcance: ver texto Componentes: V
 
-| duraCión:<br>1 asalto/ 2 niveles | ts: no |
+| DuraCión:<br>1 asalto/ 2 niveles | ts: no |
 | --- | --- |
 | Este conjuro permite al<br>otro plano de existencia<br>turas y poderes allí exist<br>preguntas concretas que<br>(“sí”, “no”, “tal vez”, “irr<br>contestaciones similares<br>lanzador podrá formula<br>do la posibilidad de que<br>damente falsa (el Narra<br>obtiene un 1 en el dado,<br>Controlar las ag<br>tl: 1 Al | lanzador contactar m<br>y recibir ayuda o con<br>entes. El conjurador<br>serán respondidas de<br>elevante”, “poco imp<br>, según el criterio de<br>r un total de tres pre<br>la respuesta ofrecida<br>dor debe lanzar secre<br>la respuesta ofrecida<br>uas (clérigo nivel<br>CAnCe: 120 metros CoM |
 | duraCión: 10 min/nivel | ts: no |
@@ -547,28 +547,28 @@ Este conjuro santifica y purifica un área de 50 x 50 metros centrada en el lanz
 
 El lanzador cambia las condiciones climatológicas en un área de 3 x 3 kilómetros centrada en su persona. El conjurador puede efectuar el cambio de clima tal y como desee: puede producir lluvia, nieve, despejar las nubes, etcétera. Los cambios han de ser moderados (no puede hacer nevar en un desierto), y ser consecuentes con la estación y la climatología habitual de la zona. Sin embargo, siempre podrá altarear la dirección e intensidad del viento (en el rango de calma a fuerte). Una vez establecido el clima deseado, este tomará forma gradualmente durante los siguientes 10 minutos. Las condiciones invocadas se mantendrán activas hasta que se alcance la duración máxima del conjuro o hasta que el lanzador designe unas nuevas (que tardarán nuevamente 10 minutos en manifestarse).
 
-###### Controlar los vientos (druida nivel 5)
+#### Controlar los vientos (druida nivel 5)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance:
+#### Alcance:
 
-personal Componentes: V y S | duraCión: 10 min/nivel | ts: n | o |  | rC: no |
+Personal Componentes: V y S | duraCión: 10 min/nivel | ts: n | o |  | rC: no |
 | --- | --- | --- | --- | --- |
 | El conjurador puede<br>en una esfera de 30<br>persona. Por cada tr<br>mentar o disminuir l<br>ventolina, brisa, mo<br>borrasca y huracán).<br>ción desde la que el<br>le pueden dar a este<br>dría enfocar una fue<br>sus enemigos, provo<br>por la fuerza del vie<br>salvación de FUE. O<br>de pequeño o media<br>cluso podría alterar<br>variar la dirección d<br>Controlar pla<br>tl: 1 | alterar la<br>metros d<br>es niveles<br>a fuerza d<br>derado, fu<br>También p<br>viento sop<br>conjuro, p<br>rte ráfaga<br>cando que<br>nto siemp<br>también p<br>no tamañ<br>el rumbo<br>el viento.<br>ntas (dr<br>AlCAnCe: 1 | fuerza y d<br>e diáme<br>del lanza<br>el viento<br>erte, mu<br>uede hac<br>la. Hay<br>or ejemp<br>de viento<br>estos pue<br>re que f<br>odría afe<br>o, hacién<br>de embar<br>uida niv<br>5 metros | irec<br>tro c<br>dor,<br>en u<br>y fu<br>er ca<br>much<br>lo, e<br>hur<br>dan<br>allen<br>ctar<br>dola<br>cacio<br>el 4<br>CoM | ción del viento<br>entrada en su<br>es posible au-<br>n nivel (calma,<br>erte, temporal,<br>mbiar la direc-<br>os usos que se<br>l lanzador po-<br>acanado sobre<br>ser derribados<br>una tirada de<br>embarcaciones<br>s zozobrar, in-<br>nes grandes al<br>)<br>ponentes: V y S |
 | duraCión: 1 min/nivel | ts: ver t | exto |  | rC: sí |
 
 Mediante este ritual, el lanzador podrá controlar las plantas de su alrededor (en un área de 8 x 8 metros) e incluso comunicarse con ellas a un nivel muy básico. Es incluso posible controlar y comunicarse con plantas animadas y similares, tales como hombres hongo, aunque las dotadas de cierta inteligencia tendrán derecho a una tirada de salvación de CAR para negar los efectos del conjuro.
 
-###### Convocación instantánea de Nébula
+#### Convocación instantánea de Nébula
 
-(mago nivel 7)
+(Mago nivel 7)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance:
+#### Alcance:
 
-ver texto Componentes: V | duraCión: instantáneo | ts: no |  | rC |
+Ver texto Componentes: V | duraCión: instantáneo | ts: no |  | rC |
 | --- | --- | --- | --- |
 | Mediante este conjur<br>objeto previamente d<br>ubicación. Debe trata<br>exceda los 20 kilos.<br>Convocar anim<br>tl: 1 | o, el lanz<br>esignado a<br>rse de un ú<br>al (druida<br>AlCAnCe: 15 | ador<br>su m<br>nico<br>niv<br>metros | puede con<br>ano desde<br>objeto cuy<br>el 4)<br>CoMpone |
 | duraCión: 1 asalto/nivel | ts: no |  | rC |
@@ -578,15 +578,15 @@ ver texto Componentes: V | duraCión: instantáneo | ts: no |  | rC |
 Por medio de este conjuro, el lanzador podrá convocar y dar órdenes sencillas a uno o varios seres, ya sean animales, plantas animadas o criaturas tipo planta animada. No obstante, podrá convocar o bien plantas o bien animales, y no una combinación de ambos. La suma de los DG de las criaturas convocadas no puede exceder el nivel del lanzador, que puede repartir los DG como considere oportuno. Por ejemplo, un lanzador de nivel 10 podrá convocar dos animales de 5 dados de golpe, o bien un solo animal de 10
 DG, o bien 10 plantas animadas de 1 DG cada una. El Narrador establecerá el tipo de seres que acudirán a la llamada dependiendo del entorno en el que se encuentra el lanzador.
 
-###### Convocar bestia mágica o feérica (druida
+#### Convocar bestia mágica o feérica (druida
 
-nivel 7)
+Nivel 7)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance: 15 metros Componentes: V y S
+#### Alcance: 15 metros Componentes: V y S
 
-| duraCión: 1 asalto/niv | el | ts: no r | C: no |
+| DuraCión: 1 asalto/niv | el | ts: no r | C: no |
 | --- | --- | --- | --- |
 | Este conjuro perm<br>de dados de golp<br>deben ser de nat<br>zador puede repa<br>criaturas, según s<br>elegir a la criatura<br>decidirá que criat<br>donde se encuentr<br>car o bien bestias<br>una combinación<br>Convocar el<br>tl: 10 min | ite conv<br>e igual al<br>uraleza f<br>rtir los<br>u criteri<br>específi<br>ura dete<br>e el conj<br>mágicas<br>de amb<br>ement<br>AlCA | ocar criaturas con una<br>nivel del lanzador. L<br>eérica o bestias mági<br>dados de golpe en u<br>o, aunque el lanzador<br>ca, ya que será el Narr<br>rminada aparece, segú<br>urador. El lanzador po<br>o bien criaturas feéric<br>as.<br>al (druida nivel 6)<br>nCe: 50 metros CoMpon | suma total<br>as criaturas<br>cas. El lan-<br>na o varias<br>no puede<br>ador quien<br>n la región<br>drá convo-<br>as, pero no<br>entes: V y S |
 | duraCión: 10 min/niv | el | ts: no r | C: no |
@@ -597,9 +597,9 @@ nivel 7)
 
 El conjuro funciona igual que convocar monstruos I, con la diferencia de que ninguna criatura de las convocadas podrá tener más de 6 DG.
 
-###### Convocar monstruos III (mago nivel 7)
+#### Convocar monstruos III (mago nivel 7)
 
-| duraCión:<br>10 asaltos/nivel | ts | : no |
+| DuraCión:<br>10 asaltos/nivel | ts | : no |
 | --- | --- | --- |
 | El conjuro funcio<br>la diferencia de qu<br>equivalentes al niv<br>exceda los 9 DG.<br>Creación may<br>tl: 10 min | na igual qu<br>e invocará<br>el del lanz<br>or (ilusion<br>AlCAnCe: | e convocar mo<br>a una cantidad<br>ador sin que ni<br>ista nivel 5)<br>3 metros CoM |
 | duraCión: ver texto | ts | : no |
@@ -614,11 +614,11 @@ El conjuro funciona igual que convocar monstruos I, con la diferencia de que nin
 
 Este conjuro nigromántico habilita al lanzador para crear poderosos muertos vivientes siempre que disponga del nivel adecuado: necrófagos (nivel 9), sombras (nivel 10), necrarios (nivel 12), tumularios (nivel 14) o incorpóreos (nivel 16). El conjurador podrá crear muertos vivientes de poder inferior a los listados anteriormente. Solo podrá crear una criatura de su elección, de la lista referida antes. La criatura así creada no estará bajo el control del lanzador, que deberá realizar una tirada por su habilidad de expulsión/control para dominar a la misma o utilizar otro recurso parecido. Este conjuro solo se puede llevar a cabo durante la noche.
 
-###### Crear muerto viviente mayor (clérigo nivel 8)
+#### Crear muerto viviente mayor (clérigo nivel 8)
 
-###### TL: 1 hora Alcance:  15 metros Componentes: V y S
+#### TL: 1 hora Alcance:  15 metros Componentes: V y S
 
-| duraCión: permanente | ts: no | rC: no |
+| DuraCión: permanente | ts: no | rC: no |
 | --- | --- | --- |
 | Este conjuro permit<br>vivientes, dependien<br>tro (nivel 15), fanta<br>conjurador podrá cr<br>a los listados anteri<br>solo se podrá crear<br>criatura así creada n<br>que deberá usar su<br>minar a la misma o<br>conjuro solo se pue<br>Crecimiento a<br>tl: 1 | irá al lanzador crear p<br>do de su nivel: momi<br>sma (nivel 17) o vam<br>ear muertos vivientes<br>ormente. Por cada us<br>una criatura a elecció<br>o estará bajo el contr<br>habilidad de expulsió<br>hacer uso de otro m<br>de llevar a cabo duran<br>nimal (druida nivel<br>AlCAnCe: 50 metros | oderosos muertos<br>a (nivel 13), espec-<br>piro (nivel 19). El<br>de poder inferior<br>o de este conjuro,<br>n del lanzador. La<br>ol del conjurador,<br>n/control para do-<br>edio similar. Este<br>te la noche.<br>5)<br>CoMponentes: V y S |
 | duraCión: 1 min/nivel | ts: no | rC: sí |
@@ -631,19 +631,19 @@ El lanzador puede curar la mayoría de las enfermedades tocando a la criatura af
 Este conjuro es reversible, y puede ser empleado para contagiar una enfermedad. Al igual que con curar enfermedad, el lanzador ha de tocar a la víctima, la cual tiene derecho a una tirada de salvación de CON. Si no supera la tirada, el conjurador decidirá la gravedad de la infección entre leve y grave:
 L eve: el efecto comienza el asalto posterior al lanzamiento. En ese momento, la criatura comienza a perder 1 punto de fuerza o constitución (a elección del lanzador) por hora hasta que se vea reducida a 2, lo cual llevará al receptor a un estado de máxima debilidad y a encontrarse virtualmente impotente. En 1d3 semanas la víctima comenzará a recuperar 1 punto de característica perdido por día de descanso.
 
-###### Grave:
+#### Grave:
 
-el efecto es inmediato para la víctima, la cual no puede recuperar los puntos de golpe perdidos de ninguna manera, ni siquiera mediante curación mágica. Cada semana que la enfermedad no haya sido sanada hace perder a la víctima 2 puntos de carisma de forma permanente. Una vez que el carisma llegue a cero puntos, la criatura muere. La enfermedad infligida puede ser curada por el conjuro curar enfermedad.
+El efecto es inmediato para la víctima, la cual no puede recuperar los puntos de golpe perdidos de ninguna manera, ni siquiera mediante curación mágica. Cada semana que la enfermedad no haya sido sanada hace perder a la víctima 2 puntos de carisma de forma permanente. Una vez que el carisma llegue a cero puntos, la criatura muere. La enfermedad infligida puede ser curada por el conjuro curar enfermedad.
 
-###### Curar heridas críticas/causar heridas críticas
+#### Curar heridas críticas/causar heridas críticas
 
-(clérigo nivel 5, druida nivel 5, ilusionista nivel 6)
+(Clérigo nivel 5, druida nivel 5, ilusionista nivel 6)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance:
+#### Alcance:
 
-toque Componentes: V y S | duraCión: per | manent | e ts: ver t | exto |
+Toque Componentes: V y S | duraCión: per | manent | e ts: ver t | exto |
 | --- | --- | --- | --- |
 | Este conjuro<br>la criatura to<br>puntos de go<br>También pu<br>que ocasion<br>sin armas).<br>ción de SAB<br>Curar he<br>(clérigo niv<br>tl: 1 | permi<br>cada.<br>lpe po<br>ede em<br>a un d<br>La víct<br>para<br>ridas<br>el 3, d | te restaurar h<br>Mediante este<br>r encima del<br>plearse su re<br>año de 5d8<br>ima tiene de<br>reducir el dañ<br>graves/c<br>ruida nivel<br>AlCAnCe: | asta 5d8 punto<br>sortilegio nun<br>máximo actual<br>verso, causar h<br>a la criatura to<br>recho a una tir<br>o a la mitad.<br>ausar heri<br>4, ilusionista n<br>toque CoMp |
 | duraCión: per | manent | e ts: ver t | exto |
@@ -651,15 +651,15 @@ toque Componentes: V y S | duraCión: per | manent | e ts: ver t | exto |
 Este conjuro permite sanar una herida grave, restaurando hasta 3d8 puntos de golpe. Este sortilegio nunca incrementará los puntos de golpe por encima del máximo actual del aventurero.
 También puede invocarse su reverso, causar heridas graves, para ocasionar un daño de 3d8 a la criatura tocada. Es necesario tener éxito en una tirada de ataque sin armas, y la víctima tendrá derecho a una tirada de salvación de SAB para reducir el daño a la mitad.
 
-###### Curar heridas leves/causar heridas leves
+#### Curar heridas leves/causar heridas leves
 
-(clérigo nivel 1, druida nivel 2, ilusionista nivel 2)
+(Clérigo nivel 1, druida nivel 2, ilusionista nivel 2)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance:
+#### Alcance:
 
-toque Componentes: V y S | duraCión: perm | an | ente t | s: ver texto |  | rC: sí |
+Toque Componentes: V y S | duraCión: perm | an | ente t | s: ver texto |  | rC: sí |
 | --- | --- | --- | --- | --- | --- |
 | Este útil conj<br>leve. Si usamo<br>sanará 1d8 pu<br>puntos de gol<br>rero. En el cas<br>realizar una ti<br>dará cuenta de<br>En todos los c<br>le provocará a<br>Este conjuro t<br>leves que prov<br>una criatura, s<br>tirada de ataq<br>tirada de salva<br>Custodia<br>druida nivel<br>tl: 1 | u<br>s<br>nt<br>pe<br>o<br>r<br>as<br>l<br>ie<br>o<br>ie<br>ue<br>ci<br>c<br>5) | ro permit<br>el conjuro<br>os de dañ<br>por enci<br>particular<br>ada de sal<br>que todo e<br>os, si es ap<br>a criatura<br>ne un rev<br>cará una<br>mpre que<br>sin arma<br>ón de SA<br>ontra<br>Al | irá al lanza<br>para curar<br>o. Este sorti<br>ma del máxi<br>de los ilusio<br>vación de I<br>s una ilusió<br>licado cont<br>1d8 puntos<br>erso, denom<br>herida de 1d<br>el lanzador<br>s. El blanco<br>B para reduc<br>la muer<br>CAnCe: toque | dor sana<br>una her<br>legio nu<br>mo actu<br>nistas, e<br>NT. Si t<br>n y el co<br>ra un m<br>de daño<br>inado c<br>8 punto<br>logre to<br>tendrá<br>ir el dañ<br>te (clé<br>CoMp | r una herida<br>ida, la misma<br>nca subirá los<br>al del aventu-<br>l blanco debe<br>iene éxito, se<br>njuro fallará.<br>uerto viviente,<br>.<br>ausar heridas<br>s de daño en<br>carla con una<br>derecho a una<br>o a la mitad.<br>rigo nivel 5,<br>onentes: V y S |
 | duraCión: 10 min | / | nivel | ts: no |  | rC: sí |
@@ -667,11 +667,11 @@ toque Componentes: V y S | duraCión: perm | an | ente t | s: ver texto |  | rC:
 Este conjuro permitirá al lanzador protegerse a sí mismo o a una criatura de su elección de los efectos de determinados conjuros que causan muerte de forma automática (como palabra poderosa) o de criaturas con habilidades similares.
 D
 
-###### Danza irresistible de Nébula (mago nivel 8)
+#### Danza irresistible de Nébula (mago nivel 8)
 
-###### TL: 1 Alcance: 30 metros Componentes: V y S
+#### TL: 1 Alcance: 30 metros Componentes: V y S
 
-| duraCión: 1 asalto/nivel |  | ts: no | r |
+| DuraCión: 1 asalto/nivel |  | ts: no | r |
 | --- | --- | --- | --- |
 | La víctima de este<br>deseo de bailar alo<br>ninguna otra acción<br>criatura esté hechiz<br>(tampoco será efecti<br>automáticamente to<br>características física<br>deformar ma<br>tl: 1 | peculi<br>cadam<br>mien<br>ada su<br>vo un<br>das la<br>s (FU<br>dera<br>AlCA | ar conjuro<br>ente, no p<br>tras duren<br>frirá un pe<br>escudo), n<br>s tiradas d<br>E, DES y C<br>(druida n<br>nCe: 15 metr | sentirá un<br>udiendo ll<br>los efectos.<br>nalizador de<br>o podrá ata<br>e salvación l<br>ON).<br>ivel 2)<br>os CoMpon |
 | duraCión: permanente |  | ts: no | r |
@@ -683,11 +683,11 @@ D
 Deseo es el conjuro más poderoso que puede aprender un mago, quizás el más potente de todos. Con un simple gesto y una escueta frase, el lanzador será capaz de alterar la realidad. De hecho, este conjuro puede proporcionar los efectos de cualquier conjuro de nivel 9 o inferior, más otros efectos como los descritos para deseo limitado (siempre a discreción del Narrador). Sin embargo, incluso este hechizo tiene límites. El lanzador puede desear cualquier cosa concebible, pero el deseo debe expresarse con precisión. Cuanto más largo y complicado es el deseo, más peligroso se vuelve el hechizo. Un deseo mal expresado puede pervertir la intención inicial del lanzador y producir un resultado literal pero indeseable. Un deseo nunca restaurará un nivel o la pérdida de constitución por haber sido resucitado.
 El pago por el uso de este poderoso conjuro es envejecer debido a los efectos debilitantes del hechizo. El lanzador debe hacer una tirada de salvación de CON (con un grado de dificultad de 9). El éxito significa que el lanzador solo envejece 1 año mientras que fallar significa envejecer 3.
 
-###### Deseo limitado (mago nivel 7)
+#### Deseo limitado (mago nivel 7)
 
-###### TL: 1 Alcance: ver texto Componentes: V y S
+#### TL: 1 Alcance: ver texto Componentes: V y S
 
-| duraCión: ver texto t | s: ver tex | to | rC: sí |
+| DuraCión: ver texto t | s: ver tex | to | rC: sí |
 | --- | --- | --- | --- |
 | Este conjuro permite al l<br>que se le antoje. Por ejemp<br>dor obtener los mismos r<br>mago de nivel 6 o inferior,<br>de clérigo y druida a nivel<br>bién que un compañero te<br>tirada de ataque o tirada d<br>de un hechizo ofensivo, eli<br>acciones similares en rele<br>También sería posible que<br>diera averiguar el funciona<br>un acertijo, etc. Es aconsej<br>mite y evite que el poder d<br>desintegrar (mago<br>tl: 1 AlCA | anzador<br>lo, este<br>esultado<br>de ilusi<br>4 o infe<br>nga éxito<br>e salvaci<br>minar u<br>vancia a<br>, media<br>miento<br>able qu<br>e este co<br>nivel 6<br>nCe: 20 m | crear casi cua<br>conjuro permi<br>s que cualquie<br>onista a nivel 5<br>rior. Podría co<br>automático e<br>ón, disipar efe<br>n hechizo defe<br>las anteriorm<br>nte su uso, el<br>de un mecani<br>e el Narrador<br>njuro rebase l<br>)<br>etros CoMpo | lquier efecto<br>tiría al lanza-<br>r conjuro de<br>o inferior, o<br>nseguir tam-<br>n la siguiente<br>ctos nocivos<br>nsivo y otras<br>ente citadas.<br>lanzador pu-<br>smo, resolver<br>no se extrali-<br>o razonable.<br>nentes: V y S |
 | duraCión: instantáneo ts | : CAR mi | tad | rC: sí |
@@ -700,22 +700,22 @@ Este hechizo desplaza rápidamente al lanzador entre los planos primario y etér
 Los ataques que realice el lanzador también reciben un -2. Y sus hechizos tienen un 50% de probabilidad de activarse justo cuando el aventurero se vuelve etéreo, en cuyo caso surten efecto en el plano etéreo. El conjurador puede ver e incluso atacar a criaturas etéreas, y puede interactuar con dichas criaturas de la misma manera que interactúa con las materiales.
 Mientras se mantiene el desplazamiento, el lanzador puede atravesar, pero no ver a través de objetos sólidos de no más de 1,5 metros de grosor. Si el lanzador trata de atravesar una superficie de más de ese ancho, el hechizo termina, el lanzador aparece en el espacio abierto más cercano al otro lado y sufre 1d6 puntos de daño por cada 1,5 metros completos recorridos a través del objeto.
 
-###### Desplazamiento de plano (clérigo nivel 5)
+#### Desplazamiento de plano (clérigo nivel 5)
 
-###### TL: 1 Alcance: toque Componentes: V y S
+#### TL: 1 Alcance: toque Componentes: V y S
 
-| duraCión: permanente t | s: ver texto | r |
+| DuraCión: permanente t | s: ver texto | r |
 | --- | --- | --- |
 | El lanzador y hasta 8 cria<br>sus manos, son transport<br>dimensión alternativa. La<br>el desplazamiento tienen<br>de SAB para evitarlo. El<br>cualquier otro aspecto re<br>ción del Narrador.<br>destierro (clérigo ni<br>tl: 1 AlCA | turas que se<br>ados a otro<br>s criaturas q<br>derecho a un<br>punto exacto<br>levante del v<br>vel 6)<br>nCe: 15 metros | unan en c<br>plano de e<br>ue no dese<br>a tirada de<br>de llegada<br>iaje, queda<br>CoMpone |
 | duraCión: permanente ts | : CAR niega | r |
 
 Este conjuro permite al lanzador expulsar de este plano a criaturas extraplanares que se encuentren dentro de un área de 6 metros de diámetro desde el punto elegido por el conjurador, provocando que dichas criaturas se desvanezcan de vuelta a su plano o dimensión de origen. El lanzador podrá desterrar un total de 2 dados de golpe de criaturas por nivel. Las criaturas son desterradas en orden ascendente de DG. Cada criatura que se intente desterrar tendrá derecho a una tirada de salvación de CAR para resistirse a los efectos de este conjuro.
 
-###### Desvanecer (mago nivel 7)
+#### Desvanecer (mago nivel 7)
 
-###### TL: 1 Alcance: toque Componentes: V
+#### TL: 1 Alcance: toque Componentes: V
 
-| duraCión: instantáneo | ts: no |  | rC: sí |
+| DuraCión: instantáneo | ts: no |  | rC: sí |
 | --- | --- | --- | --- |
 | Este hechizo funcio<br>excepto que solo a<br>transportar hasta 2<br>nivel. Mediante este<br>criaturas ni efectos<br>detectar ali<br>tl: 1 | na exactament<br>fecta a objetos.<br>5 kilos o 1 met<br>conjuro no es<br>mágicos en fun<br>neamiento<br>AlCAnCe: 20 m | e como<br>El lan<br>ro cúbic<br>posible<br>cionam<br>(clérigo<br>etros C | teletransportarse,<br>zador puede tele-<br>o de materia por<br>hacer desaparecer<br>iento.<br>nivel 0)<br>oMponentes: V y S |
 | duraCión: 10 min/nivel | ts: no |  | rC: no |
@@ -730,15 +730,15 @@ Este conjuro permite al lanzador expulsar de este plano a criaturas extraplanare
 
 Con este hechizo, el conjurador se percatará de manera inmediata de todos los objetos y criaturas mágicas existentes dentro de un área de 15 metros a su alrededor. Todos los objetos e individuos de naturaleza mágica brillarán con una tenue aura solo discernible para el lanzador. Este brillo no traspasa barreras físicas normales, como muros, puertas o baúles. Así, un anillo mágico escondido dentro de un cajón secreto brillará si está dentro del alcance del conjuro, pero el hechicero no se percatará de su presencia a menos que descubra y abra el cajón.
 
-###### Detectar mentiras/ocultar mentiras
+#### Detectar mentiras/ocultar mentiras
 
-(clérigo nivel 4)
+(Clérigo nivel 4)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance: 15 metros Componentes: V y S
+#### Alcance: 15 metros Componentes: V y S
 
-| duraCión: 1 asalto/n | ivel ts: CAR | niega r |
+| DuraCión: 1 asalto/n | ivel ts: CAR | niega r |
 | --- | --- | --- |
 | Cuando un co<br>paz de discerni<br>del alcance del<br>tiene derecho a<br>este efecto).<br>Detectar mentir<br>ción mágica de<br>detectar<br>tl: 1 | njurador lanza<br>r si una criat<br>conjuro está m<br>una tirada de<br>as es reversible<br>las mentiras d<br>muertos v<br>AlCAnCe: | este conjuro, p<br>ura que se encu<br>intiendo (si bie<br>salvación de CA<br>, versión que im<br>urante 24 horas.<br>ivientes (clé<br>30 metros CoMpo |
 | duraCión: 1 min/ | nivel ts: | no |
@@ -751,13 +751,13 @@ Con este hechizo, el conjurador se percatará de manera inmediata de todos los o
 
 El lanzador es capaz de localizar trampas gracias a este conjuro divino, ya sean de naturaleza mundana o mágica. El lanzador deberá concentrarse durante 1 asalto al menos en la dirección escudriñada para obtener la información.
 
-###### Detectar trampas y fosos (druida nivel 1)
+#### Detectar trampas y fosos (druida nivel 1)
 
 Alcance: 15 metros x 3 metros Componentes: V y S
 
-###### TL: 1
+#### TL: 1
 
-| duraCión: 10 min/niv | el ts: n | o | rC: sí |
+| DuraCión: 10 min/niv | el ts: n | o | rC: sí |
 | --- | --- | --- | --- |
 | Este conjuro perm<br>(nada basado en<br>trecho de 15 metr<br>jurador deberá co<br>escogida para det<br>detectar v<br>mago nivel 0)<br>tl: 1 | itirá al lanza<br>mecanismos c<br>os de largo y tr<br>ncentrarse dur<br>ectar alguna a<br>eneno (cléri<br>AlCAn<br>radio de 15 | dor detect<br>omplicad<br>es metros<br>ante 1 as<br>nomalía.<br>go nivel<br>Ce:<br>metros | ar trampas básicas<br>os) y fosos en un<br>frente a él. El con-<br>alto en la dirección<br>0, druida nivel 0,<br>CoMponentes: V |
 | duraCión: 10 min/niv | el ts: n | o | rC: no |
@@ -770,11 +770,11 @@ Alcance: 15 metros x 3 metros Componentes: V y S
 
 Este potente hechizo nos permitirá averiguar la ubicación exacta de una criatura u objeto, por lejos que esté, incluso si anduviera en otro plano. Por regla general, el conjuro de discernir ubicación puede ignorar conjuros que bloqueen el escudriñamiento o similares (a discreción del Narrador). Sin embargo, el reverso de este conjuro, ocultar ubicación, además de ofrecer protección contra escudriñamientos, objetos de visión como bolas mágicas, etc., también proporciona protección contra este mismo conjuro en su versión estándar.
 
-###### Disco flotante de Nébula (mago nivel 1)
+#### Disco flotante de Nébula (mago nivel 1)
 
-###### TL: 1 Alcance: 2 metros Componentes: V y S
+#### TL: 1 Alcance: 2 metros Componentes: V y S
 
-| duraCión: 1 hora/nivel | t | s: no r |
+| DuraCión: 1 hora/nivel | t | s: no r |
 | --- | --- | --- |
 | Este conjuro crea u<br>dor de manera inv<br>siones y forma que<br>acomodar una carg<br>El escudo flotante<br>que ocupe otra estr<br>la cintura del lanza<br>do al conjurador a<br>de 2 metros. El dis<br>debido a su entida<br>juro llegue a su fin,<br>objeto que sostuvie<br>disipación ma<br>tl: 1 | n disco<br>isible. El<br>un escu<br>a de hast<br>no pued<br>uctura o<br>dor, man<br>llá dond<br>co flotan<br>d nebulo<br>el disco<br>ra.<br>yor de<br>AlCAn | mágico que flota cer<br>disco tiene las mis<br>do mediano. Sobre<br>a un máximo de 500<br>e aparecer en el mis<br>criatura; y flotará a<br>teniendo esa posició<br>e vaya, a una distan<br>te no podrá usarse<br>sa. Cuando la durac<br>desaparecerá, dejand<br>nébula (mago n<br>Ce: ver texto CoMpon |
 | duraCión: 10 min/nivel | ts: | ver texto r |
@@ -787,11 +787,11 @@ Este potente hechizo nos permitirá averiguar la ubicación exacta de una criatu
 
 Disipar magia quizás sea uno de los hechizos más útiles para un conjurador, pues permite anular los efectos arcanos de hechizos activos en objetos o criaturas. Este potente conjuro contrarresta, limita o finaliza hechizos en un área cúbica de 10 metros de diámetro lanzados por conjuradores del mismo nivel o inferior al del lanzador. Si el nivel del conjuro a disipar es mayor que el nivel del lanzador, hay una posibilidad acumulativa de un 5% por nivel de diferencia de que el intento de disipación fracase. Es importante tener en cuenta que un conjuro de efecto o duración instantánea, como, por ejemplo, una bola de fuego, no puede ser disipado, pues el efecto mágico (la bola de fuego, en este caso) ya ha sido efectivo y ha concluido antes de que el conjuro de disipar magia surta efecto.
 
-###### Distorsionar la realidad (ilusionista nivel 8)
+#### Distorsionar la realidad (ilusionista nivel 8)
 
-###### TL: 1 Alcance: ver texto Componentes: V y S
+#### TL: 1 Alcance: ver texto Componentes: V y S
 
-| duraCión: 10 min/nivel | ts: ver texto |  | rC: sí |
+| DuraCión: 10 min/nivel | ts: ver texto |  | rC: sí |
 | --- | --- | --- | --- |
 | Este conjuro es simila<br>zador debe tener cui<br>quiere conseguir. Co<br>de cualquier hechizo<br>mago de nivel 5 o inf<br>druida de nivel 4 o i<br>otros resultados en lí<br>dos. Como siempre, l<br>Si el conjuro que se<br>tiradas de salvación o<br>juros, se debería aplic<br>porque cualquier tira<br>doblar tesoro<br>tl: 1 | r a deseo limit<br>dado y ser muy<br>mo guía, se pue<br>de ilusionista<br>erior o cualqu<br>nferior. Tambi<br>nea con el pod<br>a última palabr<br>desea duplicar<br>se ve afectado<br>ar de igual mo<br>da de salvación<br>(ilusionista ni<br>AlCAnCe: ver text | ado, y co<br>explícito<br>den dupli<br>de nivel 7<br>ier hechiz<br>én puede<br>er de los<br>a la tendr<br>permite<br>por la resi<br>do en este<br>siempre<br>vel 3)<br>o CoM | mo tal, el lan-<br>sobre lo que<br>car los efectos<br>o inferior, de<br>o de clérigo o<br>proporcionar<br>conjuros cita-<br>á el Narrador.<br>normalmente<br>stencia a con-<br>caso, excepto<br>será de INT.<br>ponentes: V |
 | duraCión: ver texto | ts: ver texto | r | C: ver texto |
@@ -803,11 +803,11 @@ Disipar magia quizás sea uno de los hechizos más útiles para un conjurador, p
 Por medio de este poderoso encantamiento, el lanzador puede imbuir a una criatura, ya sea planta o animal, con una conciencia propia semejante a la natural presente en los seres humanos inteligentes. Para lograrlo no bastará con lanzar el hechizo, pues debe tener éxito también en una tirada enfrentada de SAB, cuyo grado de dificultad estará representado por el total de dados de golpe de la criatura que queramos dotar de conciencia. Una criatura animal afectada por este conjuro ganará 3d6 puntos de INT, un bonificador de +1 en CAR y 2 dados de golpe adicionales. Un árbol u otro tipo de planta dotada de conciencia, podrá moverse y adquirir los sentidos propios de un humano (olfato, oído, vista, tacto), además de ganar la suficiente inteligencia para comunicarse a un nivel básico. El lanzador no tendrá un control especial sobre la criatura y deberá ganarse su confianza.
 E
 
-###### Emborronar (ilusionista nivel 2)
+#### Emborronar (ilusionista nivel 2)
 
-###### TL: 1 Alcance: toque Componentes: V
+#### TL: 1 Alcance: toque Componentes: V
 
-| duraCión: 1 min/nivel | ts: SAB niega |  |
+| DuraCión: 1 min/nivel | ts: SAB niega |  |
 | --- | --- | --- |
 | El contorno de la c<br>otorga una bonifica<br>tectar lo invisible n<br>pero un hechizo de<br>no desea verse afect<br>tirada de salvación<br>encontrar el<br>(clérigo nivel 6, il<br>tl: 1 | riatura tocada se v<br>ción de +2 a su C<br>o contrarrestará el<br>visión verdadera s<br>ado por el conjur<br>de SAB para evitar<br>camino/pe<br>usionista nivel 8)<br>AlCAnCe: toque | uelve bo<br>A. Un he<br>efecto de<br>í lo hará.<br>o, tiene d<br>los efect<br>rder e<br>CoMpo |
 | duraCión: 10 min/nivel | ts: no |  |
@@ -816,11 +816,11 @@ E
 
 Con este conjuro el lanzador llama a un familiar para que sea su compañero, normalmente un animal pequeño. La invocación requiere consumir materiales por valor de 100 mo. Una vez que el familiar aparece, se crea un vínculo entre el animal y el lanzador que permite a este último dar breves órdenes al familiar. El conjuro, adicionalmente, vincula los poderes sensoriales del familiar con los de su amo, aunque solo mientras el familiar permanezca a una distancia máxima de 1,5 kilómetros.
 
-###### Drenar energía (clérigo nivel 9)
+#### Drenar energía (clérigo nivel 9)
 
-###### TL: 1 Alcance: 15 metros Componentes: V y S
+#### TL: 1 Alcance: 15 metros Componentes: V y S
 
-| duraCión: ve | r texto t | s: CON niega | r | C: sí |
+| DuraCión: ve | r texto t | s: CON niega | r | C: sí |
 | --- | --- | --- | --- | --- |
 | Drenar energ<br>es capaz de d<br>nado blanco<br>de salvación<br>se lanza sob<br>temporales d<br>Las órdenes<br>así como las<br>realizar acci<br>propias de s<br>liar, el amo<br>distancia má<br>ser bastante<br>formas muy<br>ejemplo el se<br>lace sensoria<br>quier conjur<br>El familiar h<br>pre que se h<br>al día; cuand<br>rehuirán el c<br>una situació<br>ese caso, util<br>que resulte m<br>zar una tirad<br>la misma qu<br>ventajosa. El<br>obliga al am<br>que le permi<br>der por deb<br>resucitar a su<br>pérdida defi<br>nueva invoc<br>tabla d<br>tirada<br>(1d20) | ía es uno d<br>renar 2d4<br>. Eso sí, la<br>de CON pa<br>re un mue<br>urante 1 h<br>que se pued<br>respuestas<br>ones compl<br>u especie. P<br>debe perm<br>xima de 1,<br>alienante,<br>diferentes a<br>ntido de la<br>l permite al<br>o como si e<br>a de perma<br>alle a más d<br>o llegue a<br>ombate, aun<br>n desespera<br>iza el BA d<br>ás ventajos<br>a de salvac<br>e realizaría<br>fallecimien<br>o a perder<br>tió la invoc<br>ajo del nive<br>familiar, r<br>nitiva de un<br>ación hasta<br>e posible | e los hechizos<br>niveles de exper<br>víctima tiene d<br>ra evitar los efe<br>rto viviente, e<br>ora.<br>en dar al famili<br>del mismo. El<br>ejas y tendrá to<br>ara conocer lo<br>anecer concentr<br>5 kilómetros. L<br>pues las criatur<br>la de la especie<br>“vista” en un<br>amo lanzar so<br>stuviera dentro<br>necer en contact<br>e 1,5 km de di<br>cero morirá. Lo<br>que pueden ay<br>da (a discreción<br>el lanzador o d<br>o para el famil<br>ión, usará la pr<br>el convocador,<br>to del familiar<br>un nivel de ex<br>ación, aunque n<br>l 0 por esta ca<br>establecerá el ni<br>familiar, no es<br>transcurrido un<br>s familiares<br>Familiar | más odia<br>iencia de<br>erecho a<br>ctos. Si<br>ste gana<br>ar son m<br>familia<br>das las<br>que perc<br>ado y d<br>a experi<br>as puede<br>del conj<br>murciélag<br>bre su fa<br>del alcan<br>o con el<br>stancia,<br>s familia<br>udar a su<br>del Na<br>e la criat<br>iar. Si n<br>opia de<br>la que<br>por cual<br>periencia<br>o es pos<br>usa. Si el<br>vel perd<br>posible<br>año. | dos, ya que<br>l desafortu-<br>una tirada<br>este hechizo<br>2d4x5 PG<br>uy básicas,<br>r no puede<br>dificultades<br>ibe su fami-<br>entro de la<br>encia puede<br>n sentir de<br>urador (por<br>o). Este en-<br>miliar cual-<br>ce efectivo.<br>amo. Siem-<br>pierde 1 PG<br>res siempre<br>s amos ante<br>rrador). En<br>ura base, el<br>ecesita reali-<br>su especie o<br>resulte más<br>quier causa<br>en la clase<br>ible descen-<br>amo logra<br>ido. Ante la<br>realizar una |
 | 1-3 |  | Gato |  |  |
@@ -835,11 +835,11 @@ Con este conjuro el lanzador llama a un familiar para que sea su compañero, nor
 La criatura exacta que responde a la llamada de su amo depende del Narrador, que puede elegirla aleatoriamente usando la tabla de posibles animales, pactarla con el jugador, o elegirla atendiendo al entorno donde transcurre la invocación (una ciudad, un bosque, zona montañosa, etc.). Algunos familiares típicos serían: gatos, halcones, búhos, cuervos, ranas, comadrejas y otras criaturas parecidas.
 A todos los efectos, el familiar tiene los atributos básicos y habilidades especiales de su especie (consultar la sección animales comunes del bestiario) salvo por la salvedad de que tiene el doble de dados de golpe de los habituales y sus salvaciones principales son tanto las físicas como mentales.
 
-###### Encubrir (ilusionista nivel 5)
+#### Encubrir (ilusionista nivel 5)
 
-###### TL: 1 Alcance: 50 metros Componentes: V y S
+#### TL: 1 Alcance: 50 metros Componentes: V y S
 
-| duraCión: 1 min/nivel | ts: no |  |
+| DuraCión: 1 min/nivel | ts: no |  |
 | --- | --- | --- |
 | El lanzador cubre un<br>mágico, protegiendo el<br>servación mágica. Ade<br>intento de espionaje m<br>imagen y sonido, que s<br>encubrir verdade<br>tl: 10 min A | área de 8<br>interior de<br>más, si el la<br>ágico, pod<br>erá lo que<br>ro (ilusio<br>lCAnCe: 15 m | x 8 metro<br>cualquier<br>nzador se d<br>rá crear u<br>verá y oirá<br>nista nive<br>etros CoM |
 | duraCión: 1 día | ts: ver text | o |
@@ -848,11 +848,11 @@ A todos los efectos, el familiar tiene los atributos básicos y habilidades espe
 
 Mediante este conjuro, el lanzador elige una criatura y un objeto dentro del alcance para que sirvan como señuelos. Durante la duración del hechizo, los conjuros de detección y obtención de información lanzados sobre el conjurador o su equipo proporcionarán información basada en los señuelos, salvo que el conjurador enemigo tenga éxito en una tirada de salvación de SAB.
 
-###### Enjambre (druida nivel 2)
+#### Enjambre (druida nivel 2)
 
-###### TL: 1 Alcance: 15 metros Componentes: V y S
+#### TL: 1 Alcance: 15 metros Componentes: V y S
 
-| duraCión: ver tex | to | ts: no | r | C: no |
+| DuraCión: ver tex | to | ts: no | r | C: no |
 | --- | --- | --- | --- | --- |
 | Gracias a la magi<br>car un enjambre<br>criatura designad<br>para determinar<br>según la siguient<br>tabla de c<br>tirada ( | a de<br>de 2<br>a p<br>qué<br>e ta<br>riat<br>1d6 | este conjuro<br>x 2 metros<br>or el lanzado<br>tipo de cria<br>bla:<br>uras del<br>) | , el lanzador pu<br>que atacará a la<br>r. El Narrador l<br>tura formará e<br>enjambre<br>tipo de cria | ede convo-<br>persona o<br>anzará 1d6<br>l enjambre,<br>tura |
 | 1 |  |  | Ratas |  |
@@ -867,11 +867,11 @@ Mediante este conjuro, el lanzador elige una criatura y un objeto dentro del alc
 
 El druida podrá alterar el crecimiento vegetal de las plantas en un área de 15 metros de diámetro. Las enramadas aumentarán y se animarán mágicamente para tratar de atrapar y entorpecer a las criaturas dentro del área, que tendrán derecho a una tirada de salvación de DES para evitar quedar bloqueadas por el ramaje. Dicha tirada de salvación debe superarse cada asalto que permanezcan en la zona. Las criaturas atrapadas no pueden moverse, sufren un -2 a sus tiradas de ataque y un penalizador de -4 a su modificador por DES.
 
-###### Escalada de araña (mago nivel 1)
+#### Escalada de araña (mago nivel 1)
 
-###### TL: 1 Alcance: toque Componentes: V y S
+#### TL: 1 Alcance: toque Componentes: V y S
 
-| duraCión: 2 asalto | s/nivel | ts: no | r |
+| DuraCión: 2 asalto | s/nivel | ts: no | r |
 | --- | --- | --- | --- |
 | Gracias a este<br>drá trepar por<br>una araña, pu<br>rango de mov<br>escamas d<br>tl: 1 | conjuro, el<br>muros, par<br>diendo mov<br>imiento hab<br>e dragó<br>AlC | lanzador o la<br>edes y techo c<br>erse de esta fo<br>itual.<br>n (ilusionista<br>AnCe: personal | criatura e<br>omo si s<br>rma a la<br>nivel 4<br>CoMpon |
 | duraCión: 1 asalt | o/nivel | ts: no | r |
@@ -881,22 +881,22 @@ El druida podrá alterar el crecimiento vegetal de las plantas en un área de 15
 Este hechizo habilita al lanzador para escribir un mensaje sobre un material adecuado (pergamino, papel, etc.). El texto parece estar escrito en una lengua extranjera o mágica que nadie conoce. Únicamente la persona (o personas) designadas por el lanzador durante la invocación podrán leer el escrito.
 Cualquier criatura no autorizada que intente leer el texto desencadena una potente salvaguarda, un conjuro de hipnosis que, si no se resiste mediante una tirada de salvación de INT, implantará una idea elegida por el conjurador en la víctima. Los efectos de esta salvaguarda perduran durante 30 minutos. Si se lanza un conjuro de disipar, el mensaje resulta destruido. Sin embargo, una combinación de visión verdadera más leer magia sí revelarán el contenido del mensaje.
 
-###### Escudo (mago nivel 1)
+#### Escudo (mago nivel 1)
 
-###### TL: 1 Alcance: ver texto Componentes: V y S
+#### TL: 1 Alcance: ver texto Componentes: V y S
 
-| duraCión: 1 turno/nive | l ts: no | r | C: no |
+| DuraCión: 1 turno/nive | l ts: no | r | C: no |
 | --- | --- | --- | --- |
 | Con este sortilegi<br>zador del conjuro<br>imitando todos su<br>efecto, el escudo<br>armadura al lanza<br>po; CA 17 contra<br>CA 18 contra pro<br>jabalinas o dagas.<br>por DES a la CA<br>ciona total inmun<br>Otros ataques rea<br>frontal no se ven<br>escudo anti<br>tl: 1 | o se crea un m<br>. La barrera se<br>s movimiento<br>mágico propor<br>dor: CA 16 co<br>proyectiles de<br>yectiles arroja<br>El lanzador p<br>otorgada. Est<br>idad contra el<br>lizados desde<br>afectados por e<br>magia (mago<br>AlCAnCe: pe | uro invisible f<br>mueve con el<br>s. Mientras per<br>ciona la siguie<br>ntra ataques cu<br>arcos, ballesta<br>dos a mano, c<br>uede añadir su<br>e conjuro tamb<br>conjuro proye<br>direcciones dif<br>l escudo.<br>nivel 6)<br>rsonal CoMpo | rente al lan-<br>aventurero<br>manezca en<br>nte clase de<br>erpo a cuer-<br>s u hondas;<br>omo lanzas,<br>bonificador<br>ién propor-<br>ctil mágico.<br>erentes a la<br>nentes: V y S |
 | duraCión: 1 asalto/nive | l ts: no | r | C: no |
 
 Un escudo contra la magia de forma esférica se crea instantáneamente al lanzar este conjuro, protegiendo al conjurador de cualquier hechizo que se lance contra él. Sin embargo, el lanzador no puede hacer uso de la magia mientras permanezca dentro del escudo, excepto aquella que solo tenga efecto sobre él mismo. El escudo se desplazará junto al lanzador si este se mueve. El conjurador puede finalizar este conjuro cuando lo desee.
 
-###### Escudo contra ilusiones (ilusionista nivel 6)
+#### Escudo contra ilusiones (ilusionista nivel 6)
 
-###### TL: 1 Alcance: personal Componentes: V y S
+#### TL: 1 Alcance: personal Componentes: V y S
 
-| duraCión: 1 min/nivel ts: | no | r |
+| DuraCión: 1 min/nivel ts: | no | r |
 | --- | --- | --- |
 | Este conjuro crea una esfera de<br>metros de diámetro alrededor d<br>las ilusiones, ya sean creadas p<br>o un objeto. Toda ilusión dent<br>esfera, resulta cancelada aunqu<br>la cancelación, la ilusión no ti<br>tarse como si no existiera. Sin<br>tan pronto como deje de estar<br>tiempo que haya permanecido<br>límites de duración que pudie<br>escudo de fuego/hie<br>nivel 4)<br>tl: 1 AlCAnCe: | energía<br>el lanza<br>or un he<br>ro de la<br>e no dis<br>ene efec<br>embarg<br>en cont<br>cancela<br>ra tener<br>lo de<br>ver texto | invisible,<br>dor que af<br>chizo, un<br>esfera o to<br>ipada. M<br>to alguno<br>o, volver<br>acto con<br>da sí cue<br>dicha ilus<br>Karkem<br>CoMpon |
 | duraCión: 2 asaltos<br>ts:<br>+ 1 asalto/nivel | no | rC: |
@@ -907,9 +907,9 @@ Un escudo contra la magia de forma esférica se crea instantáneamente al lanzar
 
 Este conjuro otorga al lanzador la facultad de espiar a una criatura a distancia, siendo capaz de captar en su mente sus actos e incluso lo que está diciendo mientras dure el conjuro. Si el individuo afectado es especialmente inteligente (INT 13+), puede que sienta que está siendo observado si tiene éxito en una tirada de INT. En cualquier caso, para que el conjuro surta efecto en primera instancia, el lanzador debe superar una tirada de INT modificada como verás en la siguiente tabla.
 
-###### Tabla de modificadores al intento de
+#### Tabla de modificadores al intento de
 
-###### escudriñamiento
+#### Escudriñamiento
 
 Grado de conocimiento Modificador
 
@@ -930,7 +930,7 @@ Grado de conocimiento Modificador
 
 Este conjuro crea alrededor del lanzador una esfera mágica e inmóvil que impide que el lanzador se vea afectado por cualquier conjuro de nivel 1, 2 y 3. El conjurador sí podrá lanzar conjuros desde dentro de la esfera al exterior. La esfera solo puede ser eliminada si el lanzador decide salir de ella, si se lanza un disipar magia contra la esfera o si expira el conjuro.
 
-###### Tabla de efectos por color de la esfera
+#### Tabla de efectos por color de la esfera
 
 Color Orden Efectos de la capa
 
@@ -941,42 +941,42 @@ Color Orden Efectos de la capa
 | Añil | 6.º | Detiene todos los conjuros. Causa locura si no se supera una tirada de salvación de SAB | Luz permanente |
 | Violeta | 7.º | Campo de energía que envía a la criatura a otro plano si falla una tirada de salvación de<br>INT | Disipar magia |
 
-###### Esfera prismática (ilusionista nivel 9, mago nivel 9)
+#### Esfera prismática (ilusionista nivel 9, mago nivel 9)
 
-###### TL:
+#### TL:
 
 1 Alcance: ver texto Componentes: V y S Duración: 10 min/nivel TS: ver texto RC: ver texto Al lanzar este conjuro, se forma un enorme globo opaco de resplandeciente luz multicolor del tamaño necesario para rodear al lanzador, protegiéndolo ante cualquier tipo de ataque, aunque el lanzador podrá salir y entrar de ella a voluntad. Sin embargo, dentro de la esfera no podrá lanzar conjuros cuyo efecto precise de atravesar el orbe. Cualquier criatura que intente traspasar la esfera sufrirá los efectos de cada color en orden, salvo que use los conjuros adecuados para poder atravesar las diferentes capas, tal como se ven en la tabla de efectos por color de la esfera.
 
-###### Espantar (ilusionista nivel 3, mago nivel 2)
+#### Espantar (ilusionista nivel 3, mago nivel 2)
 
-###### TL:
+#### TL:
 
 1 Alcance: 15 metros Componentes: V y S Duración: 1 asalto/nivel TS: CAR niega RC: sí Este hechizo hace que las criaturas con menos de 6 dados de golpe/niveles hagan una tirada de salvación de CAR o se vean abrumadas por una ola de terror. El éxito permite al objetivo controlar su miedo y reaccionar normalmente, mientras que el fracaso hace que huya presa del pánico. Si está acorralado y se ve obligado a hacerlo, el blanco luchará, pero con una penalización de -1 a los ataques y al daño. Los monstruos con más de 6 dados de golpe/niveles son inmunes a este conjuro. Los clérigos, elfos, muertos vivientes y las criaturas extraplanares también son inmunes.
 
-###### Espejismo arcano (ilusionista nivel 4)
+#### Espejismo arcano (ilusionista nivel 4)
 
-###### TL:
+#### TL:
 
-5 min Alcance: 50 metros Componentes: V y S Duración: ver texto TS: INT niega RC: sí Espejismo arcano funciona de forma similar a terreno alucinatorio, pero permitiendo afectar o incluir estructuras artificiales. El área de efecto es de 3 metros cuadrados por nivel del conjurador. La ilusión creada hace que el área afectada se vea, suene, huela y se perciba como otro tipo de terreno. Las construcciones existentes en el área se pueden alterar para que tengan otra apariencia, o se pueden incluir nuevas construcciones ilusorias. Ni los objetos ni las criaturas dentro del área en el momento del lanzamiento se ven afectadas, aunque sí pueden esconderse dentro de la ilusión como si esta fuera real. La ilusión se mantiene hasta que una criatura supere la tirada de salvación de INT, momento en el que desaparecerá. La ilusión invocada debe mantener cierta coherencia con el entorno y con el área afectada; de no ser así, el Narrador puede aplicar bonificadores especiales a las tiradas de salvación.
+5 Min Alcance: 50 metros Componentes: V y S Duración: ver texto TS: INT niega RC: sí Espejismo arcano funciona de forma similar a terreno alucinatorio, pero permitiendo afectar o incluir estructuras artificiales. El área de efecto es de 3 metros cuadrados por nivel del conjurador. La ilusión creada hace que el área afectada se vea, suene, huela y se perciba como otro tipo de terreno. Las construcciones existentes en el área se pueden alterar para que tengan otra apariencia, o se pueden incluir nuevas construcciones ilusorias. Ni los objetos ni las criaturas dentro del área en el momento del lanzamiento se ven afectadas, aunque sí pueden esconderse dentro de la ilusión como si esta fuera real. La ilusión se mantiene hasta que una criatura supere la tirada de salvación de INT, momento en el que desaparecerá. La ilusión invocada debe mantener cierta coherencia con el entorno y con el área afectada; de no ser así, el Narrador puede aplicar bonificadores especiales a las tiradas de salvación.
 Conjuro que lo niega
 
-###### Estallar (mago nivel 2)
+#### Estallar (mago nivel 2)
 
-###### TL:
+#### TL:
 
 1 Alcance: 15 metros Componentes: V y S Duración: instantáneo TS: ver texto RC: ver texto Este conjuro crea una onda sónica que rompe en docenas de pedazos cualquier cristal o sustancia quebradiza dentro de un área de 8 x 8 metros. Cosas como pociones, ventanas, espejos, etc., son vulnerables a este hechizo siempre que su peso no sea mayor a 0,5 kilos por nivel de lanzador. Si el conjuro se concentra en un único objeto, el elemento puede pesar hasta 5 kilos por nivel de lanzador y se verá afectado sin importar el material o su composición. Todos los objetos inanimados tienen derecho a una tirada de salvación de constitución para evitar los efectos de este conjuro. A discreción del Narrador, cualquier criatura de material frágil (como un gólem de cristal) recibirá 1d6 puntos de daño por nivel del lanzador, con derecho a una tirada de salvación de CON que puede reducir este daño a la mitad.
 
-###### Estasis temporal (mago nivel 9)
+#### Estasis temporal (mago nivel 9)
 
-###### TL:
+#### TL:
 
 1 Alcance: 3 metros Componentes: V y S Duración: permanente TS: no RC: sí Para ejecutar este hechizo, el lanzador debe tener éxito en una tirada de ataque si el blanco se resiste. La víctima caerá en un estado de suspensión animada. Durante este letargo inducido, el tiempo dejará de fluir para la criatura dormida, no envejeciendo y deteniendo los efectos de cualquier enfermedad, veneno o herida. Todas sus funciones vitales cesarán. Este estado de suspensión animada perdurará indefinidamente hasta que la magia sea interrumpida con un conjuro de disipar magia o el lanzador lo de por terminado. No se permite tirada de salvación.
 
-###### Excursión etérea (clérigo nivel 5)
+#### Excursión etérea (clérigo nivel 5)
 
-###### TL: 1 Alcance: ver texto Componentes: V y S
+#### TL: 1 Alcance: ver texto Componentes: V y S
 
-| duraCión: 1 asalto/nivel | ts: n | o | r |
+| DuraCión: 1 asalto/nivel | ts: n | o | r |
 | --- | --- | --- | --- |
 | Las energías de este<br>en el plano etéreo, u<br>material. El lanzador<br>lidos del plano mater<br>visto ni bloqueado p<br>las criaturas y seres de<br>lanzador mientras du<br>mundo parece un lug<br>zo termina, y el lanz<br>como una pared, resu<br>cercano, sufriendo 1d<br>sólidos atravesados.<br>exorcismo (clérig<br>tl: 1 | hechizo p<br>n lugar q<br>puede atr<br>ial sin im<br>or ningún<br>l plano e<br>re el hec<br>ar brumos<br>ador está<br>lta expul<br>6 puntos<br>o nivel 4<br>AlCAnCe: 15 | ermiten<br>ue se s<br>avesar t<br>pedime<br>medio<br>téreo po<br>hizo. Pa<br>o e insu<br>dentro<br>sado al<br>de dañ<br>)<br>metros | al lanz<br>uperpon<br>odos los<br>ntos, y n<br>munda<br>drán ve<br>ra el co<br>stancial<br>de un o<br>espacio<br>o por ca<br>CoMpo |
 | duraCión: instantáneo | ts: CAR | niega |  |
@@ -985,11 +985,11 @@ Conjuro que lo niega
 
 El lanzador es capaz de expiar los actos malvados de una criatura determinada, siempre que esta se muestre arrepentida de manera genuina. De esta manera se podrán revertir cambios de alineamiento, incluso aquellos forzados gracias al concurso de la magia, y restaurar la habilidades propias de determinadas clases de aventurero. Por ejemplo, un paladín que haya cometido un acto impuro podría retomar su clase y todas sus habilidades gracias a este conjuro.
 
-###### Explosión solar (druida nivel 8, ilusionista nivel 8)
+#### Explosión solar (druida nivel 8, ilusionista nivel 8)
 
-###### TL: 1 Alcance: 15 metros Componentes: V y S
+#### TL: 1 Alcance: 15 metros Componentes: V y S
 
-| duraCión: instantáneo | ts: ver texto | rC: | sí |
+| DuraCión: instantáneo | ts: ver texto | rC: | sí |
 | --- | --- | --- | --- |
 | Este conjuro produce<br>de radio dentro del al<br>por el lanzador. Cual<br>cegada y recibirá 3d6<br>éxito en una tirada d<br>y recibirán solo la m<br>la luz solar reciben el<br>que fallen la tirada<br>daño adicionales por<br>destruidos por la luz<br>truidos sin derecho a<br>extinguir fueg<br>tl: 1 | una explosión d<br>cance del conjur<br>quier criatura en<br>puntos de daño<br>e salvación de D<br>itad de daño. La<br>doble de daño.<br>de salvación reci<br>nivel del lanzad<br>solar, como los<br>tirada de salvaci<br>o (druida nivel<br>AlCAnCe: 50 metro | e luz solar de<br>o, en el punt<br>dicho punto<br>. Aquellos q<br>ES evitarán l<br>s criaturas s<br>Los muertos<br>birán 1d6 p<br>or, y aquello<br>vampiros, s<br>ón.<br>4)<br>s CoMponen | 6 metros<br>o elegido<br>, quedará<br>ue tengan<br>a ceguera<br>ensibles a<br>vivientes<br>untos de<br>s que son<br>erán des-<br>tes: V y S |
 | duraCión: ver texto | ts: ver texto | rC: | sí |
@@ -997,11 +997,11 @@ El lanzador es capaz de expiar los actos malvados de una criatura determinada, s
 Este conjuro extingue cualquier fuego no mágico en un área de 15 x 15 metros desde el punto designado por el lanzador o el fuego mágico creado por un único objeto mágico (los artefactos mágicos de especial poder son inmunes a este conjuro). El conjuro también puede disipar los efectos de otros conjuros basados en un fuego presente en el área. En este último caso, el lanzador deberá realizar una tirada enfrentada de INT cuyo grado de dificultad será igual al nivel del lanzador del conjuro que deseamos disipar. Criaturas de fuego presentes en el área, como elementales de fuego, sufren 1d4 puntos de daño por cada nivel del lanzador.
 F
 
-###### Flecha ácida de Nefertiri (mago nivel 2)
+#### Flecha ácida de Nefertiri (mago nivel 2)
 
-###### TL: 1 Alcance: 140 metros Componentes: V y S
+#### TL: 1 Alcance: 140 metros Componentes: V y S
 
-| duraCión: 1 asal<br>2 asaltos/nive | to +<br>l | ts: no | r |
+| DuraCión: 1 asal<br>2 asaltos/nive | to +<br>l | ts: no | r |
 | --- | --- | --- | --- |
 | Este conjuro pr<br>la punta del de<br>elegido por el c<br>de ataque a dist<br>éxito, la flecha<br>cada 2 niveles d<br>más en el cuerp<br>Forma gas<br>tl: 1 | ovoca que<br>do índice<br>onjurador<br>ancia para<br>inflige 2d<br>el lanzad<br>o del obje<br>eosa (m<br>Al | una flecha<br>del lanzado<br>. El lanzado<br>ver si alcan<br>4 puntos d<br>or, la flecha<br>tivo causan<br>ago nivel<br>CAnCe: toque | mágica verd<br>r y se dirija<br>r debe hace<br>za a la vícti<br>e daño por<br>permanece<br>do 2d4 PG<br>3)<br>CoMpon |
 | duraCión: 1 turno/ | nivel | ts: no | r |
@@ -1013,11 +1013,11 @@ F
 Este hechizo permite dotar de poder mágico a un garrote, palo u objeto similar, que ganará un bonificador de +1 en la tirada de ataque, y pasando a causar 1d6+1 de daño. Además, el garrote será considerado arma mágica mientras dure el conjuro.
 intacto una vez acabe el conjuro. Las criaturas afectadas retendrán sus puntuaciones de INT, SAB y CAR, y obtendrán las de FUE, DES y CON de la forma animal adoptada.
 
-###### Fuego feérico (druida nivel 1)
+#### Fuego feérico (druida nivel 1)
 
-###### TL: 1 Alcance: 50 metros Componentes: V y S
+#### TL: 1 Alcance: 50 metros Componentes: V y S
 
-| duraCión: 1 min/nivel | ts: no |  | rC: sí |
+| DuraCión: 1 min/nivel | ts: no |  | rC: sí |
 | --- | --- | --- | --- |
 | Un fuego de natura<br>área de 3 x 3 metros<br>tensidad lumínica d<br>dos serán visibles co<br>ganarán un bonific<br>traben combate con<br>Fuerza tempo<br>tl: 1 | leza mágica<br>. Este fuego<br>e una vela, as<br>n nitidez en<br>ador de +1 a<br>criaturas afe<br>ral de de<br>AlCAnCe: t | rodea a las c<br>no quema, p<br>í que los ind<br>la oscuridad.<br>la tirada de a<br>ctadas por el<br>javú (ilusio<br>oque CoM | riaturas en un<br>ero tiene la in-<br>ividuos afecta-<br>Los atacantes<br>taque cuando<br>fuego feérico.<br>nista nivel 1)<br>ponentes: V y S |
 | duraCión: 1 min/nivel | ts: no |  | rC: sí |
@@ -1028,11 +1028,11 @@ intacto una vez acabe el conjuro. Las criaturas afectadas retendrán sus puntuac
 
 Mediante el lanzamiento de este conjuro, el lanzador puede ordenar a la criatura afectada que realice una misión, cuyo enunciado debe elegirse con sumo cuidado. Como, por ejemplo, encontrar un objeto o una persona, matar a alguien, robar un objeto, etc. Por cada día en que la criatura no se dedique únicamente a realizar la misión encomendada, perderá 1 punto de fuerza y obtendrá un penalizador acumulativo de -1 a sus tiradas de salvación. Estos efectos desaparecen al día siguiente de que la criatura decida dedicarse de nuevo a la misión encomendada. En cualquier caso, si la criatura no acepta la búsqueda de forma voluntaria, tiene derecho a una tirada de salvación de CAR para evitar los efectos del conjuro.
 
-###### Glamour feérico (ilusionista nivel 1)
+#### Glamour feérico (ilusionista nivel 1)
 
-###### TL: 1 Alcance: toque Componentes: V y S
+#### TL: 1 Alcance: toque Componentes: V y S
 
-| duraCión: 2 asal | tos/nivel | ts: INT n | iega |
+| DuraCión: 2 asal | tos/nivel | ts: INT n | iega |
 | --- | --- | --- | --- |
 | Este conjuro<br>po de otro se<br>conjurador e<br>podría parec<br>realidad está<br>tadas con la i<br>ran una tirad<br>glifo cus<br>tl: 10 m | proyect<br>r vivo, q<br>n todo<br>er que<br>dispara<br>lusión p<br>a de sal<br>todio<br>in | a la imagen<br>ue, además,<br>momento.<br>está lanzand<br>ndo su ball<br>ueden darse<br>vación de I<br>(clérigo ni<br>AlCAnCe: t | del lanzador s<br>imita los mov<br>De esta forma,<br>o un hechizo<br>esta. Las criatu<br>cuenta del en<br>NT.<br>vel 3)<br>oque CoMpo |
 | duraCión: ve | r texto | ts: ver te | xto |
@@ -1043,11 +1043,11 @@ Mediante el lanzamiento de este conjuro, el lanzador puede ordenar a la criatura
 
 Este conjuro permite al lanzador comunicarse con las plantas. Las plantas no poseen inteligencia como tal, así que la conversación se producirá a un nivel muy básico. Por ello, las preguntas o cuestiones formuladas deben ser muy sencillas.
 
-###### Golpe de viento (mago nivel 3)
+#### Golpe de viento (mago nivel 3)
 
-###### TL: 1 Alcance: 30 metros Componentes: V y S
+#### TL: 1 Alcance: 30 metros Componentes: V y S
 
-| duraCión: 1 asa | lto/nivel | ts: FUE ni | ega rC | : no |
+| DuraCión: 1 asa | lto/nivel | ts: FUE ni | ega rC | : no |
 | --- | --- | --- | --- | --- |
 | Un potente<br>del lanzador<br>apagando p<br>más, puede<br>tienen éxito<br>golpe fl<br>tl: 1 | golpe de v<br>, disipand<br>equeños fu<br>derribar a<br>en una tir<br>amígero<br>A | iento surg<br>o nubes g<br>egos, com<br>criaturas p<br>ada de salv<br>(clérigo<br>lCAnCe: 50 | e de las manos<br>aseosas o brum<br>o velas y antor<br>equeñas o medi<br>ación de FUE.<br>nivel 5)<br>metros CoMpone | extendidas<br>as ligeras,<br>chas. Ade-<br>anas si no<br>ntes: V y S |
 | duraCión: ins | tantáneo | ts: DES mi | tad r | C: sí |
@@ -1058,11 +1058,11 @@ Este conjuro permite al lanzador comunicarse con las plantas. Las plantas no pos
 
 Este conjuro permite al lanzador hablar con animales dotados de cierta inteligencia, como mínimo de 1 en su característica de INT. Las respuestas del animal serán, en cuanto a complejidad se refiere, acordes a su inteligencia.
 
-###### Hablar con los muertos (clérigo nivel 2)
+#### Hablar con los muertos (clérigo nivel 2)
 
-###### TL: 10 min Alcance: toque Componentes: V y S
+#### TL: 10 min Alcance: toque Componentes: V y S
 
-| duraCión: 1 min | /nivel | ts: ver texto | r |
+| DuraCión: 1 min | /nivel | ts: ver texto | r |
 | --- | --- | --- | --- |
 | Una vez lanzad<br>muertos a los q<br>de tres pregunt<br>El conjurador h<br>ba la criatura e<br>al lanzador o e<br>superior al lanz<br>CAR. Si supera<br>Hechizar<br>nivel 8)<br>tl: 1 | o el co<br>ue toqu<br>as, que s<br>a de po<br>n vida. S<br>n el mo<br>ador, ti<br>la tirad<br>a las | njuro, el lanza<br>e, a los que p<br>erán contestad<br>der comunica<br>i la criatura es<br>mento de mo<br>ene derecho a<br>a, la criatura<br>masas (ilu<br>AlCAnCe: 15 me | dor puede ha<br>odrá formular<br>as de manera<br>rse en el idiom<br>de alineamien<br>rir poseía un<br>una tirada de<br>puede negarse<br>sionista niv<br>tros CoMpon |
 | duraCión: 1 día | /nivel | ts: CAR nieg | a r |
@@ -1075,11 +1075,11 @@ Este conjuro solo afecta a criaturas humanoides inteligentes o semiinteligentes.
 Este encantamiento no tiene efecto alguno sobre animales, criaturas de naturaleza mágica, muertos vivientes o monstruos humanoides mayores que un ogro. El lanzador deberá hablar la lengua del blanco hechizado y nunca será obedecida una orden que obligue a la víctima a quitarse su propia vida o llevar a cabo una acción suicida.
 El encantamiento queda roto de manera inmediata si el lanzador del mismo ataca deliberadamente al individuo encantado, ya sea mediante otro conjuro o apelando a la fuerza física. La víctima se defenderá de igual modo si es atacada por los aliados del conjurador.
 
-###### Hechizar persona o animal (druida nivel 2)
+#### Hechizar persona o animal (druida nivel 2)
 
-###### TL: 1 Alcance: 15 metros Componentes: V y S
+#### TL: 1 Alcance: 15 metros Componentes: V y S
 
-| duraCión: 1 hor | a/nivel | ts: CAR niega | rC | : sí |
+| DuraCión: 1 hor | a/nivel | ts: CAR niega | rC | : sí |
 | --- | --- | --- | --- | --- |
 | Este conjuro f<br>salvo porque<br>los de natural<br>Hipnosis (<br>tl: 1 | unciona<br>también<br>eza mági<br>ilusionist<br>A | exactamente<br>puede afecta<br>ca.<br>a nivel 1)<br>lCAnCe: 8 metr | como hechiza<br>r a animales,<br>os CoMponen | r persona,<br>incluidos<br>tes: V y S |
 | duraCión: 2 sa<br>1 asalto/niv | ltos +<br>el | ts: INT niega | rC | : sí |
@@ -1089,11 +1089,11 @@ El encantamiento queda roto de manera inmediata si el lanzador del mismo ataca d
 Esta ilusión siempre debe lanzarse sobre una puerta. Cualquier criatura que se acerque a la misma y falle una tirada de salvación de INT, oirá el rugido de un dragón al otro lado de la puerta (e incluso creerá percibir su olor). La ilusión permanece sobre la puerta hasta que alguien la disipa o una criatura la activa.
 I
 
-###### Identificar (mago nivel 1)
+#### Identificar (mago nivel 1)
 
-###### TL: 10 min Alcance: 1 metro Componentes: V y S
+#### TL: 10 min Alcance: 1 metro Componentes: V y S
 
-| duraCión: 1 asalto/nive | l ts: | no | rC: |
+| DuraCión: 1 asalto/nive | l ts: | no | rC: |
 | --- | --- | --- | --- |
 | Este conjuro es de<br>gia, pues sirve para<br>mágicos. Cada asa<br>conjurador podrá<br>artefacto en cuesti<br>cargas quedan). El<br>deres del objeto se<br>Debido a las ema<br>tocar para identifi<br>1d4 puntos de C<br>conjuro, el mago<br>do su CON restau<br>Ídolo protec<br>tl: 2 | gran utilid<br>identificar<br>lto que el c<br>descubrir u<br>ón (incluye<br>orden en e<br>deja a disc<br>naciones m<br>car objetos<br>ON por el<br>deberá desc<br>rada al fina<br>tor (ilusi<br>AlCAnCe | ad para lo<br>las propie<br>onjuro se<br>no de los<br>ndo cómo<br>l que son<br>reción del<br>ágicas que<br>mágicos,<br>esfuerzo.<br>ansar dura<br>l de dicho<br>onista ni<br>: personal | s usuarios<br>dades de l<br>mantenga<br>poderes de<br>activarlo<br>descubiert<br>Narrador.<br>son neces<br>el lanzado<br>Una vez a<br>nte una h<br>periodo.<br>vel 4)<br>CoMponen |
 | duraCión: 1 min/nive | l ts: | no | rC: |
@@ -1106,11 +1106,11 @@ I
 
 Este hechizo proyecta la imagen de un objeto, criatura, sustancia o campo de energía, que cubrirá un área máxima de 12 metros cúbicos + 3 metros cúbicos por nivel. La ilusión incluye sonido, olor, tacto y todo lo necesario para que sea percibida como real. Las criaturas que vean la ilusión creerán que lo que ven es real, aunque tienen derecho a una tirada de salvación de INT para darse cuenta de que es una ilusión. Si al menos una criatura supera su tirada de salvación, la ilusión desaparece de inmediato. De otro modo, las criaturas afectadas están tan convencidas de la existencia de lo que ven, que pueden llegar a sufrir daño de las ilusiones. La ilusión se mantiene activa mientras el lanzador mantenga la concentración (sin poder hacer nada más), y una vez el lanzador deja de concentrarse, aún perdurará por tres asaltos más. El lanzador puede desplazar la ilusión dentro del alcance del conjuro.
 
-###### Imagen menor (ilusionista nivel 2)
+#### Imagen menor (ilusionista nivel 2)
 
-###### TL: 1 Alcance: 140 metros Componentes: V y S
+#### TL: 1 Alcance: 140 metros Componentes: V y S
 
-| duraCión: ver | texto ts: INT nie | ga | rC: no |
+| DuraCión: ver | texto ts: INT nie | ga | rC: no |
 | --- | --- | --- | --- |
 | Este hechizo pr<br>o campo de en<br>cúbicos + 3 m<br>algunos efecto<br>mensaje intelig<br>que vean la ilus<br>derecho a una<br>que es una ilus<br>salvación, la il<br>las criaturas afe<br>lo que ven, que<br>ilusión se mant<br>centración (sin<br>de concentrarse<br>desplazar la ilu<br>imagen pe<br>tl: 1 | oyecta la imagen de u<br>ergía, que cubrirá un<br>etros cúbicos por niv<br>s sonoros simples, n<br>ible, y nada a nivel o<br>ión creerán que lo qu<br>tirada de salvación d<br>ión. Si al menos una<br>usión desaparece de<br>ctadas están tan con<br>pueden llegar a sufr<br>iene activa mientras e<br>poder hacer nada má<br>, aún durará dos asa<br>sión dentro del alcan<br>rmanente (ilusi<br>AlCAnCe: 50 m | n objeto, cri<br>área máxim<br>el. La ilusión<br>ada al nivel<br>lfativo o táct<br>e ven es real,<br>e INT para d<br>criatura supe<br>inmediato. D<br>vencidas de l<br>ir daño de l<br>l lanzador m<br>s), y una vez e<br>ltos más. El l<br>ce del conjur<br>onista nive<br>etros CoMp | atura, sustancia<br>a de 12 metros<br>puede incluir<br>de incluir un<br>il. Las criaturas<br>aunque tienen<br>arse cuenta de<br>ra su tirada de<br>e otro modo,<br>a existencia de<br>as ilusiones. La<br>antenga la con-<br>l lanzador deja<br>anzador puede<br>o.<br>l 6)<br>onentes: V y S |
 | duraCión: perm | anente ts: INT nie | ga | rC: no |
@@ -1121,11 +1121,11 @@ Este hechizo proyecta la imagen de un objeto, criatura, sustancia o campo de ene
 
 Gracias a este conjuro, el lanzador podrá crear 1d4 reflejos de su propia imagen que imitarán todos sus movimientos, siendo indistinguibles. Estas imágenes aparecerán próximas al lanzador y se moverán a la par que él mismo. El lanzador no necesita mantener la concentración y sus imágenes reflejadas permanecerán junto a él hasta que se agote el conjuro. Las imágenes no son reales y no pueden, por tanto, realizar tareas, pues son una mera ilusión. Cualquier ataque sobre el lanzador golpeará primero contra una de estas imágenes, haciendo que desaparezca hasta que no quede ninguna.
 
-###### Imagen silenciosa (ilusionista nivel 1)
+#### Imagen silenciosa (ilusionista nivel 1)
 
-###### TL: 1 Alcance: 140 metros Componentes: V y S
+#### TL: 1 Alcance: 140 metros Componentes: V y S
 
-| duraCión: ver texto | ts: INT nie | ga rC: |
+| DuraCión: ver texto | ts: INT nie | ga rC: |
 | --- | --- | --- |
 | Este hechizo proye<br>tancia o campo de<br>metros cúbicos + 3<br>de aspectos sonoros<br>la ilusión creerán q<br>a una tirada de sa<br>es una ilusión. Si<br>salvación, la ilusió<br>las criaturas afectad<br>lo que ven, que pue<br>ilusión se mantien<br>concentración (sin<br>bién puede desplaz<br>imagen verda<br>tl: 1 | cta la imagen d<br>energía, que cub<br>metros cúbicos<br>, olfativos o tác<br>ue lo que ven es<br>lvación de INT<br>al menos una c<br>n desaparece de<br>as están tan con<br>den llegar a sufr<br>e activa mientra<br>poder hacer na<br>ar la ilusión den<br>dera (ilusion<br>AlCAnCe: 50 m | e un objeto, cri<br>rirá un área máx<br>por nivel. La ilus<br>tiles. Las criatura<br>real, aunque tiene<br>para darse cuen<br>riatura supera su<br>inmediato. De o<br>vencidas de la ex<br>ir daño de las ilu<br>s el lanzador m<br>da más). El lanz<br>tro del alcance d<br>ista nivel 5)<br>etros CoMpone |
 | duraCión: 1 min/nive | l ts: INT nie | ga rC: |
@@ -1134,27 +1134,27 @@ Gracias a este conjuro, el lanzador podrá crear 1d4 reflejos de su propia image
 
 Este hechizo induce una poderosa emoción en las mentes de las criaturas dentro de un área de 8 x 8 metros. El lanzador puede elegir qué emoción infligir, y las víctimas pueden evitar los efectos mediante una tirada de salvación de CAR:
 
-###### Desesperanza:
+#### Desesperanza:
 
--2 a todas las tiradas de salvación, característica, ataque y daño. Cancela un sentimiento de odio.
+-2 A todas las tiradas de salvación, característica, ataque y daño. Cancela un sentimiento de odio.
 
-###### Miedo:
+#### Miedo:
 
-las víctimas huyen como si estuvieran bajo los efectos del conjuro miedo. Cancela un sentimiento de rabia.
+Las víctimas huyen como si estuvieran bajo los efectos del conjuro miedo. Cancela un sentimiento de rabia.
 
-###### Odio:
+#### Odio:
 
-las criaturas se vuelven violentas y hostiles. +2 a todas las tiradas de salvación, característica, ataque y daño. Cancela un sentimiento de desesperanza.
+Las criaturas se vuelven violentas y hostiles. +2 a todas las tiradas de salvación, característica, ataque y daño. Cancela un sentimiento de desesperanza.
 
-###### Rabia:
+#### Rabia:
 
-las víctimas se ven sujetas a una intensa rabia que las empuja a combatir. Bonificador de +2 a las puntuaciones de FUE y CON. +1 a las tiradas de salvación contra miedo. -1 a la CA. Cancela un sentimiento de miedo.
+Las víctimas se ven sujetas a una intensa rabia que las empuja a combatir. Bonificador de +2 a las puntuaciones de FUE y CON. +1 a las tiradas de salvación contra miedo. -1 a la CA. Cancela un sentimiento de miedo.
 
-###### Indetectabilidad (ilusionista nivel 3, mago nivel 3)
+#### Indetectabilidad (ilusionista nivel 3, mago nivel 3)
 
-###### TL: 1 Alcance: toque Componentes: V y S
+#### TL: 1 Alcance: toque Componentes: V y S
 
-| duraCión: 1 hora/nivel | ts: no | rC: sí |
+| DuraCión: 1 hora/nivel | ts: no | rC: sí |
 | --- | --- | --- |
 | A través de este conjur<br>tura u objeto se vuelva<br>pudieran detectarlo de<br>localizar objeto, etc. Ad<br>mágicos adivinatorios,<br>influenciar (ilusio<br>tl: 1 A | o, el lanzador provoca<br>indetectable a todos los<br>alguna forma, como<br>emás, impide la detecció<br>como bolas de cristal, me<br>nista nivel 0)<br>lCAnCe: 8 metros CoMpo | que una cria-<br>conjuros que<br>clarividencia,<br>n por medios<br>dallones, etc.<br>nentes: V y S |
 | duraCión: 3 asaltos | ts: CAR niega | rC: sí |
@@ -1167,11 +1167,11 @@ las víctimas se ven sujetas a una intensa rabia que las empuja a combatir. Boni
 
 Este conjuro tornará invisible a cualquier individuo u objeto elegido por el lanzador, incluyéndose a sí mismo. Cuando una criatura se vuelve invisible, todos los objetos que porta también se vuelven invisibles. Un individuo invisible permanecerá en dicho estado hasta que decida atacar, lanzar un nuevo sortilegio o sea atacado por alguien que pueda localizarlo. Un objeto invisible volverá a ser visible de nuevo si es tocado por alguien. Cualquier objeto que recoja el sujeto invisible se volverá invisible a su vez. No obstante, cualquier objeto que deje caer se tornará visible. Un objeto que sobresalga más de 3 metros de la criatura invisible se volverá visible. Una fuente de luz tampoco desaparecerá del todo. La fuente será invisible, pero no así la luz proyectada a más de 3 metros del lanzador.
 
-###### Invisibilidad a los animales (druida nivel 1)
+#### Invisibilidad a los animales (druida nivel 1)
 
-###### TL: 1 Alcance: toque Componentes: V y S
+#### TL: 1 Alcance: toque Componentes: V y S
 
-| duraCión: 10 min/nivel | ts: no |  |
+| DuraCión: 10 min/nivel | ts: no |  |
 | --- | --- | --- |
 | La criatura tocada p<br>los animales.<br>invisibilidad a<br>(clérigo nivel 1)<br>tl: 1 | or el clérigo<br>los mu<br>AlCAnCe: toq | se tornar<br>ertos<br>ue Co |
 | duraCión: 10 min/nivel | ts: ver texto |  |
@@ -1186,15 +1186,15 @@ Este conjuro tornará invisible a cualquier individuo u objeto elegido por el la
 
 El blanco de este conjuro y todo su equipo se vuelven invisibles ante todas las formas de visión natural, incluidas la infravisión y la visión en la oscuridad. A diferencia de otras formas de invisibilidad, la invisibilidad mejorada permite al blanco atacar, lanzar hechizos o usar objetos mágicos sin hacerse visible. Los objetos abandonados por el blanco se volverán visibles, mientras que cualquier objeto recogido se volverá invisible. La luz emitida nunca se vuelve invisible, aunque su fuente si lo sea (como un farol sostenido por el blanco). Los objetos especialmente largos, que se extiendan más allá de 3 metros del cuerpo del blanco, se vuelven visibles. En cualquier caso, el blanco sigue haciendo ruido y dejando rastros, como por ejemplo unas pisadas en el barro.
 
-###### Invisibilidad temporal de Dejavú (ilusionista
+#### Invisibilidad temporal de Dejavú (ilusionista
 
-nivel 2)
+Nivel 2)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance:
+#### Alcance:
 
-toque Componentes: V | duraCión: 1 min/nivel | ts: INT nieg | a | rC: sí |
+Toque Componentes: V | duraCión: 1 min/nivel | ts: INT nieg | a | rC: sí |
 | --- | --- | --- | --- |
 | Este conjuro solo fu<br>nimados que pesen<br>yores de 2,5 metros<br>se vuelve temporalm<br>inmediatamente si e<br>busque activamente<br>de salvación de INT.<br>invocar eleme<br>tl: 10 min | nciona sobre<br>menos que el<br>de ancho o d<br>ente invisible.<br>l objeto se m<br>dicho objeto t<br>ntal (mago<br>AlCAnCe: 20 me | objetos inm<br>lanzador, y<br>e alto. El ob<br>La invisibili<br>ueve o una<br>iene éxito e<br>nivel 5)<br>tros CoMpo | óviles e ina-<br>no sean ma-<br>jeto elegido<br>dad termina<br>criatura que<br>n una tirada<br>nentes: V y S |
 | duraCión: ver texto | ts: CAR nieg | a | rC: no |
@@ -1202,11 +1202,11 @@ toque Componentes: V | duraCión: 1 min/nivel | ts: INT nieg | a | rC: sí |
 Gracias a este poder arcano, el lanzador podrá invocar por la fuerza a un poderoso elemental de 12 DG de cualquiera de los cuatro planos elementales existentes (fuego, tierra, agua y aire). Mediante este conjuro solo se pueden invocar durante un mismo día cuatro elementales en total. El conjurador debe mantener la concentración para conservar el control de la criatura, no pudiendo realizar otra acción en dicho intervalo de tiempo, durante el cual podrá comandar al elemental e incluso ordenar que regrese a su plano de origen. No obstante, un conjuro de disipar el mal devolverá a la criatura a su plano. De igual modo, si el lanzador es perturbado en su concentración, atacado directamente o decide realizar otra acción, perderá el control del elemental, que se volverá contra él, atacándole furiosamente.
 L
 
-###### Laberinto (ilusionista nivel 7, mago nivel 8)
+#### Laberinto (ilusionista nivel 7, mago nivel 8)
 
-###### TL: 1 Alcance: 15 metros Componentes: V y S
+#### TL: 1 Alcance: 15 metros Componentes: V y S
 
-| duraCión: ver texto | ts: no |  |
+| DuraCión: ver texto | ts: no |  |
 | --- | --- | --- |
 | El conjurador envia<br>laberinto extradimen<br>sujeto permanecerá<br>inteligencia:<br>tabla de tiemp<br>inteligenCiA | rá a la víctim<br>sional. El nú<br>allí retenido<br>o de retenc | a de este<br>mero de a<br>es determi<br>ión en el<br>tieMpo de r |
 | 0-2 |  | 2d4 d |
@@ -1221,11 +1221,11 @@ L
 
 Este hechizo permitirá al lanzador leer cualquier escritura de índole arcana, así como runas y escritos mágicos en pergaminos y similares. No obstante, una vez que el lanzador lea un pergamino o escritura arcana, el contenido podrá releerse sin tener que lanzar de nuevo el conjuro. Todos los libros de conjuros están protegidos usando escritura arcana y solo sus propietarios pueden estudiarlos sin tener que recurrir a este sortilegio. Por tanto, los libros de conjuros pertenecientes a otros conjuradores desconocidos que los aventureros encuentren en el curso de sus exploraciones requerirán del uso de este conjuro para su lectura.
 
-###### Leer y comprender lenguas (mago nivel 1)
+#### Leer y comprender lenguas (mago nivel 1)
 
-###### TL: 1 Alcance: 2 metros Componentes: V y S
+#### TL: 1 Alcance: 2 metros Componentes: V y S
 
-| duraCión: 10 min/nivel | ts: no | rC: n | o |
+| DuraCión: 10 min/nivel | ts: no | rC: n | o |
 | --- | --- | --- | --- |
 | Este conjuro permitirá al<br>quier lengua o idioma, n<br>Lenguas (clérigo nivel 4<br>tl: 1 Al | lanzador com<br>o así hablar dic<br>, ilusionista niv<br>CAnCe: toque | prender y l<br>ha lengua.<br>el 3, mago<br>CoMponent | eer cual-<br>nivel 3)<br>es: V y S |
 | duraCión: 1 turno/nivel | ts: no | rC: n | o |
@@ -1240,11 +1240,11 @@ Este hechizo permitirá al lanzador leer cualquier escritura de índole arcana, 
 
 La criatura afectada por este conjuro podrá desplazarse sin impedimento por medios que normalmente afectarían a su rango de movimiento, como, por ejemplo, por el agua hasta la cintura, el lodo u otro elemento líquido, o bien ignorando los efectos de un conjuro de inmovilizar persona, ralentizar, telaraña, etcétera.
 
-###### Llamar al relámpago (druida nivel 3)
+#### Llamar al relámpago (druida nivel 3)
 
-###### TL: 1 Alcance: ver texto Componentes: V y S
+#### TL: 1 Alcance: ver texto Componentes: V y S
 
-| duraCión: 10 | min ts: DE | S mitad | r |
+| DuraCión: 10 | min ts: DE | S mitad | r |
 | --- | --- | --- | --- |
 | El conjuro de l<br>do el lanzador<br>do convocar ra<br>rayo causa 1d1<br>desde las nubes<br>tardará todo un<br>cuyos efectos te<br>de salvación de<br>Lluvia de<br>tl: 1 | lamar al relám<br>se encuentre en<br>yos y centellas<br>0 puntos por<br>en vertical al<br>asalto en con<br>ndrán lugar en<br>DES reducirá<br>meteorito<br>AlCAnCe: | pago pod<br>una zon<br>mientras<br>nivel del<br>objetivo d<br>centrarse<br>el asalto<br>el daño a<br>s (mago<br>150 metros | rá ser empl<br>a tormento<br>dure el con<br>lanzador,<br>esignado. E<br>y convocar<br>siguiente.<br>la mitad.<br>nivel 9)<br>CoMpone |
 | duraCión: instan | táneo ts: v | er texto | r |
@@ -1253,11 +1253,11 @@ La criatura afectada por este conjuro podrá desplazarse sin impedimento por med
 
 Usando este hechizo, el lanzador puede localizar la criatura más cercana de un tipo específico con el que se haya topado con anterioridad (como un humano, elfo, orco, unicornio, etc.), o una criatura individual específica que el lanzador conozca, y siempre que esté dentro del alcance del conjuro. El agua corriente bloquea el hechizo que, además, puede ser burlado por conjuros de defensa contra la observación mágica, polimorfar, etc. Localizar criatura no sirve para detectar objetos.
 
-###### Localizar humanoide (ilusionista nivel 5)
+#### Localizar humanoide (ilusionista nivel 5)
 
-###### TL: 3 Alcance: 1.500 km Componentes: V y S
+#### TL: 3 Alcance: 1.500 km Componentes: V y S
 
-| duraCión: 1 min/nivel | ts: n | o |  | rC: sí |
+| DuraCión: 1 min/nivel | ts: n | o |  | rC: sí |
 | --- | --- | --- | --- | --- |
 | Este conjuro permite<br>un humanoide conc<br>mento del lanzamien<br>servara desde una alt<br>su posición actual. La<br>ni por cualquier otr<br>contra la observación<br>la dirección y distanc<br>humanoide observad<br>Localizar obje<br>nivel 3, mago nivel<br>tl: 1 | al lanzad<br>reto (que<br>to de form<br>ura de 15<br>visión no<br>o obstácul<br>mágica. E<br>ia aproxim<br>o.<br>to/oc<br>2)<br>AlCAnCe: 15 | or ver una im<br>debe identific<br>a inequívoca)<br>a 100 metros<br>se ve bloque<br>o que no sea<br>l lanzador ta<br>ada a la que<br>ultar obj<br>0 metros CoM | ag<br>ar<br>c<br>po<br>ada<br>n<br>mb<br>se<br>et<br>po | en mental de<br>se en el mo-<br>omo si lo ob-<br>r encima de<br>por paredes<br>protecciones<br>ién averigua<br>encuentra el<br>o (clérigo<br>nentes: V y S |
 | duraCión: 10 min/nivel | ts: n | o |  | rC: no |
@@ -1267,11 +1267,11 @@ Usando este hechizo, el lanzador puede localizar la criatura más cercana de un 
 Este conjuro provoca la más absoluta de las locuras en una criatura elegida por el lanzador. La criatura afectada por el hechizo se comportará de forma aleatoria, según establezca el Narrador utilizando por ejemplo una tirada de dado. Entre los posibles comportamientos están: alejarse, mirar fijamente a la distancia, balbucear incoherencias, sucumbir a la paranoia, oír voces en la cabeza o incluso actuar con normalidad. Cualquiera de estos comportamientos puede durar desde un asalto hasta varios días o años (una vez más a discreción del Narrador). La víctima tiene derecho a una tirada de salvación de INT para evitar los efectos de este conjuro.
 Atacar a una criatura afectada por este hechizo no ofrece ninguna ventaja, ya que la víctima se defenderá incluso devolviendo los ataques. Solo un conjuro como restablecimiento mayor, deseo limitado o deseo pueden sanar a la víctima, mientras que uno del estilo de quitar maldición no tendrá efecto alguno.
 
-###### Luces danzantes (ilusionista nivel 0, mago nivel 0)
+#### Luces danzantes (ilusionista nivel 0, mago nivel 0)
 
-###### TL: 1 Alcance: 50 metros Componentes: V y S
+#### TL: 1 Alcance: 50 metros Componentes: V y S
 
-| duraCión: 1 turn | o | ts: ver texto r |
+| DuraCión: 1 turn | o | ts: ver texto r |
 | --- | --- | --- |
 | Dependiendo de<br>cuatro luces que<br>cuatros esferas d<br>brilla con luz tr<br>sean las antorch<br>manecer cerca, n<br>seis metros. El la<br>del área de efec<br>incluso hacerlas<br>con una de esta<br>ción de SAB par<br>Madera fér<br>tl: 15 min | la ver<br>se ase<br>e luz o<br>émula.<br>as o fa<br>o pudi<br>nzador<br>to, pu<br>torcer<br>s luces<br>a descu<br>rea ( | sión elegida, el lanzador<br>mejan a antorchas o fan<br>una silueta vagamente<br>Cada una de estas fuent<br>nales y los globos de luz<br>endo separarse unas de<br>puede trasladarlas a volu<br>diendo desplazarlas arrib<br>esquinas. Una criatura qu<br>tiene derecho a una tira<br>brir que son una mera il<br>M<br>druida nivel 6)<br>AlCAnCe: toque CoMpo |
 | duraCión: permane | nte | ts: no r |
@@ -1281,15 +1281,15 @@ Atacar a una criatura afectada por este hechizo no ofrece ninguna ventaja, ya qu
 Este sortilegio crea una enorme mano fantasmal que puede actuar como barrera entre el lanzador y otra criatura u objeto (+10 a la CA del lanzador). El tamaño de la mano puede variar a elección del conjurador desde una talla normal a una enorme mano de 3 metros de largo. No se puede engañar a la mano, que cuenta con una CA de 20 y tantos PG como el máximo del lanzador. Se la puede dañar por métodos mundanos o mágicos, aunque los conjuros que no causen daño directo no le afectan. Sí lo hará un disipar magia o un escudo antimagia. Si la mano se ve forzada a realizar una tirada de salvación,
 Las luces danzantes iluminan con la intensidad de una antorcha normal y corriente.
 
-###### Luz (clérigo nivel 0, druida nivel 0, ilusionista nivel
+#### Luz (clérigo nivel 0, druida nivel 0, ilusionista nivel
 
-0, mago nivel 0)
+0, Mago nivel 0)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance: 45 metros Componentes: V y S
+#### Alcance: 45 metros Componentes: V y S
 
-| duraCión: 10 | min/nivel t | s: no | rC: | no |
+| DuraCión: 10 | min/nivel t | s: no | rC: | no |
 | --- | --- | --- | --- | --- |
 | Con este co<br>del lanzado<br>torcha nor<br>para que est<br>cetro, o inc<br>nará en un<br>oscuridad, y<br>Luz per<br>3, mago ni<br>tl: 1 | njuro se ilumina<br>r, como si este e<br>mal. El conjuro<br>e despida luz, c<br>luso una espada<br>área donde esté<br>viceversa.<br>manente (clé<br>vel 2)<br>AlCAnC | un área de 10<br>stuviera equip<br>puede lanzarse<br>omo la punta<br>. El conjuro d<br>surtiendo efect<br>rigo nivel 3, i<br>e: 20 metros C | metros<br>ado co<br>sobre<br>de un b<br>e luz n<br>o un c<br>lusionis<br>oMponen | alrededor<br>n una an-<br>un objeto<br>astón, un<br>o funcio-<br>onjuro de<br>ta nivel<br>tes: V y S |
 | duraCión: pe | rmanente t | s: no | RC | : sí |
@@ -1298,11 +1298,11 @@ Este conjuro crea un globo de luz que ilumina un área de 10 metros de radio. La
 usará los valores del lanzador. La mano bloquea por completo a cualquier criatura de hasta 1.000 kilos, reduciendo el rango de movimiento a la mitad para las que superen ese peso.
 También es posible aferrar cosas con esta mano mágica. Para ello la mano puede hacer un ataque de presa por asalto (consultar el apartado sobre combate sin armas), con un bonificador de FUE de +10. Por último, se puede utilizar la mano apresadora para desplazar cosas de hasta 2.000 kilos de peso hasta a 3 metros de distancia.
 
-###### Mano mágica (mago nivel 0)
+#### Mano mágica (mago nivel 0)
 
-###### TL: 1 Alcance: 7 metros Componentes: V y S
+#### TL: 1 Alcance: 7 metros Componentes: V y S
 
-| duraCión: concentración | ts: no |  |
+| DuraCión: concentración | ts: no |  |
 | --- | --- | --- |
 | El lanzador puede<br>kilos dentro del área<br>mientras mantenga<br>ro se disipa automát<br>siempre que este reb<br>Manos ardien<br>tl: 1 | señalar un obje<br>de alcance y m<br>la concentració<br>icamente, dejan<br>ase el alcance m<br>tes (mago niv<br>AlCAnCe: 2 me | to que<br>over el<br>n. El efe<br>do caer<br>áximo<br>el 1)<br>tros C |
 | duraCión: instantáneo | ts: no |  |
@@ -1311,11 +1311,11 @@ También es posible aferrar cosas con esta mano mágica. Para ello la mano puede
 
 Por medio de este conjuro, el lanzador crea una marabunta conformada por 1.000 pequeñas arañas venenosas, escorpiones, escarabajos perforadores y escolopendras. Esta masa reptante avanza ocupando un área de 8 x 8 metros. A las órdenes del conjurador, la marabunta se mueve en una determinada dirección avanzando a una velocidad de 3 metros por asalto, hasta una distancia máxima de 50 metros. Cada sabandija de las mil presentes en la marabunta causará 1 punto de daño a las criaturas afectadas, muriendo después. Así pues, cualquier víctima atacada por la marabunta perderá tantos puntos de golpe como sean necesarios para que muera (los bichos no pican a una criatura muerta) o tantos bichos queden presentes. Las criaturas se ven afectadas por la marabunta por orden creciente de distancia al lanzador. Si la marabunta avanza más allá de los 50 metros, perderá 50 miembros por cada 3 metros recorridos de más. Cualquier cosa que destruya o impida el paso de insectos normales también afectará a los bichos de la marabunta.
 
-###### Marca arcana (ilusionista nivel 0, mago nivel 0)
+#### Marca arcana (ilusionista nivel 0, mago nivel 0)
 
-###### TL: 1 Alcance: toque Componentes: V y S
+#### TL: 1 Alcance: toque Componentes: V y S
 
-| duraCión: permane | nte ts: CAR | niega rC | : sí |
+| DuraCión: permane | nte ts: CAR | niega rC | : sí |
 | --- | --- | --- | --- |
 | Este conjuro nos<br>más de seis carac<br>sin causar perjui<br>o visible. Podre<br>criatura, pero est<br>de carisma. Si ele<br>la misma se torn<br>detectar magia. L<br>su lanzador o po<br>Mastín fiel<br>nivel 5)<br>tl: 1 | permite inscri<br>teres, sobre cu<br>cio o daño. L<br>mos intentar i<br>a tendrá derec<br>gimos aplicar<br>ará visible y<br>a marca no pue<br>r un conjuro d<br>de Fistan<br>AlCAnCe: 15 | bir una runa o ma<br>alquier sustancia<br>a marca puede se<br>nscribir la runa<br>ho a una tirada de<br>una marca arcana<br>brillará bajo un c<br>de ser disipada, ex<br>e borrar.<br>(ilusionista nive<br>metros CoMpone | rca, de no<br>o material<br>r invisible<br>sobre una<br>salvación<br>invisible,<br>onjuro de<br>cepto por<br>l 5, mago<br>ntes: V y S |
 | duraCión: ver text | o ts: n | o rC | : no |
@@ -1323,11 +1323,11 @@ Por medio de este conjuro, el lanzador crea una marabunta conformada por 1.000 p
 La energía arcana liberada por este conjuro toma la forma de un sabueso fantasmal, dedicado a proteger un área o al taumaturgo. El lanzador puede ordenar en cualquier momento que el sabueso se dedique a cualquiera de esas dos tareas. El mastín considerará a los compañeros del lanzador como aliados, a menos que se le ordene lo contrario. Si un intruso de tamaño superior al sabueso se acerca a menos de 15 metros, el mastín dejará escapar un aullido espantoso y espeluznante. Todos aquellos que escuchen el aullido deben hacer una tirada de salvación contra miedo (CAR) o sufrir un penalizador de -2 a los ataques y la moral. Esto también afecta a los aliados del lanzador. Si un intruso se acerca a menos de 3 metros del mastín o del lanzador, el sabueso dejará de ladrar y atacará. La mordedura del mastín se considera un arma mágica que puede usar una vez por asalto con un bonificador igual al nivel del lanzador en el momento en el que fue creado, causando 2d6 + 3 puntos de daño si logra impactar. El mastín continuará atacando mientras el intruso se mantenga a menos de 8 metros.
 El mastín tiene un total de PG igual a los del lanzador en el momento en el que fue creado y una CA de 18. Y, aunque se le puede dañar mediante las armas y la magia, la forma más eficaz de acabar con él es dispersarlo con un disipar magia. Si el lanzador se aleja a más de 50 metros del sabueso, el hechizo termina inmediatamente. De otra forma, el conjuro dura 1 hora por nivel de lanzador, aunque si el mastín comienza a ladrar, solo durará 1 asalto por nivel a partir de ese momento.
 
-###### Mastines ilusorios (ilusionista 1)
+#### Mastines ilusorios (ilusionista 1)
 
-###### TL: 1 Alcance: 6 metros Componentes: V y S
+#### TL: 1 Alcance: 6 metros Componentes: V y S
 
-| duraCión: 1 min/ni | vel ts: INT nieg | a |
+| DuraCión: 1 min/ni | vel ts: INT nieg | a |
 | --- | --- | --- |
 | Tras una orden y<br>enormes mastine<br>buesos se mostra<br>alrededor y entre<br>tador que falle su<br>mastines son real<br>enemigo más. Lo<br>tienen una CA d<br>dos al suelo si su<br>Mensaje (ilusi<br>tl: 1 | un chasquido de<br>s aparecen corrie<br>rán amenazantes,<br>el lanzador y sus<br>tirada de salvaci<br>es y luchará contr<br>s mastines siemp<br>e 12 y caerán en<br>fren cualquier da<br>onista nivel 0,<br>AlCAnCe: 150 m | dedos del l<br>ndo de la n<br>ladrando y<br>aliados. Cua<br>ón de INT, c<br>a ellos como<br>re fallan cu<br>sangrentados<br>ño.<br>mago nivel<br>etros CoM |
 | duraCión: 1 asalto/ni | vel ts: no |  |
@@ -1337,15 +1337,15 @@ El mastín tiene un total de PG igual a los del lanzador en el momento en el que
 El lanzador, o una criatura tocada por el lanzador, envía un mensaje en forma de sueño. El lanzador debe identificar a los destinatarios del sueño de forma inequívoca al lanzar este hechizo. Tras eso, la criatura tocada entra en trance y se aparece en sueños a los destinatarios para entregarles el mensaje. El mensaje puede ser de cualquier longitud y los destinatarios lo recordarán perfectamente al despertar. La comunicación es unidireccional: los destinatarios no pueden hacer preguntas, responder o proporcionar información. El mensajero tampoco puede obtener información de la observación de los sueños de los destinatarios. El mensajero despierta del trance en cuanto se ha entregado el mensaje. Por tanto, la duración del conjuro es igual al tiempo necesario para que el mensajero entre en el sueño del destinatario y lleve a cabo su cometido.
 Si se molesta al mensajero durante el trance, este despertará y el hechizo termina. Durante el trance, el mensajero no es consciente de su propio entorno ni de lo que ocurre a su alrededor. Si el destinatario no está dormido cuando se lanza el conjuro, el mensajero puede elegir permanecer en trance o despertar (finalizando el hechizo). Las criaturas que no duermen o sueñan no pueden ser afectadas por este conjuro.
 
-###### Mente en blanco (clérigo nivel 9, ilusionista nivel
+#### Mente en blanco (clérigo nivel 9, ilusionista nivel
 
-9, mago nivel 8)
+9, Mago nivel 8)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance: 10 metros Componentes: V y S
+#### Alcance: 10 metros Componentes: V y S
 
-| duraCión: 2 asaltos/nivel | ts: no |  | rC: no |
+| DuraCión: 2 asaltos/nivel | ts: no |  | rC: no |
 | --- | --- | --- | --- |
 | El lanzador, o la criatu<br>efecto que detecte, lea,<br>y emociones. También<br>de adivinación o detec<br>conjuros tan potentes<br>criatura bajo los efecto<br>indetectable para los he<br>conjuros del estilo.<br>Miedo (ilusionista n<br>tl: 1 AlC | ra elegida,<br>influya o<br>estará pro<br>ción de a<br>como des<br>s del conj<br>chizos de<br>ivel 4, ma<br>AnCe: 15 me | será inmu<br>altere los<br>tegido fren<br>lineamient<br>eo limitad<br>uro será d<br>escudriñam<br>go nivel 4<br>tros CoMp | ne a cualquier<br>pensamientos<br>te a conjuros<br>o, incluyendo<br>o o deseo. La<br>e igual modo<br>iento y otros<br>)<br>onentes: V y S<br>rC: sí<br>ro de un área<br>e salvación de<br>nes, haciendo<br>ble. Si dichas<br>luchar contra<br>zación de -2 a<br>el 4)<br>ponentes: V y S |
 | duraCión: 1 asalto/nivel t | s: CAR nieg | a |  |
@@ -1354,11 +1354,11 @@ Si se molesta al mensajero durante el trance, este despertará y el hechizo term
 
 Gracias a este conjuro, el lanzador es capaz de memorizar hechizos adicionales. En total, se podrán memorizar hasta 3 niveles adicionales; por ejemplo: 3 conjuros de nivel 1, o 1 conjuro de nivel 3. Los conjuros de nivel 0 cuentan como 1/2 nivel. Los conjuros extras se pierden transcurridas 24 horas si no han sido lanzados antes.
 
-###### Moldear energía (ilusionista nivel 5)
+#### Moldear energía (ilusionista nivel 5)
 
-###### TL: 1 Alcance: ver texto Componentes: V y S
+#### TL: 1 Alcance: ver texto Componentes: V y S
 
-| duraCión: ve | r texto | ts: ver texto | rC: |
+| DuraCión: ve | r texto | ts: ver texto | rC: |
 | --- | --- | --- | --- |
 | El lanzador<br>de los siguie<br>muro de hiel<br>telleante, tela<br>tiene su efect<br>parámetros: a<br>embargo, una<br>efectos del co<br>duración, de<br>Moldear<br>tl: 1 | crea una<br>ntes conju<br>o, nube a<br>raña o tor<br>o normal<br>lcance, du<br>tirada de<br>njuro imit<br>su fuerza,<br>energía<br>A | ilusión prácticam<br>ros: bola de fuego<br>pestosa, proyectil<br>menta de hielo. E<br>completo, así co<br>ración, tiradas de<br>salvación exitosa<br>ado al 20% (un 2<br>etc.).<br>mayor (ilusioni<br>lCAnCe: ver texto | ente rea<br>, muro<br>mágico,<br>l hechizo<br>mo el res<br>salvació<br>de INT r<br>0% del d<br>sta niv<br>CoMponen |
 | duraCión: ve | r texto | ts: ver texto | rC: |
@@ -1370,11 +1370,11 @@ Gracias a este conjuro, el lanzador es capaz de memorizar hechizos adicionales. 
 El lanzador moldea ilusiones casi perfectas de un grupo de monstruos que atacarán a sus enemigos a no más de 50 metros del lanzador. Mediante este conjuro se pueden moldear criaturas por un valor total en dados de golpe igual al nivel del lanzador. El conjurador elige la forma que adopta cada una de las ilusiones, si es un goblin, un enano, etc., pero el tamaño de las criaturas debe ser pequeño o mediano. Las ilusiones tienen solo un 40% de los puntos de golpe normales de la criatura que copian.
 Las criaturas atacadas por las ilusiones creerán que son enemigos reales a menos que tengan éxito en una tirada de salvación de INT. Si la tirada de salvación es un fallo, las ilusiones infligen daño normal y tienen todas las habilidades y debilidades habituales del monstruo que copian. Si la tirada de salvación tiene éxito, las habilidades especiales, la CA, el daño que causan, etc., de las ilusiones a las que se enfrenten se reduce a un 40% de los valores habituales. Para que el conjuro funcione, en el área debe haber sombras, siendo válida la del propio lanzador.
 
-###### Moldear sombras verdadero (ilusionista nivel 6)
+#### Moldear sombras verdadero (ilusionista nivel 6)
 
-###### TL: 1 Alcance: 50 metros Componentes: V y S
+#### TL: 1 Alcance: 50 metros Componentes: V y S
 
-| duraCión: 1 asalt | o/nivel | ts: ver | text | o | rC: no |
+| DuraCión: 1 asalt | o/nivel | ts: ver | text | o | rC: no |
 | --- | --- | --- | --- | --- | --- |
 | El lanzador m<br>monstruos qu<br>tros del lanza<br>criaturas por<br>del lanzador.<br>una de las ilu<br>tamaño de las<br>sar los 30 cen<br>tienen solo u<br>criatura que c<br>Las criaturas<br>migos reales<br>salvación de<br>ilusiones infli<br>des y debilida<br>tirada de salv<br>CA, el daño<br>enfrenten se r<br>que el conjur<br>siendo válida<br>Montura<br>tl: 2 | olde<br>e ata<br>dor.<br>un va<br>El co<br>sione<br>criat<br>tímet<br>n 60<br>opia<br>ataca<br>a me<br>INT.<br>gen<br>des h<br>ación<br>que c<br>educe<br>o fu<br>la de<br>de | a ilusiones c<br>carán a sus e<br>Mediante est<br>lor total en<br>njurador eli<br>s, si es un g<br>uras (largo o<br>ros por nive<br>% de los pun<br>n.<br>das por las il<br>nos que ten<br>Si la tirada<br>daño norma<br>abituales de<br>tiene éxito,<br>ausan, etc.,<br>a un 60% d<br>ncione, en e<br>l propio lan<br>dragón (i<br>AlCAnCe: 8 | asi<br>ne<br>e co<br>dad<br>ge l<br>obli<br>an<br>l d<br>tos<br>usi<br>gan<br>de<br>l y<br>l m<br>las<br>de<br>e l<br>l á<br>zad<br>lus<br>me | perfecta<br>migos a n<br>njuro se<br>os de go<br>a forma<br>n, un en<br>cho) no<br>el lanzad<br>de golp<br>ones cree<br>éxito e<br>salvació<br>tienen t<br>onstruo<br>habilida<br>las ilusi<br>os valore<br>rea debe<br>or.<br>ionista<br>tros C | s de un grupo de<br>o más de 50 me-<br>pueden moldear<br>lpe igual al nivel<br>que adopta cada<br>ano, etc., pero el<br>pueden sobrepa-<br>or. Las ilusiones<br>e normales de la<br>rán que son ene-<br>n una tirada de<br>n es un fallo, las<br>odas las habilida-<br>que copian. Si la<br>des especiales, la<br>ones a las que se<br>s habituales. Para<br>haber sombras,<br>nivel 3)<br>oMponentes: V y S |
 | duraCión: 1 mi | n/nive | l ts: INT | nie | ga | rC: sí |
@@ -1383,11 +1383,11 @@ Las criaturas atacadas por las ilusiones creerán que son enemigos reales a meno
 
 El ilusionista adopta la apariencia de un pequeño dragón, que arremete y trata de morder a la víctima. Si la víctima falla una tirada de salvación de INT, sufre 2d6 puntos de daño. La ilusión desaparece inmediatamente después del ataque.
 
-###### Mover la tierra (mago nivel 6)
+#### Mover la tierra (mago nivel 6)
 
-###### TL:
+#### TL:
 
-ver texto Alcance: 150 metros Componentes: V y S | duraCión: ver | texto ts: | no |
+Ver texto Alcance: 150 metros Componentes: V y S | duraCión: ver | texto ts: | no |
 | --- | --- | --- |
 | Este hechizo<br>como derrum<br>ma de una coli<br>no se puede af<br>vo determina<br>cuadrados, el c<br>De esta forma,<br>240 metros cu<br>región de tierr<br>superior a los<br>En cualquier c<br>lentos. En ca<br>tiendo la tierra<br>mayoría (a dis<br>formaciones r<br>se ven afectad<br>y la topografía<br>excavar túnele<br>atrapar o enter<br>rellenar zanjas<br>antes de una b<br>Muro de e<br>tl: 1 | afecta a un áre<br>bar un terraplén<br>na, generar dun<br>ectar a una for<br>el tiempo de lan<br>onjuro consum<br>afectar al área<br>adrados, consum<br>a afectada no p<br>9 metros.<br>aso, mover la t<br>mbio, genera cr<br>afectada en un<br>creción del Nar<br>ocosas y demás<br>os, excepto por<br>relativa. Este h<br>s, y generalme<br>rar criaturas. Su<br>, fosos de castill<br>atalla.<br>spejos (ilusio<br>AlCAnCe: | a de tierra logr<br>, desplazar o ca<br>as, etc. Mediante<br>mación rocosa. E<br>zamiento. Por c<br>e 3 minutos de<br>máxima permiti<br>e 4 horas de lan<br>uede tener una<br>ierra no produc<br>estas y ondulaci<br>a especie de fluid<br>rador) de árboles<br>elementos sobre<br>los cambios en<br>echizo no se pu<br>nte es demasiad<br>uso principal es<br>os o para ajusta<br>nista nivel 5)<br>15 metros CoMpo |
 | duraCión: 2 asalto | s/nivel ts: INT | niega |
@@ -1396,11 +1396,11 @@ ver texto Alcance: 150 metros Componentes: V y S | duraCión: ver | texto ts: | 
 
 El lanzador será capaz de crear un muro de arbustos densos, duros y dotados de espinas aguzadas que impedirán el paso a otras criaturas. El área afectada será de 3 metros cúbicos por nivel del lanzador. Cualquier criatura que intente atravesar la maraña de arbustos espinosos, sufrirá 25 puntos de daño menos la cantidad representada por su CA cada asalto en contacto con el muro. Por ejemplo, un aventurero con CA 15 recibiría 10 puntos de daño. Para lograr un avance significativo, la criatura que lo intente debe tener éxito en una tirada de FUE contra un grado de dificultad de 10. Si falla, no conseguirá un avance significativo, pero igualmente recibirá el daño.
 
-###### Muro de fuego (druida nivel 5, mago nivel 4)
+#### Muro de fuego (druida nivel 5, mago nivel 4)
 
-###### TL: 1 Alcance: 40 metros Componentes: V y S
+#### TL: 1 Alcance: 40 metros Componentes: V y S
 
-| duraCión: 1 asalto/ni | vel ts: | no | rC: no |
+| DuraCión: 1 asalto/ni | vel ts: | no | rC: no |
 | --- | --- | --- | --- |
 | El conjurador, al<br>inmóvil de fuego<br>que permanecerá<br>concentrado y n<br>o cortina de fueg<br>voluntad del lanz<br>conjurador), nun<br>muro de fuego re<br>para toda criatur<br>DG o más recibi<br>te cada asalto qu<br>intentar penetrar<br>a muertos vivient<br>Muro de fue<br>tl: 1 | invocar este<br>de 30 cm de<br>activo mien<br>o realice nin<br>o, puede vari<br>ador (por eje<br>ca excediend<br>sultará mort<br>a con meno<br>rán 1d6 pun<br>e permanezc<br>. Este fuego<br>es y seres de<br>rza (mago<br>AlCAnCe: | poder arcano, cr<br>espesor y 6 me<br>tras el lanzador<br>guna otra acció<br>ar en dimensio<br>mplo, un círcul<br>o los 40 metros<br>al y, por tanto,<br>s de 4 DG. Mo<br>tos de daño por<br>an dentro de la<br>mágico causa d<br>naturaleza basa<br>nivel 5)<br>15 metros CoMp | eará un muro<br>tros de altura,<br>se mantenga<br>n. Este muro,<br>nes y formas a<br>o que rodee al<br>cuadrados. El<br>impenetrable,<br>nstruos con 4<br>fuego duran-<br>s llamas o al<br>oble de daño<br>da en el frío.<br>onentes: V y S |
 | duraCión: 2 asaltos/n | ivel ts: | no | rC: no |
@@ -1408,11 +1408,11 @@ El lanzador será capaz de crear un muro de arbustos densos, duros y dotados de 
 Este conjuro genera una barrera de fuerza, esfera o hemisferio en el sitio que designe el lanzador dentro del alcance del conjuro. Dicha barrera será invisible y no permitirá que nada la traspase, deteniendo todos los ataques físicos y mágicos que intenten penetrarla, así como a cualquier criatura, incluyendo las del plano etéreo. El muro puede tener unas dimensiones de 20 metros de alto por 3 metros por nivel del lanzador de ancho y de 3 centímetros de espesor, o 30 centímetros por nivel del lanzador de diámetro en el caso de la esfera, o 60 centímetros por nivel del lanzador de diámetro en el caso de la forma hemisférica.
 El muro de fuerza no será destruido por un conjuro de disipar magia, únicamente se ve afectado por el conjuro de desintegrar, que lo destruye totalmente. La única forma de atravesar el muro es mediante un conjuro de teleportación. El conjurador puede concluir el conjuro cuando lo desee.
 
-###### Muro de hielo (mago nivel 4)
+#### Muro de hielo (mago nivel 4)
 
-###### TL: 1 Alcance: 40 metros Componentes: V y S
+#### TL: 1 Alcance: 40 metros Componentes: V y S
 
-| duraCión: 1 turno/nivel | ts: no | r | C: no |
+| DuraCión: 1 turno/nivel | ts: no | r | C: no |
 | --- | --- | --- | --- |
 | El lanzador, al invo<br>móvil de hielo tra<br>de altura que perm<br>mantenga concentr<br>muro puede variar<br>lanzador (por ejem<br>nunca excediendo l<br>resulta impenetrabl<br>Monstruos con 4 D<br>romper el hielo par<br>de daño a seres de<br>debe ser conjurado<br>vocarse en una ubic<br>Muro de hier<br>tl: 1 | car este poder a<br>nslúcido de 30<br>anecerá activo<br>ado y no realice<br>en dimensione<br>plo, un círculo<br>os 40 metros cu<br>e para toda cria<br>G o más recibir<br>a atravesarlo. Est<br>naturaleza afín<br>sobre una super<br>ación ocupada<br>ro (mago nive<br>AlCAnCe: 15 m | rcano, creará<br>cm de espesor<br>mientras el c<br>ninguna otra<br>s y forma a v<br>que rodee al<br>adrados. El m<br>tura con men<br>án 1d6 punto<br>e hielo mágico<br>al calor. El m<br>ficie sólida y<br>por un objeto<br>l 5)<br>etros CoMpo | un m<br>y 6<br>onjur<br>acció<br>olun<br>conju<br>uro d<br>os de<br>s de<br>caus<br>uro d<br>no pu<br>o estr<br>nentes |
 | duraCión: permanent | e ts: ver text | o r | C: no |
@@ -1421,11 +1421,11 @@ El muro de fuerza no será destruido por un conjuro de disipar magia, únicament
 
 Si se lanza este conjuro sobre una criatura envenenada aún viva, el conjurador consigue que esta se vuelva inmune a ese veneno de manera permanente y repara los efectos que dicho veneno pudiera haberle causado. Si la criatura ha muerto debido a los efectos del veneno, este conjuro puede traerla de vuelta a la vida si no han transcurrido más de 10 asaltos desde su muerte.
 
-###### Muro de piedra (druida nivel 6, mago nivel 5)
+#### Muro de piedra (druida nivel 6, mago nivel 5)
 
-###### TL: 1 Alcance: 50 metros Componentes: V y S
+#### TL: 1 Alcance: 50 metros Componentes: V y S
 
-| duraCión: p | ermanente | ts: no | rC: |  |
+| DuraCión: p | ermanente | ts: no | rC: |  |
 | --- | --- | --- | --- | --- |
 | Este conjuro<br>de la base y<br>puede darle<br>un puente o<br>también de<br>El muro ser<br>les del lanz<br>ancho y alt<br>ocupada po<br>el muro es<br>trucción es<br>un puente<br>ancho, el m<br>ma dureza,<br>Muro d<br>tl: | crea un mu<br>de cualqui<br>cualquier fo<br>una rampa)<br>piedra sólid<br>á de 3 centí<br>ador, y de 2<br>o. El muro<br>r un objeto<br>susceptible<br>, a discreci<br>extremadam<br>uro dispon<br>los primero<br>e viento<br>1 A | ro de roca que se<br>er pared lateral q<br>rma que desee (s<br>. Es obligatorio q<br>a o de otra forma<br>metros de grosor<br>x 2 metros por<br>no puede invoc<br>, estructura o cri<br>de colapsar si e<br>ón del Narrado<br>ente largo). Por<br>e de 15 PG, aun<br>s 8 PG de cualq<br>(druida nivel<br>lCAnCe: 15 metros | fusionará co<br>ue toque. El<br>e puede usar<br>ue la base del<br>el conjuro f<br>por cada cu<br>nivel del la<br>arse en una<br>atura. Una v<br>s atacado, o<br>r, frágil (por<br>cada 3 centí<br>que debido<br>uier golpe se<br>3)<br>CoMponen |  |
 | duraCión: 1 a | salto/nivel | ts: no | rC: |  |
@@ -1436,11 +1436,11 @@ Si se lanza este conjuro sobre una criatura envenenada aún viva, el conjurador 
 
 El lanzador es capaz de crear una densa niebla que cubrirá su cuerpo extendiéndose por un área de 6 x 6 x 6 metros, entorpeciendo la visión, incluyendo la visión en la oscuridad y la infravisión. Un viento moderado dispersará la niebla en 1d4 asaltos.
 
-###### Niebla ofuscadora (ilusionista nivel 1)
+#### Niebla ofuscadora (ilusionista nivel 1)
 
-###### TL: 1 Alcance: 15 metros Componentes: V y S
+#### TL: 1 Alcance: 15 metros Componentes: V y S
 
-| duraCión: 1d4+1 asaltos | ts: INT nie | ga |
+| DuraCión: 1d4+1 asaltos | ts: INT nie | ga |
 | --- | --- | --- |
 | Mediante este conj<br>sa niebla que cubre<br>este. La víctima no<br>de -4. Sin embargo,<br>ción de INT al fin<br>los efectos.<br>niebla sólida<br>tl: 1 | uro, el lanzado<br>la cabeza del<br>podrá ver y a<br>dicha víctima<br>alizar su asalt<br>(ilusionista n<br>AlCAnCe: 50 m | r crea una pe<br>objetivo y se<br>tacará con un<br>puede inten<br>o para intent<br>ivel 4)<br>etros CoMpo |
 | duraCión: 1 min/nivel | ts: no |  |
@@ -1449,11 +1449,11 @@ El lanzador es capaz de crear una densa niebla que cubrirá su cuerpo extendién
 
 El lanzador creará una nube de color verdoso y aspecto amenazante que se extenderá cubriendo un área de 10 metros de diámetro, envenenando el aire. Esta nube se crea justo delante del conjurador y se aleja de él rodando a un ritmo de 3 metros por asalto hasta un máximo de 50 metros. La nube venenosa es más pesada que el aire y se desplazará por el suelo, introduciéndose en agujeros y descendiendo por ellos. La nube aniquilará automáticamente a cualquier criatura con 3 DG o menos, y forzará a cualquier criatura de 4 a 6 DG a pasar una tirada de salvación de CONo morir también. Una criatura de más de 6 DG, o aquellas de menos, pero que hayan pasado su tirada de salvación, sufrirá 1d10 puntos de daño por cada asalto que permanezca dentro de la nube. Aguantar la respiración no evita los efectos de la nube aniquiladora, aunque las criaturas inmunes al veneno y los muertos vivientes no se verán afectados por este conjuro.
 
-###### Nube apestosa (mago nivel 3)
+#### Nube apestosa (mago nivel 3)
 
-###### TL: 1 Alcance: 10 metros Componentes: V y S
+#### TL: 1 Alcance: 10 metros Componentes: V y S
 
-| duraCión: 1 asalto | /nive | l ts: CO | N niega | rC: | no |
+| DuraCión: 1 asalto | /nive | l ts: CO | N niega | rC: | no |
 | --- | --- | --- | --- | --- | --- |
 | Este hechizo i<br>nauseabundo i<br>sión. Cualquie<br>tirada de salva<br>esté dentro de<br>durante 1d4 +<br>salir de la nub<br>ga de viento m<br>mientras que u<br>nube incen<br>tl: 1 | nvo<br>mp<br>ra q<br>ció<br>la n<br>1 as<br>e to<br>od<br>n v<br>dia | ca una nub<br>enetrable a l<br>ue se vea d<br>n de CON<br>ube o sufri<br>altos. Las cr<br>mando una<br>erado disper<br>iento fuerte<br>ria (ilusio<br>AlCAnCe: | e de 6 x 6<br>a vista, in<br>entro de e<br>exitosa ca<br>r náuseas<br>iaturas afe<br>dirección<br>sa la nube<br>lo hará en<br>nista niv<br>50 metros | x 6 metr<br>cluyendo<br>lla debe<br>da asalto<br>y quedar<br>ctadas so<br>aleatoria.<br>tras cuat<br>un únic<br>el 8, mago<br>CoMponen | os de gas<br>la infravi-<br>hacer una<br>mientras<br>impedido<br>lo pueden<br>Una ráfa-<br>ro asaltos<br>o asalto.<br>nivel 8)<br>tes: V y S |
 | duraCión:<br>1 asalto/2 nive | les | ts: DES | mitad | rC | : sí |
@@ -1461,11 +1461,11 @@ El lanzador creará una nube de color verdoso y aspecto amenazante que se extend
 El lanzador podrá crear una nube de la que brotarán llamaradas. Este denso humo negruzco bloqueará la visión por completo dentro o a través del área afectada, que será de 15 x 15 metros y 5 metros de alto. Toda criatura dentro de la nube recibirá un daño equivalente a 1d6 por nivel del lanzador durante cada asalto que permanezca en el área de efecto del conjuro. Las víctimas afectadas tienen derecho a una tirada de salvación de DES para reducir el daño a la mitad.
 O
 
-###### Ojo arcano (mago nivel 4)
+#### Ojo arcano (mago nivel 4)
 
-###### TL: 1 Alcance: ver texto Componentes: V y S
+#### TL: 1 Alcance: ver texto Componentes: V y S
 
-| duraCión: 1 turno | /nivel | ts: n | o | r |
+| DuraCión: 1 turno | /nivel | ts: n | o | r |
 | --- | --- | --- | --- | --- |
 | El lanzador cr<br>observar el ent<br>pática al mago<br>como si estuvi<br>30 metros. El<br>quier dirección<br>normalmente<br>ojos llame<br>tl: 1 | ea un<br>orno<br>. Este<br>era do<br>ojo ar<br>, aun<br>su pas<br>ant | orbe invis<br>trasmitien<br>ojo arcan<br>tado de in<br>cano pued<br>que los obs<br>o.<br>es (ilusio<br>AlCAnCe: p | ible flotant<br>do esta info<br>o puede ve<br>fravisión, c<br>e flotar len<br>táculos nat<br>nista nivel<br>ersonal C | e que<br>rmaci<br>r en l<br>on un<br>tamen<br>urales<br>2)<br>oMpon |
 | duraCión: 1 asalto | /nivel | ts: n | o | r |
@@ -1478,28 +1478,28 @@ O
 
 Al lanzar este sortilegio, el conjurador podrá regresar a un lugar designado anteriormente, su santuario, vía
 
-###### Oscuridad/luz
+#### Oscuridad/luz
 
-###### diurna
+#### Diurna
 
-(clérigo nivel 2, ilusionista nivel 1, mago nivel 2)
+(Clérigo nivel 2, ilusionista nivel 1, mago nivel 2)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance: 20 metros Componentes: V y S
+#### Alcance: 20 metros Componentes: V y S
 
-| duraCión: 10 min/nivel | ts: no |  | rC: no |
+| DuraCión: 10 min/nivel | ts: no |  | rC: no |
 | --- | --- | --- | --- |
 | Una vez lanzado este so<br>se verá envuelta en una<br>ver en el área con infra<br>normal o mágica podrá<br>Este conjuro se puede a<br>El reverso de este conj<br>efecto con la potente l<br>afectadas por la luz sola<br>correspondientes.<br>teletransportación. De<br>designado a voluntad, i<br>se encuentre. Sin embar<br>pleando este conjuro. P<br>personas hasta un máxi<br>lanzador. Las criaturas<br>se verán afectadas por e<br>palabra poderos<br>mago nivel 7)<br>tl: 1 Al | rtilegio, un á<br>oscuridad to<br>visión; adem<br>penetrar est<br>nular media<br>uro, luz diu<br>uz solar del<br>r diurna suf<br>esta manera,<br>ndependien<br>go, no podr<br>odrá transp<br>mo de 25 kil<br>que no quier<br>l conjuro (ni<br>a aturdi<br>CAnCe: 20 metr | rea de 6<br>tal, ni siq<br>ás, ning<br>a tiniebla<br>nte disip<br>rna, ilum<br>mediodía<br>rirán las<br>puede ev<br>temente<br>á cambia<br>ortar con<br>os de pes<br>an ser tra<br>su equip<br>r (ilusio<br>os Co | metros de radio<br>uiera se podrá<br>ún tipo de luz<br>preternatural.<br>ar magia.<br>ina el área de<br>. Las criaturas<br>penalizaciones<br>adirse al lugar<br>de lo lejos que<br>r de plano em-<br>sigo objetos y<br>o por nivel del<br>nsportadas no<br>o).<br>nista nivel 7,<br>Mponentes: V |
 | duraCión: ver texto | ts: ver texto |  | rC: sí |
 
 Gracias a este conjuro arcano, el lanzador podrá pronunciar una palabra que provocará un estado de estupor en una criatura de su elección, que pasaría a considerarse atontada o aturdida, tanto si la criatura es capaz de oír esta palabra como si no. La duración del conjuro dependerá de la cantidad de puntos de golpe que tenga la criatura afectada. Criaturas con más de 120 puntos de golpe no resultarán afectadas por este hechizo.
 
-###### Tabla de duración del aturdimiento
+#### Tabla de duración del aturdimiento
 
 Puntos de golpe (PG) Duración
 
-| 0 | -30 | 4d4 asaltos |
+| 0 | -30 | 4D4 asaltos |
 | --- | --- | --- |
 | 3 | 1-60 | 2d4 asaltos |
 | 61 | -120 | 1d4 asaltos |
@@ -1517,15 +1517,15 @@ Puntos de golpe (PG) Duración
 12+ Sordos 1d4 asaltos, -2 para golpear, movimiento reducido al 25%
 Este conjuro tiene efecto inverso, y funcionará con las mismas características contra criaturas benévolas.
 
-###### Paralizar monstruo (ilusionista nivel 5, mago
+#### Paralizar monstruo (ilusionista nivel 5, mago
 
-nivel 5)
+Nivel 5)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance: 15 metros Componentes: V y S
+#### Alcance: 15 metros Componentes: V y S
 
-| duraCión: 1 asalto/ni | vel | ts: IN | T niega | r | C: sí |
+| DuraCión: 1 asalto/ni | vel | ts: IN | T niega | r | C: sí |
 | --- | --- | --- | --- | --- | --- |
 | Una vez lanzado<br>a un monstruo d<br>conjuro, las criatu<br>de INT. Las criat<br>pueden moverse<br>ocurre a su alrede<br>pared ilusor<br>tl: 1 | el<br>e cu<br>ras<br>ura<br>ni<br>do<br>ia | conjuro,<br>alquier t<br>han de s<br>s retenid<br>hablar, p<br>r.<br>(ilusioni<br>AlCAnCe: | el conjur<br>ipo. Para<br>uperar un<br>as median<br>ero son c<br>sta nivel<br>15 metros | ador pod<br>eludir los<br>a tirada d<br>te este so<br>onsciente<br>4)<br>CoMpon | rá paralizar<br>efectos del<br>e salvación<br>rtilegio no<br>s de lo que<br>entes: V y S |
 | duraCión: permanen | te | ts | : no | r | C: no |
@@ -1534,11 +1534,11 @@ nivel 5)
 
 Este conjuro crea un portal o pasadizo que permitirá el paso a través de la madera, barro o muros de piedra, pero no a través del metal o un material más duro que este. Este pasadizo es de 3 metros de largo por 1 metro de ancho. Varios usos de este conjuro pueden concatenarse para crear un pasillo más largo. Las criaturas que se aventuren por el pasadizo son depositadas en el espacio libre más cercano si el conjuro termina con ellas dentro.
 
-###### Pasar sin dejar rastro (druida nivel 1)
+#### Pasar sin dejar rastro (druida nivel 1)
 
-###### TL: 1 Alcance: toque Componentes: V y S
+#### TL: 1 Alcance: toque Componentes: V y S
 
-| duraCión: 10 min/n | ivel | ts: no |
+| DuraCión: 10 min/n | ivel | ts: no |
 | --- | --- | --- |
 | El receptor de<br>tipo de terreno<br>patrón arc<br>tl: 1 | este conju<br>sin dejar r<br>oíris (ilu<br>AlCA | ro podrá movers<br>astro alguno.<br>sionista nivel 4)<br>nCe: 15 metros C |
 | duraCión: 1 asalto/n | ivel ts | : INT niega |
@@ -1550,17 +1550,17 @@ Este conjuro crea un portal o pasadizo que permitirá el paso a través de la ma
 Este conjuro crea alrededor del lanzador un refugio hecho de los materiales que hay en el entorno: piedra, barro, madera, etc. Este pequeño refugio puede albergar al lanzador más una criatura de tamaño medio por nivel del lanzador. La cabaña será perfectamente visible desde fuera y se podrá derribar por medios normales y mediante un disipar magia. En el refugio no habrá nada, se trata solo de cuatro paredes y un techo, con una pequeña ventana en cada uno de los lados y una puerta. La cabaña tendrá un tamaño de 2 metros cuadrados por nivel de lanzador y ha de existir el espacio suficiente alrededor del mago para que sea creada.
 Dentro de la cabaña, la temperatura será de 20 ° C, sin importar la que impere en el exterior, y estará iluminada mágicamente.
 
-###### Percepción extrasensorial (ilusionista nivel 2,
+#### Percepción extrasensorial (ilusionista nivel 2,
 
-mago nivel 2)
+Mago nivel 2)
 
-###### Alcance: 2 0 metros
+#### Alcance: 2 0 metros
 
-###### TL: 1
+#### TL: 1
 
-###### Componentes: V y S
+#### Componentes: V y S
 
-| duraCión: 10 min/nivel | ts: no |  | rC: sí |
+| DuraCión: 10 min/nivel | ts: no |  | rC: sí |
 | --- | --- | --- | --- |
 | Este conjuro confiere<br>los pensamientos de<br>centrarse en una direc<br>una criatura dentro d<br>miento de una criatu<br>independencia de la l<br>de un muerto viviente<br>cede con otras mucha<br>Narrador). Este conju<br>la piedra, hasta un má<br>plomo bloquea los efe<br>El lanzador podrá us<br>para ocultar sus pensa<br>extrasensorial de otra<br>mismo conjuro, u otr<br>permanencia (m<br>tl: 1 | al lanzador<br>otras criatura<br>ción para cap<br>el rango de al<br>ra será claram<br>engua que em<br>no pueden e<br>s criaturas es<br>ro puede atra<br>ximo de medi<br>ctos del conju<br>ar este conju<br>mientos al esc<br>criatura, inc<br>as formas de<br>ago nivel 5)<br>AlCAnCe: - | la capacida<br>s. El mag<br>tar los pen<br>cance. Cu<br>ente com<br>plee. Los<br>scucharse,<br>peciales (a<br>vesar la m<br>o metro. N<br>ro de man<br>ro de man<br>rutinio de<br>luyendo e<br>magia adiv<br>CoMp | d de percibir<br>o deberá con-<br>samientos de<br>alquier pensa-<br>prendido, con<br>pensamientos<br>tal y como su-<br>discreción del<br>adera, incluso<br>o obstante, el<br>era completa.<br>era defensiva<br>la percepción<br>l uso de este<br>inatoria.<br>onentes: V y S |
 | duraCión: ver texto | ts: no |  | rC: no |
@@ -1569,11 +1569,11 @@ Este poderoso conjuro es capaz de alterar la energía arcana de otro hechizo inv
 De manera adicional, el lanzador podrá transformar en permanentes los efectos de otros conjuros lanzados por terceros, ya sea sobre su persona, sobre otra criatura, sobre un objeto o sobre un área. Dichos conjuros serían: agrandar, alarma, boca mágica, círculo de teleportación, confusión, esfera prismática, golpe de viento, invisibilidad, luces danzantes, miedo, muro de fuego, muro de fuerza, nube apestosa, puerta de fase, símbolo, sonido fantasma y telaraña. Aunque a discreción del Narrador, es posible ampliar la lista anterior a otros conjuros.
 En el primer caso, un conjuro convertido en permanente solo puede ser disipado por un conjurador de un nivel superior al que poseía el lanzador en el momento en el que invocó la permanencia. En el segundo, disipar magia funciona de la forma habitual. En cualquier caso, en el proceso de lanzamiento del conjuro de permanencia, el mago perderá 1 punto de CON, que le será restaurado en el plazo de 1 mes si tiene éxito en una tirada de salvación de CON, pues de lo contrario la pérdida de CON será permanente.
 
-###### Piedra mágica (druida nivel 1)
+#### Piedra mágica (druida nivel 1)
 
-###### TL: 1 Alcance: toque Componentes: V y S
+#### TL: 1 Alcance: toque Componentes: V y S
 
-| duraCión: v | er texto | ts: no | r |
+| DuraCión: v | er texto | ts: no | r |
 | --- | --- | --- | --- |
 | El lanzador<br>ñas que golp<br>o por medio<br>podrá lanzar<br>rada de ataq<br>daño contra<br>piedra p<br>tl: 10 m | podrá encanta<br>earán con gra<br>de una honda<br>las mismas c<br>ue, causando 1<br>muertos vivie<br>arlante (d<br>in AlC | r tres guij<br>n fuerza si<br>. La criatu<br>on un bo<br>d6+1 pun<br>ntes).<br>ruida niv<br>AnCe: toque | arros o pie<br>son lanza<br>ra que use e<br>nificador d<br>tos de dañ<br>el 6)<br>CoMpon |
 | duraCión: 1 m | in/nivel | ts: no | r |
@@ -1582,22 +1582,22 @@ En el primer caso, un conjuro convertido en permanente solo puede ser disipado p
 
 Las paredes o el suelo, sea natural o artificial, así como cualquier formación rocosa próxima al lanzador, podrá desarrollar en su superficie puntas aguzadas. El lanzador puede afectar un área de 6 x 6 metros por nivel. Las puntas permanecen ocultas hasta que una criatura ajena al lanzador intenta pasar por el área encantada, momento en el que se revelan causando 1d8 puntos de daño por cada metro que se avance. Aquellas criaturas que busquen de forma activa, tienen derecho a una tirada de INT con un penalizador de -1 por cada nivel del lanzador (grado de dificultad de 1) para localizar las púas. Si las descubren y aún así tratan de cruzar, recibirán 1d4 puntos de daño por cada metro que avancen por el área afectada.
 
-###### Piel robliza (druida nivel 2)
+#### Piel robliza (druida nivel 2)
 
-###### TL: 1 Alcance: toque Componentes: V y S
+#### TL: 1 Alcance: toque Componentes: V y S
 
-| duraCión: 10 min/n | ivel ts | : no | rC | : sí |
+| DuraCión: 10 min/n | ivel ts | : no | rC | : sí |
 | --- | --- | --- | --- | --- |
 | Este conjuro en<br>tratase de la cor<br>CA. Este bonific<br>y +5 al llegar al<br>Otra versión o<br>convertirse en u<br>desapercibido. S<br>pequeño halo m<br>ra es imposible d<br>conjurador será c<br>pudiendo escuch<br>Su CA será de +<br>CA por sus DES<br>cualquier mome<br>pirotecnia<br>nivel 2)<br>tl: 1 | durece la pie<br>teza de un á<br>ador se incr<br>nivel 12 y en<br>uso de este<br>n árbol o tro<br>olo un conjur<br>ágico alreded<br>etectar este en<br>onsciente de<br>ar, oler y hab<br>10, pero per<br>. El lanzado<br>nto o esperar<br>(druida nive<br>AlCAnCe | l del lanzad<br>rbol, aportá<br>ementa a +4<br>adelante.<br>conjuro pe<br>nco de mad<br>o de detectar<br>or del árbol,<br>gaño ilusori<br>todo lo que<br>lar, aunque<br>derá cualqui<br>r podrá rever<br>a que finalic<br>l 3, ilusionis<br>: 45 metros | or, tal c<br>ndole u<br>a partir<br>rmite al<br>era, para<br>magia r<br>pues de o<br>o. En esta<br>pasa a su<br>no podrá<br>er bonifi<br>tir su sit<br>e el conju<br>ta nive<br>CoMponen | omo si se<br>n +3 a su<br>de nivel 6<br>lanzador<br>así pasar<br>evelará un<br>tra mane-<br>forma, el<br>alrededor,<br>moverse.<br>cador a la<br>uación en<br>ro.<br>l 2, mago<br>tes: V y S |
 | duraCión: ver tex | to ts: v | er texto | rC | : sí |
 
 El lanzador podrá elegir una fuente de fuego próxima, bien una antorcha o fanal, fuego, hoguera o similar, y emplear dicha llama para crear efectos pirotécnicos (fuegos artificiales), una deflagración de fuego o una densa nube de humo negro. Los fuegos artificiales serán brillantes y cegadores, de colores vivos e intensos. Dichos efectos cegarán momentáneamente a cualquier criatura dentro de un área de 30 metros durante 1d4 asaltos (una tirada de salvación de DES anula este efecto). La resistencia a la magia también evita los efectos de la ceguera. El humo producido se extenderá por un área de 12 metros, entorpeciendo la visión y causando asfixia y tos a todos los presentes dentro de la misma durante 1 asalto por nivel del lanzador.
 
-###### Plaga de insectos (clérigo nivel 5, druida nivel 5)
+#### Plaga de insectos (clérigo nivel 5, druida nivel 5)
 
-###### TL: 1 Alcance: 120 metros Componentes: V y S
+#### TL: 1 Alcance: 120 metros Componentes: V y S
 
-| duraCión: 1 min/nivel | ts: ver te | xto |
+| DuraCión: 1 min/nivel | ts: ver te | xto |
 | --- | --- | --- |
 | Este conjuro logra<br>en una densa nube<br>Para que el conjuro<br>haya presencia de i<br>quede limitada a 3<br>que es igual a 50 m<br>Cualquier criatura<br>de daño automátic<br>criaturas dentro de<br>pavoridas. Las criat<br>una tirada de salvac<br>las criaturas de 6 o<br>concentrarse para<br>lanzador es atacado<br>del conjuro, esta se<br>plegaria (clérig<br>tl: 1 | que una mul<br>, en el punt<br>funcione es<br>nsectos. Los<br>metros en el<br>etros de diám<br>en el interio<br>o al final d<br>la nube con<br>uras entre 3<br>ión de CAR<br>más DG son<br>no perder el<br>o la plaga t<br>disipará.<br>o nivel 3)<br>AlCAnCe: ve | titud de insect<br>o que designe<br>necesario que e<br>bichos hacen q<br>área de efecto d<br>etro por 20 m<br>r de la nube su<br>el asalto. Adem<br>2 DG o menos<br>y 5 DG tiene<br>para evitarlo,<br>inmunes. El la<br>control de la<br>raspasa el límit<br>r texto CoMpo |
 | duraCión: 1 asalto/nivel | ts: no |  |
@@ -1608,11 +1608,11 @@ Polimorfar es un único conjuro que puede funcionar de dos formas diferentes:
 Por un lado, el conjurador es capaz de transformarse en otra criatura lanzándolo sobre sí mismo. En este caso, la transformación dura 10 minutos por nivel del lanzador. Por otro lado, el lanzador puede cambiar de forma permanente la forma de un individuo de su elección a no más de 15 metros. Si el conjuro se lanza sobre una criatura que no desea ser transformada, tendrá derecho a una tirada de salvación de SAB para evitarlo. Si falla, deberá hacer una nueva tirada de salvación cada 12 horas o perder la consciencia sobre sí misma para adoptar la de su forma actual.
 La nueva forma adoptada retendrá los mismos puntos de golpe que los de la criatura de partida y debe poseer los mismos dados de golpe o menos que el nivel del lanzador. Sin embargo, todas las demás habilidades de la nueva criatura estarán presentes, incluyendo características primarias y secundarias, su nivel de inteligencia, instintos, preferencias, alineamiento, etcétera, con la excepción de las habilidades de carácter mágico, si las hubiere (en su nueva forma, la criatura será incapaz de lanzar nuevos conjuros). Por ejemplo, si el conjurador decide transformarse en una gárgola, podrá volar pero no transformarse en piedra. Del mismo modo, si decidiera polimorfarse en una medusa, sería capaz de luchar con la fuerza y habilidad de esta criatura, así como su terrible aspecto, aunque no ganaría la habilidad arcana de petrificar a sus contrincantes. Las posibilidades de este conjuro son numerosas, así que la última palabra sobre los efectos finales del conjuro y las habilidades adquiridas en la transformación, la tendrá siempre el Narrador.
 
-###### Polimorfar objeto (ilusionista nivel 9, mago nivel 8)
+#### Polimorfar objeto (ilusionista nivel 9, mago nivel 8)
 
-###### TL: 1 Alcance: toque Componentes: V y S
+#### TL: 1 Alcance: toque Componentes: V y S
 
-| duraCión: ver texto | ts: S | AB niega r | C: sí |
+| DuraCión: ver texto | ts: S | AB niega r | C: sí |
 | --- | --- | --- | --- |
 | Este conjuro es una<br>no solo afecta a cr<br>formar el aspecto<br>criatura en un obje<br>transformación, ten<br>de SAB para evitar<br>cuando se transfor<br>caso, la transformac<br>portal ilusori<br>tl: 2 | versión<br>iaturas,<br>de un o<br>to. Si la<br>drá der<br>el cam<br>ma un<br>ión se r<br>o de<br>AlCAnC | mejorada de polimo<br>también puede alte<br>bjeto, o incluso co<br>criatura elegida se<br>echo a una tirada d<br>bio. El conjuro es<br>objeto en otro obje<br>evierte pasadas 12 h<br>dejavú (ilusionis<br>e: 15 metros CoMpon | rfar, ya que<br>rar o trans-<br>nvertir una<br>resiste a la<br>e salvación<br>permanente<br>to. En otro<br>oras.<br>ta nivel 4)<br>entes: V y S |
 | duraCión: ver texto | t | s: no r | C: no |
@@ -1623,11 +1623,11 @@ Este conjuro crea una puerta interdimensional entre el plano de existencia en el
 Una vez que la criatura aparece, el mago solicita ayuda a la criatura, la cual, en función de su alineamiento y del cometido que se le solicita, puede acceder a conceder la ayuda al conjurador y pedir un pago a cambio, o decidir que el asunto no tiene la importancia como para que lo hayan molestado y marcharse, o bien colegir que lo que le piden va contra sus convicciones y atacar al propio lanzador, en cualquier caso será el Narrador quien decida la actitud de la criatura llamada.
 También es posible usar este conjuro para viajar entre planos.
 
-###### Prestidigitación (ilusionista nivel 0, mago nivel 0)
+#### Prestidigitación (ilusionista nivel 0, mago nivel 0)
 
-###### TL: 1 Alcance: 3 metros Componentes: V y S
+#### TL: 1 Alcance: 3 metros Componentes: V y S
 
-| duraCión: 1 turno/nivel | ts: no | rC: sí |
+| DuraCión: 1 turno/nivel | ts: no | rC: sí |
 | --- | --- | --- |
 | Este truco arcano pued<br>del lanzador. Por ejemp<br>color de un objeto peq<br>cos). También es posible<br>sustancia (no más de un<br>un objeto pequeño, o cr<br>sonido no muy comple<br>propios de un prestidigi<br>primeros auxilio<br>ilusionista nivel 0)<br>tl: 1 | e originar divers<br>lo, puede limpiar<br>ueño (no más de<br>calentar o enfriar<br>litro). Podremo<br>ear una voluta de<br>jos. En fin, pequ<br>tador que se nos<br>s (clérigo nivel<br>AlCAnCe: toque | os efectos a v<br>, ensuciar o a<br>30 centímetr<br>un objeto peq<br>s igualmente e<br>humo y/o efe<br>eños trucos d<br>pudieran ocur<br>0, druida n<br>CoMponente |
 | duraCión: permanente | ts: no | rC: sí |
@@ -1638,14 +1638,14 @@ También es posible usar este conjuro para viajar entre planos.
 
 Este hechizo crea una esfera invisible en torno al cuerpo del lanzador, de manera que el conjurador ganará un +2 a su CA y a todas sus tiradas de salvación mientras dure el efecto del conjuro contra criaturas malignas o benignas, a elección del lanzador. Adicionalmente, todo individuo bajo los efectos de un conjuro de hechizar persona no podrá atacar al conjurador. Este conjuro no contrarresta los efectos dañinos de un proyectil mágico, pero bloquea efectivamente los efectos de los conjuros de encantamiento y control mental.
 
-###### Protección contra el mal/bien en grupo
+#### Protección contra el mal/bien en grupo
 
-(clérigo nivel 3, mago nivel 3)
+(Clérigo nivel 3, mago nivel 3)
 Alcance: Radio de 3 metros Componentes: V y S
 
-###### TL: 1
+#### TL: 1
 
-| duraCión:<br>3 asaltos/nivel | ts: no |  | rC: no |
+| DuraCión:<br>3 asaltos/nivel | ts: no |  | rC: no |
 | --- | --- | --- | --- |
 | Este hechizo crea u<br>rededor del lanzado<br>nezca dentro del ár<br>sus tiradas de salva<br>contra criaturas ma<br>Adicionalmente, to<br>de hechizar persona<br>pañeros dentro del á<br>dañinos de un pro<br>los efectos de los co<br>protección c<br>tl: 1 | na esfera invisible<br>r, de manera que e<br>ea afectada ganará<br>ción, mientras du<br>lignas o benignas,<br>do individuo bajo l<br>no podrá atacar al<br>rea. Este conjuro n<br>yectil mágico, per<br>njuros de encantam<br>ontra flecha<br>AlCAnCe: toque | de 3 metro<br>ste y todo<br>un +2 a su<br>re el efecto<br>a elección<br>os efectos<br>conjurado<br>o contrarre<br>o bloquea<br>iento y co<br>s (mago<br>CoMpo | s de radio al-<br>el que perma-<br>CA y a todas<br>del conjuro,<br>del lanzador.<br>de un conjuro<br>r ni a los com-<br>sta los efectos<br>efectivamente<br>ntrol mental.<br>nivel 2)<br>nentes: V y S |
 | duraCión: 10 min/nive | l ts: no |  | rC: sí |
@@ -1656,22 +1656,22 @@ Alcance: Radio de 3 metros Componentes: V y S
 
 Gracias a este poderoso conjuro, el lanzador puede crear una proyección astral de su yo, incluyendo todo su equipo, que le permitirá viajar al plano astral y a otros planos conectados por tiempo indefinido. Adicionalmente, el conjurador podrá viajar junto a las proyecciones astrales de otros compañeros, sumando una criatura adicional por cada dos niveles que posea. Los cuerpos del lanzador y sus posibles acompañantes quedarán en un estado de estasis temporal o animación suspendida. Mientras viajen por el plano astral o cualquier otro plano, permanecerán conectados a su cuerpo físico por un cordón plateado. Si el cordón se corta, el viajero morirá tanto en su versión astral como física, si bien hay muy pocas cosas capaces de romper dicho cordón...
 
-###### Proyectar imagen (ilusionista nivel 5, mago nivel 6)
+#### Proyectar imagen (ilusionista nivel 5, mago nivel 6)
 
-###### TL: 10 min Alcance: 15 metros Componentes: V y S
+#### TL: 10 min Alcance: 15 metros Componentes: V y S
 
-| duraCión: 1 asalto/nivel |  | ts: no | r |
+| DuraCión: 1 asalto/nivel |  | ts: no | r |
 | --- | --- | --- | --- |
 | El conjurador podr<br>casi real con la que<br>el conjuro no se ro<br>apariencia al conjur<br>mueve como él, au<br>da imita los gestos<br>habla, que aparenta<br>salvo que el lanzad<br>de forma diferente.<br>la imagen como los<br>lance mientras la i<br>última. Si la image<br>arma u otro objeto,<br>proyectar pe<br>tl: 10 min | á genera<br>deberá<br>mpa. La<br>ador: ha<br>nque es<br>producid<br>rá produ<br>or se co<br>El conj<br>suyos p<br>magen e<br>n es toc<br>desapar<br>sadill<br>AlCAn | r una versión<br>mantener lín<br>imagen pro<br>bla con el m<br>intangible.<br>os por el la<br>cirse desde<br>ncentre para<br>urador podr<br>ropios y cua<br>sté activa, se<br>ada, ya sea<br>ecerá inmed<br>as (ilusion<br>Ce: ver texto | ilusoria<br>ea de visi<br>yectada es<br>ismo ton<br>Esta imag<br>nzador, in<br>la imagen<br>que la i<br>á usar los<br>lquier co<br>originar<br>con una<br>iatamente<br>ista nive<br>CoMpon |
 | duraCión: ver texto | ts: | CAR niega | r |
 
 El conjurador envía una visión espantosa a una única criatura específica que se debe nombrar o designar sin posibilidad de error en el momento del lanzamiento. Las pesadillas sufridas a raíz de la visión evitan que el blanco goce de un sueño reparador, le causan 1d10 puntos de daño y lo dejan cansado e incapaz de memorizar hechizos arcanos durante 24 horas. Disipar el mal sobre la víctima cuando esta comienza a sufrir las pesadillas evita estos efectos y aturde al lanzador (no podrá llevar a cabo ninguna acción) durante 10 minutos por nivel del conjurador que utilizó la disipación. Si el blanco de las pesadillas está despierto en el momento del lanzamiento del conjuro, el lanzador puede optar por abandonar el intento (finalizando el hechizo inmediatamente) o entrar en trance hasta que la víctima se duerma. Si se molesta al conjurador mientras está en trance, el hechizo se pierde. Mientras siga en trance, el lanzador no es consciente de lo que ocurre a su alrededor. Las criaturas que no duermen o sueñan son inmunes a este hechizo.
 
-###### Proyectil mágico (mago nivel 1)
+#### Proyectil mágico (mago nivel 1)
 
-###### TL: 1 Alcance: 50 metros Componentes: V y S
+#### TL: 1 Alcance: 50 metros Componentes: V y S
 
-| duraCión: instantáneo | ts: | no r | C: sí |
+| DuraCión: instantáneo | ts: | no r | C: sí |
 | --- | --- | --- | --- |
 | Al conjurar este sort<br>a una flecha surgirá<br>la víctima elegida d<br>encuentre en la líne<br>alcance efectivo. El<br>se permite tirada de<br>Por cada dos nivele<br>1 proyectil adiciona<br>nivel 3 el lanzador c<br>nivel 7 y así, sucesiv<br>puede golpear objeti<br>puerta de fas<br>tl: 1 | ilegio, un<br>de los ded<br>e manera i<br>a de visió<br>proyectil c<br>salvación<br>s de expe<br>l a su inv<br>onjurará<br>amente. C<br>vos diferen<br>e (mago n<br>AlCAnCe | proyectil luminos<br>os del lanzador y<br>nfalible, siempre<br>n del lanzador y<br>ausa un daño de 1<br>para eludir sus efe<br>riencia, el conjur<br>ocación. Así, por<br>2 proyectiles, 3 a n<br>ada uno de estos<br>tes.<br>ivel 7)<br>: toque CoMpo | o parecido<br>golpeará a<br>que esta se<br>dentro del<br>d4+1 y no<br>ctos.<br>ador suma<br>ejemplo, a<br>ivel 5, 4 a<br>proyectiles<br>nentes: V |
 | duraCión: ver texto | ts: | no rC | : no |
@@ -1680,15 +1680,15 @@ El conjurador envía una visión espantosa a una única criatura específica que
 
 El lanzador se transporta instantáneamente desde la ubicación actual a cualquier otro lugar dentro del alcance del hechizo. El conjurador siempre llega exactamente al punto deseado e indicado. Tras usar este hechizo, el lanzador no puede realizar ninguna otra acción hasta su siguiente asalto. Si el conjurador trata de materializarse en un punto que ya está ocupado por un cuerpo sólido, quedará atrapado en el plano astral. Todo lo que el lanzador lleva, hasta un máximo de 250 kilos, se transporta con él.
 
-###### Purificar agua y comida/pudrir (clérigo
+#### Purificar agua y comida/pudrir (clérigo
 
-nivel 0, druida nivel 0)
+Nivel 0, druida nivel 0)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance:  3 metros Componentes: V y S
+#### Alcance:  3 metros Componentes: V y S
 
-| duraCión: permanen | te | ts: no r |
+| DuraCión: permanen | te | ts: no r |
 | --- | --- | --- |
 | Este conjuro pro<br>contaminada, en<br>y en perfecto est<br>hasta 10 metros c<br>Este conjuro es<br>pudrir comida y<br>incluso el agua sa<br>Quitar cegu<br>o sordera (cl<br>tl: 1 | voca que<br>mal esta<br>ado para<br>úbicos de<br>reversible<br>agua. Es<br>grada.<br>era o s<br>érigo niv<br>AlC | cualquier tipo de com<br>do o envenenada, se<br>ser ingerida. Se puede<br>agua por nivel.<br>y se puede transfor<br>te conjuro es capaz d<br>Q<br>ordera/causar<br>el 3, ilusionista nive<br>AnCe: toque CoMpon |
 | duraCión: permanen | te ts | : ver texto r |
@@ -1699,15 +1699,15 @@ El lanzador inspira valor al receptor de este conjuro, elevando sus tiradas de s
 El reverso del conjuro, causar miedo, hace que una criatura huya presa del pánico, alejándose del lanzador, a su velocidad máxima de movimiento durante 1d4 asaltos. Superar una tirada de salvación de CAR anula este efecto. Ambos conjuros, quitar el miedo y causar miedo, se contrarrestan entre sí.
 Ninguno de los dos conjuros tiene efecto sobre muertos vivientes.
 
-###### Quitar maldición/lanzar maldición (clérigo
+#### Quitar maldición/lanzar maldición (clérigo
 
-nivel 3, mago nivel 4)
+Nivel 3, mago nivel 4)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance:
+#### Alcance:
 
-toque Componentes: V y S | duraCión: permanent | e ts | : no | rC | : sí |
+Toque Componentes: V y S | duraCión: permanent | e ts | : no | rC | : sí |
 | --- | --- | --- | --- | --- |
 | Mediante este con<br>maldición de una<br>de quitar todas las<br>especial, categoría<br>que pueden reque<br>o que directament<br>El reverso de este<br>una maldición s<br>elegir uno de los<br>característica (qu<br>de 1) o una pena<br>radas de salvació<br>puede inventar u<br>no debe ser más<br>y siempre debe s<br>dición no se pue<br>puede anular con<br>un conjuro de de<br>Quitar pará<br>tl: 1 | juro el lanz<br>criatura u<br>maldicion<br>que queda<br>rir un ciert<br>e no puede<br>hechizo p<br>obre una<br>siguientes<br>e no puede<br>lización de<br>n y tiradas<br>na nueva m<br>poderosa<br>er aprobad<br>de elimina<br>un deseo<br>seo.<br>lisis (cléri<br>AlCAnC | ador es ca<br>objeto. E<br>es excepto<br>a discrec<br>o nivel po<br>n elimina<br>ermite al<br>criatura.<br>efectos: -<br>quedar r<br>-4 a las t<br>de caracte<br>aldición<br>que las m<br>a por el<br>r con dis<br>limitado,<br>go nivel<br>e: toque | paz de eli<br>ste conjur<br>aquellas<br>ión del N<br>r parte de<br>rse.<br>lanzador<br>El lanzad<br>6 a al val<br>educida p<br>iradas de<br>rística. E<br>si así lo d<br>aldicione<br>Narrador.<br>ipar magi<br>quitar m<br>2)<br>CoMpone | minar una<br>o es capaz<br>de carácter<br>arrador y<br>l lanzador,<br>implantar<br>or puede<br>or de una<br>or debajo<br>ataque, ti-<br>l lanzador<br>esea, pero<br>s estándar<br>Una mal-<br>a, pero se<br>aldición o<br>ntes: V y S |
 | duraCión: permanent | e ts: CO | N niega | rC | : sí |
@@ -1715,11 +1715,11 @@ toque Componentes: V y S | duraCión: permanent | e ts | : no | rC | : sí |
 Este es un sortilegio muy útil, que permite eliminar los efectos de la parálisis inducida mágicamente, o por el toque de un necrófago; y también borra los efectos de conjuros de ralentizar o inmovilizar.
 R
 
-###### Rayo centelleante (mago nivel 3)
+#### Rayo centelleante (mago nivel 3)
 
-###### TL: 1 Alcance: ver texto Componentes: V y S
+#### TL: 1 Alcance: ver texto Componentes: V y S
 
-| duraCión: i | nstantáneo | ts: DES | mitad | r |
+| DuraCión: i | nstantáneo | ts: DES | mitad | r |
 | --- | --- | --- | --- | --- |
 | El lanzado<br>golpeará a<br>trayectoria<br>dor puede<br>15 metros<br>de largo. L<br>del lanzado<br>De igual m<br>dañará tod<br>conjuro tie<br>resultar exi<br>Rayo de<br>tl: | r podrá co<br>las criatur<br>dentro del<br>elegir gene<br>de largo o<br>a descarga<br>r y surgirá<br>odo, el ra<br>o aquello q<br>ne derecho<br>tosa, reduc<br>muerte<br>1 | njurar u<br>as u objet<br>alcance e<br>rar un ra<br>de 1,5 me<br>causa 1d<br>de la ma<br>yo infla<br>ue encue<br>a una ti<br>irá el dañ<br>(druida<br>AlCAnCe: 2 | n potente<br>os que se i<br>fectivo del<br>yo de 3 me<br>tros de anc<br>6 puntos<br>no extendi<br>mará objet<br>ntre a su pa<br>rada de sal<br>o recibido<br>nivel 8, m<br>0 metros | rayo e<br>nterpo<br>conju<br>tros de<br>ho po<br>de dañ<br>da del<br>os com<br>so. La<br>vación<br>a la m<br>ago n<br>CoMpon |
 | duraCión: i | nstantáneo | ts: ver | texto | r |
@@ -1728,11 +1728,11 @@ R
 
 Un rayo de color marrón sale despedido desde la palma de la mano del conjurador para trastocar la esencia vital del objetivo, transformando los posibles atributos primarios de FUE, DES y CON en secundarios mientras dure el efecto del conjuro. Además, la víctima sufrirá un penalizador -1 a su tirada de ataque y a su tirada de daño por cada cuatro niveles del lanzador.
 
-###### Rayo zigzagueante (mago nivel 6)
+#### Rayo zigzagueante (mago nivel 6)
 
-###### TL: 1 Alcance: 150 metros Componentes: V y S
+#### TL: 1 Alcance: 150 metros Componentes: V y S
 
-| duraCión: instantá | neo ts: | DES mitad |  | rC: sí |
+| DuraCión: instantá | neo ts: | DES mitad |  | rC: sí |
 | --- | --- | --- | --- | --- |
 | Una vez lanzado<br>de los dedos de<br>designados. El<br>del lanzador al<br>tado este, el ra<br>como el nivel d<br>máximo a 15 m<br>decidir impacta<br>permitido, si as<br>será la mitad de<br>los usados cont<br>impactadas tien<br>DES para reduc<br>Recado (cléri<br>tl: 10 min | , el conjur<br>l conjurad<br>rayo causa<br>primer bla<br>yo salta h<br>el lanzad<br>etros del b<br>r a menos<br>í lo desea<br>dados de<br>ra el blan<br>en derech<br>ir el daño<br>go nivel 4<br>AlCA | o desencadena<br>or en direcció<br>1d6 puntos<br>nco del conjur<br>acia tantos bl<br>or, que deben<br>lanco inicial.<br>blancos secun<br>. El daño cau<br>6 (redondean<br>co principal.<br>o a una tirad<br>a la mitad.<br>)<br>nCe: ver texto | un ra<br>n a lo<br>de dañ<br>o. Un<br>ancos<br>encon<br>El lanz<br>darios<br>sado e<br>do hac<br>Todas l<br>a de s<br>CoMpo | yo que parte<br>s oponentes<br>o por nivel<br>a vez impac-<br>secundarios<br>trarse como<br>ador puede<br>del máximo<br>n este caso<br>ia abajo) de<br>as criaturas<br>alvación de<br>nentes: V y S |
 | duraCión: ver te | xto | ts: no | r | C: no |
@@ -1743,11 +1743,11 @@ Un rayo de color marrón sale despedido desde la palma de la mano del conjurador
 
 Este potente conjuro permitirá al lanzador traer de nuevo a la vida al espíritu de una criatura muerta (siempre que no haya transcurrido más de una semana desde su fallecimiento), reencarnando su alma en el cuerpo de un animal de la elección del conjurador: gatos, perros, felinos, úrsidos, aves rapaces, mapaches, etcétera. La criatura reencarnada retendrá sus recuerdos, conservando sus puntuaciones de característica de INT, SAB y CAR. Las restantes características serán establecidas según el criterio del Narrador y teniendo en consideración el tipo de animal escogido. La criatura también retendrá su clase de aventurero, pero según el tipo de animal, lo más probable es que no pueda ganar más niveles o emplear sus habilidades especiales de clase. Un conjuro de reencarnar, sumado a un conjuro de deseo, podría devolver a la criatura a su forma original, siempre a criterio del Narrador.
 
-###### Refugio seguro (ilusionista nivel 4)
+#### Refugio seguro (ilusionista nivel 4)
 
-###### TL: 10 min Alcance: 15 metros Componentes: V y S
+#### TL: 10 min Alcance: 15 metros Componentes: V y S
 
-| duraCión:<br>2 horas/nivel | ts: no | r |
+| DuraCión:<br>2 horas/nivel | ts: no | r |
 | --- | --- | --- |
 | El lanzador crea un<br>partir de materiales<br>tos, el refugio parec<br>robusta, dos ventana<br>menea y muebles se<br>una pequeña mesa, o<br>de cocina simples. E<br>normal, pero la puer<br>por un hechizo de<br>chimenea por una r<br>más, las tres áreas es<br>Por último, el refugi<br>órdenes del lanzado<br>que podrá asistirles<br>criatura alguna.<br>Regenerar (cléri<br>nivel 9)<br>tl: 3 | a cabaña o r<br>disponibles e<br>erá una cabañ<br>s con contrav<br>ncillos, inclu<br>cho taburetes<br>l refugio es ta<br>ta y las contr<br>cerradura (ve<br>ejilla de hierr<br>tán afectadas<br>o cuenta con<br>r y a los dem<br>aunque no co<br>go nivel 7, d<br>AlCAnCe: to | efugio de 8 x<br>n el área. A tod<br>a normal, con<br>entanas, una p<br>yendo hasta o<br>, un escritorio<br>n seguro como<br>aventanas están<br>r apertura/cerr<br>o y un tiro est<br>por un conjuro<br>un sirviente in<br>ás ocupantes<br>mbatirá ni se e<br>ruida nivel 8,<br>que CoMpon |
 | duraCión: permanente | ts: no | r |
@@ -1758,11 +1758,11 @@ Este potente conjuro permitirá al lanzador traer de nuevo a la vida al espírit
 
 El lanzador puede emplear este conjuro para invocar una ola de potente magia frente a él, que ocupará un corredor de 50 metros de largo, 35 de ancho y 3 metros de alto. Todo objeto de madera en el área afectada resultará repelido. Objetos de madera de más de 10 centímetros de ancho que estén firmemente fijados en el suelo no se moverán, pero sí lo harán otros objetos que estén fabricados en madera y anden sueltos, como armas (incluyendo máquinas de asedio), escudos, barriles, incluso objetos mágicos con partes de madera. Los objetos afectados serán repelidos a una velocidad de 12 metros por asalto en dirección contraria al lanzador.
 
-###### Repeler piedra o metal (druida nivel 8)
+#### Repeler piedra o metal (druida nivel 8)
 
-###### TL: 1 Alcance: ver texto Componentes: V y S
+#### TL: 1 Alcance: ver texto Componentes: V y S
 
-| duraCión: 1 asa | lto/nivel t | s: no | rC: no |
+| DuraCión: 1 asa | lto/nivel t | s: no | rC: no |
 | --- | --- | --- | --- |
 | El lanzador<br>ola de poten<br>de 50 metro<br>que apartará<br>lanzador. O<br>metros de a<br>o que pesen<br>sí lo harán<br>metal y ande<br>de asedio), a<br>mágicos con<br>jetos serán e<br>a una veloc<br>que porten<br>apartadas ju<br>Repeler s<br>tl: 1 | puede emplear<br>te energía mág<br>s de largo por 3<br>todo objeto d<br>bjetos de piedr<br>ncho que estén<br>más de 250 kil<br>otros objetos q<br>n sueltos, com<br>rmaduras, escu<br>partes fabrica<br>xpulsados en d<br>idad de 12 me<br>dichos objetos<br>nto con ellos.<br>abandijas (d<br>AlCAnC | este conjuro pa<br>ica frente a él e<br>5 de ancho y 3<br>e roca o metal<br>a o metal de m<br>firmemente fija<br>ogramos no se<br>ue estén fabric<br>o armas (incluye<br>dos, barriles e i<br>das en piedra o<br>irección contra<br>tros por asalto<br>y no puedan<br>ruida nivel 4)<br>e: personal Co | ra invocar una<br>n un corredor<br>metros de alto,<br>del camino del<br>ás de 10 centí-<br>dos en el suelo<br>moverán, pero<br>ados en roca o<br>ndo máquinas<br>ncluso objetos<br>metal. Los ob-<br>ria al lanzador<br>. Las criaturas<br>soltarlos serán<br>Mponentes: V y S |
 | duraCió<br>10 min/n | n:<br>ts:<br>ivel | ver texto | rC: sí |
@@ -1773,11 +1773,11 @@ El lanzador puede emplear este conjuro para invocar una ola de potente magia fre
 
 Cuando lanzamos este hechizo, una fuerza arcana nos envuelve de manera invisible, protegiéndonos de las inclemencias meteorológicas. Podremos soportar temperaturas extremas de calor y frío sin sufrir consecuencias. Por ejemplo, podremos caminar en plena ventisca invernal solo ataviados con ropas normales, incluso desnudos, sin sufrir congelamiento.
 
-###### Respirar bajo el agua (druida nivel 3, mago nivel 3)
+#### Respirar bajo el agua (druida nivel 3, mago nivel 3)
 
-###### TL: 1 Alcance: toque Componentes: V y S
+#### TL: 1 Alcance: toque Componentes: V y S
 
-| duraCión:<br>2 horas/nivel | ts: CON niega |  |
+| DuraCión:<br>2 horas/nivel | ts: CON niega |  |
 | --- | --- | --- |
 | El conjurador, u otra cr<br>respirar normalmente ba<br>superficie. Cualquier nú<br>beneficios de este conjur<br>tos mágicos del conjuro<br>total del mismo entre ca<br>si disponemos de 6 hora<br>que 3 individuos puedan<br>de ellos podrá respirar b<br>Restablecimiento (<br>tl: 1 hora | iatura elegida<br>jo el agua com<br>mero de indiv<br>o a la vez, pero<br>se obtendrá<br>da uno de los<br>s de duración<br>beneficiarse<br>ajo el agua no<br>clérigo nivel<br>AlCAnCe: toque | por el lanz<br>o si se enc<br>iduos pued<br>la duració<br>dividiendo<br>afectados.<br>del conjuro<br>de sus efect<br>más de 2 h<br>4, ilusionis<br>CoMpo |
 | duraCión: permanente | ts: no |  |
@@ -1786,11 +1786,11 @@ Cuando lanzamos este hechizo, una fuerza arcana nos envuelve de manera invisible
 
 Restablecimiento mayor elimina todos los efectos que reducen o penalizan los bonificadores de característica, restaura todos los puntos de característica perdidos, sin importar si la pérdida era temporal o permanente. También sana todas las formas de locura, confusión, debilidad mental y otros efectos mentales similares. Incluso es capaz de restaurar todos los niveles perdidos a causa del toque de los muertos vivientes (restituyendo todos los beneficios de clase perdidos, como los puntos de golpe o las habilidades especiales). Sin embargo, este último uso solo funciona si el hechizo se lanza antes de que transcurra más de 1 semana desde la pérdida.
 
-###### Restablecimiento menor (clérigo nivel 2)
+#### Restablecimiento menor (clérigo nivel 2)
 
-###### TL: 10 min Alcance: toque Componentes: V y S
+#### TL: 10 min Alcance: toque Componentes: V y S
 
-| duraCión: permanente | ts: n | o | rC: sí |
+| DuraCión: permanente | ts: n | o | rC: sí |
 | --- | --- | --- | --- |
 | Este conjuro permite re<br>rísticas perdidas por ata<br>habilidades especiales, si<br>permanente.<br>Resurrección (clérig<br>tl: 1 min A | poner l<br>ques esp<br>empre y<br>o nivel<br>lCAnCe: | as puntua<br>eciales, ve<br>cuando la<br>5)<br>toque C | ciones de caracte-<br>nenos o el uso de<br>pérdida no fuera<br>oMponentes: V y S |
 | duraCión: permanente | ts: n | o | rC: no |
@@ -1801,15 +1801,15 @@ Restablecimiento mayor elimina todos los efectos que reducen o penalizan los bon
 
 Este conjuro extremadamente poderoso puede retornar a la vida a cualquier criatura, incluso aquellos que murieron desintegrados, por un conjuro de muerte o han sido reanimados como muertos vivientes. El individuo volverá completamente sanado, con todos sus miembros restaurados, así como libre de enfermedades y venenos. Tampoco perderá niveles ni puntos de CON debidos a la resurrección. La única limitación para este conjuro son las criaturas muertas de forma natural por la edad y aquellas que pertenecen a otros planos o son constructos (como un gólem).
 
-###### Revivir a los muertos (clérigo nivel 3, mago
+#### Revivir a los muertos (clérigo nivel 3, mago
 
-nivel 5)
+Nivel 5)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance: 15 metros Componentes: V y S
+#### Alcance: 15 metros Componentes: V y S
 
-| duraCión: perm | anent | e ts: | no |
+| DuraCión: perm | anent | e ts: | no |
 | --- | --- | --- | --- |
 | Este conjuro<br>vivientes los c<br>dos, aunque la<br>superará los 2<br>dependiendo<br>como zombis<br>nual disponem<br>Las criaturas<br>lanzador, que<br>que se queden<br>quier criatura<br>sigan al lanza<br>no es posible<br>en DG a 2 D<br>lanzador debe<br>límite. Los esq<br>dos no se pue<br>Rociada de<br>tl: 1 | perm<br>uerp<br>sum<br>DG<br>del<br>o co<br>os<br>anim<br>pue<br>en u<br>o es<br>dor.<br>acu<br>G p<br>libe<br>uele<br>den<br>co | ite al lanz<br>os dentro de<br>a de los DG<br>por nivel d<br>estado de d<br>mo esquelet<br>de las caract<br>adas pasará<br>de darles órd<br>n lugar par<br>pecie en par<br>Mediante m<br>mular una f<br>or nivel del<br>rar a las cria<br>tos o zomb<br>volver a ani<br>lor (ilusio<br>AlCAnCe: | ador animar c<br>un área de 20<br>de las criatura<br>el lanzador. Di<br>escomposición<br>os (en el bestia<br>erísticas de am<br>n a estar cont<br>enes verbales s<br>a protegerlo, at<br>ticular que ent<br>últiples usos d<br>uerza controla<br>lanzador. Si e<br>turas necesarias<br>is animados qu<br>mar mediante e<br>nista nivel 1)<br>8 metros CoM |
 | duraCión: instan | táneo | ts: ver | texto |
@@ -1821,7 +1821,7 @@ nivel 5)
 Este conjuro puede ser lanzado sobre el propio lanzador o sobre cualquier criatura que toque. Una vez realizado el conjuro, el objetivo del mismo podrá saltar 10 metros hacia delante, 3 hacia atrás o 5 hacia arriba hasta agotar su duración. Este salto no impide al aventurero efectuar la acción que desee durante su asalto; por ejemplo, permitiéndole saltar y atacar durante un mismo asalto.
 Siete rayos de luz multicolor salen proyectados desde la mano del lanzador para cubrir un área cónica de 8 metros de ancho por 15 de largo. Las criaturas dentro del área que tengan 8 DG o menos, quedan cegadas durante 2d4 asaltos de forma automática. Además, todas las criaturas en el área (sin importar sus DG) reciben el impacto aleatorio de uno o más rayos, lo que se determina tirando un 1d8 por cada criatura.
 
-###### Tabla de efectos de la rociada prismática
+#### Tabla de efectos de la rociada prismática
 
 Tirada (1d8) Color del rayo Efecto
 
@@ -1841,11 +1841,11 @@ Tirada (1d8) Color del rayo Efecto
 Este conjuro sanará todas las heridas de una criatura, restaurando sus puntos de golpe al máximo permitido, eliminando igualmente cualquier enfermedad sufrida, así como una sordera o ceguera eventuales. También restaurará puntos de característica temporalmente perdidos. El conjuro también eliminará venenos del cuerpo de la víctima, y efectos mentales provocados de manera natural o mágica, como la locura u otros desórdenes parecidos. Sin embargo, el conjuro de sanar no restaura niveles ni puntos de característica perdidos de manera permanente.
 Sanar es un conjuro reversible (dañar). Si el lanzador tiene éxito en un ataque sin armas contra un enemigo muerto viviente, le causará 10d10 puntos de daño.
 
-###### Sanar en masa/dañar en masa (clérigo nivel 8)
+#### Sanar en masa/dañar en masa (clérigo nivel 8)
 
-###### TL: 1 Alcance: 6 metros Componentes: V y S
+#### TL: 1 Alcance: 6 metros Componentes: V y S
 
-| duraCión: instantáneo | ts: no |  |
+| DuraCión: instantáneo | ts: no |  |
 | --- | --- | --- |
 | Este conjuro sanará<br>ras en un radio de<br>puntos de golpe tot<br>sufrida, así como la<br>restaurará puntos de<br>El conjuro también<br>víctimas, y efectos m<br>o mágica, como la l<br>embargo, el conjuro<br>puntos de caracterís<br>Por otra parte, el co<br>en masa), capaz de c<br>muertos vivientes de<br>santuario (clé<br>tl: 1 | todas las her<br>6 metros del la<br>ales, eliminand<br>sordera y cegu<br>característica<br>eliminará ven<br>entales provo<br>ocura u otros<br>de sanar en m<br>tica perdidos d<br>njuro tiene un<br>ausar 10d12 pu<br>ntro del área.<br>rigo nivel 1)<br>AlCAnCe: toqu | idas de t<br>nzador,<br>o cualqu<br>era even<br>perdidos<br>enos de<br>cados de<br>desórden<br>asa no re<br>e manera<br>a versión<br>ntos de<br>e Co |
 | duraCión:<br>10 asaltos/nivel | ts: CAR nieg | a |
@@ -1856,53 +1856,53 @@ Sanar es un conjuro reversible (dañar). Si el lanzador tiene éxito en un ataqu
 
 El conjurador puede crear un área de silencio mágico hasta 120 metros de distancia desde su posición. El área será de 4 x 4 metros, y en su interior no pueden desarrollarse conversaciones, ni formularse conjuros verbales. Ningún sonido será audible dentro del área. Cuando esta área se conjura centrada en una criatura, el área se mueve con esta. Sin embargo, si la criatura está al corriente del intento, tiene derecho a una tirada de salvación de DES para evitar los efectos, que pasan a quedar centrados en el espacio que ocupaba la criatura en el momento del lanzamiento.
 
-###### Símbolo (clérigo nivel 8, ilusionista nivel 9, mago
+#### Símbolo (clérigo nivel 8, ilusionista nivel 9, mago
 
-nivel 8)
+Nivel 8)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance:
+#### Alcance:
 
-toque Componentes: V y S Duración: ver texto TS: ver texto RC: sí El conjuro de símbolo, también conocido como glifo, permitirá al lanzador inscribir una potente runa o marca arcana en una superficie. Existen ocho tipos diferentes de símbolos o glifos que pueden ser inscritos mágicamente mediante este conjuro. Estas runas arcanas se activarán cuando alguien las toque, pase sobre ellas, las lea o manipule de algún modo, según los designios del lanzador. La única manera efectiva de identificar uno de estos símbolos es leyéndolo, aunque hacerlo provocará que se active. Estos son los diferentes símbolos que se pueden inscribir con este conjuro:
+Toque Componentes: V y S Duración: ver texto TS: ver texto RC: sí El conjuro de símbolo, también conocido como glifo, permitirá al lanzador inscribir una potente runa o marca arcana en una superficie. Existen ocho tipos diferentes de símbolos o glifos que pueden ser inscritos mágicamente mediante este conjuro. Estas runas arcanas se activarán cuando alguien las toque, pase sobre ellas, las lea o manipule de algún modo, según los designios del lanzador. La única manera efectiva de identificar uno de estos símbolos es leyéndolo, aunque hacerlo provocará que se active. Estos son los diferentes símbolos que se pueden inscribir con este conjuro:
 
-###### Símbolo de conflicto:
+#### Símbolo de conflicto:
 
-cuando se activa, todas las criaturas en un radio de 10 metros comenzarán a discutir entre ellas de forma acalorada durante 5d4 asaltos si fallan una tirada de salvación de INT. Criaturas con alineamientos contrapuestos tienen un 50% de posibilidades de llegar a pelear durante 2d4 asaltos.
+Cuando se activa, todas las criaturas en un radio de 10 metros comenzarán a discutir entre ellas de forma acalorada durante 5d4 asaltos si fallan una tirada de salvación de INT. Criaturas con alineamientos contrapuestos tienen un 50% de posibilidades de llegar a pelear durante 2d4 asaltos.
 
-###### Símbolo de muerte:
+#### Símbolo de muerte:
 
-al activar este símbolo, la criatura más próxima (radio de 10 metros) que no tenga más de 80 puntos de golpe morirá de forma instantánea si falla una tirada de salvación de CON.
+Al activar este símbolo, la criatura más próxima (radio de 10 metros) que no tenga más de 80 puntos de golpe morirá de forma instantánea si falla una tirada de salvación de CON.
 
-###### Símbolo de la desesperación:
+#### Símbolo de la desesperación:
 
 Todas las criaturas en un radio de 10 metros deberán realizar una tirada de salvación de SAB o abandonarán el área de efecto presas de la desesperanza. Este sentimiento durará 3d4 asaltos, intervalo en el cual las criaturas afectadas se mostrarán incapaces de luchar y huirán de cualquier combate.
 
-###### Símbolo de miedo:
+#### Símbolo de miedo:
 
-todas las criaturas en un radio de 10 metros deberán realizar una tirada de salvación de CAR con un penalizador de -4 o sufrirán los efectos del conjuro miedo.
+Todas las criaturas en un radio de 10 metros deberán realizar una tirada de salvación de CAR con un penalizador de -4 o sufrirán los efectos del conjuro miedo.
 
-###### Símbolo de locura:
+#### Símbolo de locura:
 
-al activar esta runa, todos los seres próximos (10 metros de radio) enloquecerán irremediablemente, como si estuvieran bajo los efectos de un conjuro de confusión permanente. Las víctimas tendrán derecho a una tirada de salvación de INT. Los efectos de esta locura pueden curarse mediante un conjuro de deseo o sanar.
+Al activar esta runa, todos los seres próximos (10 metros de radio) enloquecerán irremediablemente, como si estuvieran bajo los efectos de un conjuro de confusión permanente. Las víctimas tendrán derecho a una tirada de salvación de INT. Los efectos de esta locura pueden curarse mediante un conjuro de deseo o sanar.
 
-###### Símbolo de dolor:
+#### Símbolo de dolor:
 
-cada criatura dentro de un radio de 10 metros sufrirá un fuerte y súbito ataque de dolor que les penalizará con un -4 en todas sus tiradas de característica así como un -2 a su DES, si fallan la correspondiente tirada de salvación de CON. Este efecto permanecerá activo durante 2d10 asaltos.
+Cada criatura dentro de un radio de 10 metros sufrirá un fuerte y súbito ataque de dolor que les penalizará con un -4 en todas sus tiradas de característica así como un -2 a su DES, si fallan la correspondiente tirada de salvación de CON. Este efecto permanecerá activo durante 2d10 asaltos.
 
-###### Símbolo de sueño:
+#### Símbolo de sueño:
 
-todas las criaturas de 8 DG o menos en un radio de 10 metros caerán sumidas en un profundo sueño durante 1d12+4 turnos si fallan una tirada de salvación de INT. Las criaturas no se despertarán hasta que concluya el tiempo establecido por la tirada, salvo que se les lance un deseo, sanar, deseo limitado o disipar magia.
+Todas las criaturas de 8 DG o menos en un radio de 10 metros caerán sumidas en un profundo sueño durante 1d12+4 turnos si fallan una tirada de salvación de INT. Las criaturas no se despertarán hasta que concluya el tiempo establecido por la tirada, salvo que se les lance un deseo, sanar, deseo limitado o disipar magia.
 
-###### Símbolo de aturdimiento:
+#### Símbolo de aturdimiento:
 
-todas las criaturas en un radio de 10 metros que no pasen la tirada de salvación de CON quedarán aturdidas y confusas durante 3d4 asaltos (vagarán sin rumbo y no podrán llevar a cabo ninguna acción). Todos los objetos que transportaran en sus manos en ese momento caerán al suelo.
+Todas las criaturas en un radio de 10 metros que no pasen la tirada de salvación de CON quedarán aturdidas y confusas durante 3d4 asaltos (vagarán sin rumbo y no podrán llevar a cabo ninguna acción). Todos los objetos que transportaran en sus manos en ese momento caerán al suelo.
 
-###### Simulacro (ilusionista nivel 7)
+#### Simulacro (ilusionista nivel 7)
 
-###### TL: 12 horas Alcance: ver texto Componentes: V y S
+#### TL: 12 horas Alcance: ver texto Componentes: V y S
 
-| duraCión: ver te | xto | ts: no |
+| DuraCión: ver te | xto | ts: no |
 | --- | --- | --- |
 | Mediante este c<br>cualquier criatu<br>torio, gemas en<br>algo de la criatu<br>la apariencia exa<br>tará con el 51%<br>y conocimiento<br>habilidades de e<br>El simulacro pe<br>todo momento.<br>nuevos niveles y<br>golpe. Para repa<br>menos 1 día, 10<br>de golpe a restau<br>te equipado. Si<br>derretirá hasta d<br>sirviente i<br>tl: 1 | onjuro<br>ra. El p<br>polvo p<br>ra que s<br>cta de<br>- 60%<br>s del o<br>specie,<br>rmanec<br>El dupl<br>la mag<br>rar cua<br>0 mone<br>rar y u<br>el dupl<br>esapare<br>nvisib<br>Al | es posible crear un<br>roceso requiere de un<br>or valor de 1.000 mo<br>e va a duplicar. El du<br>la criatura copiada, si<br>(50 + 1d10) de los pu<br>riginal (lo que incluy<br>recuerdos y capacidad<br>e bajo las órdenes de<br>icado no tiene la capa<br>ia curativa no restaura<br>lquier daño es necesa<br>das de oro en materia<br>n laboratorio mágico<br>icado llega a 0 punto<br>cer por completo.<br>le (mago nivel 1)<br>CAnCe: 15 metros CoM |
 | duraCión: 1 hora/n | ivel | ts: no |
@@ -1911,11 +1911,11 @@ todas las criaturas en un radio de 10 metros que no pasen la tirada de salvació
 
 Esta ilusión muestra una cabeza vaporosa de dragón flotando sobre el lanzador, lo que le otorga un +2 a su CA. Además, si el conjurador sufre el ataque de una criatura dentro del alcance del conjuro, la cabeza del dragón se lanzará contra ella para morderla. Si la víctima falla una salvación de INT, sufrirá 3d6 puntos de daño. La ilusión se mantiene durante 1 asalto por nivel del lanzador o hasta que realice un ataque de mordisco.
 
-###### Sonido fantasma (ilusionista nivel 0, mago nivel 0)
+#### Sonido fantasma (ilusionista nivel 0, mago nivel 0)
 
-###### TL: 1 Alcance: 30 metros Componentes: V
+#### TL: 1 Alcance: 30 metros Componentes: V
 
-| duraCión: 24 h | oras ts | : no r | C: sí |
+| DuraCión: 24 h | oras ts | : no r | C: sí |
 | --- | --- | --- | --- |
 | Mediante este s<br>y timbre de su<br>generar un det<br>un lamento, el<br>provenir del lu<br>puerta, una esta<br>hablar en un id<br>soportar<br>tl: 1 | ortilegio, el la<br>voz, o la de c<br>erminado so<br>sonido de alg<br>gar designado<br>tua, un pozo,<br>ioma que no<br>los elemen<br>AlCAn | nzador podrá camb<br>ualquier otro. Tam<br>nido (entrechocar d<br>uien caminando) qu<br>por el lanzador (det<br>etc.). Este hechizo<br>domine el lanzador.<br>tos (clérigo nive<br>Ce: toque CoMpone | iar el tono<br>bién podrá<br>e espadas,<br>e parecerá<br>rás de una<br>no permite<br>l 1)<br>ntes: V y S |
 | duraCión: 1 min/ | nivel ts | : no r | C: sí |
@@ -1927,24 +1927,24 @@ Esta ilusión muestra una cabeza vaporosa de dragón flotando sobre el lanzador,
 Este hechizo tiene los mismos efectos que sugestión, exceptuando que puede afectar a más criaturas. El lanzador influye en las acciones de las criaturas sugiriendo un curso de acción (limitado a un par de frases). La cantidad de criaturas afectadas será igual a una por nivel del lanzador y todas deben estar dentro de un área de 10 metros.
 T
 
-###### Telaraña (mago nivel 2)
+#### Telaraña (mago nivel 2)
 
 Alcance: 15 metros o toque Componentes: V y S
 
-###### TL: 1
+#### TL: 1
 
-| duraCión: permanente | ts: ver texto | rC: |
+| DuraCión: permanente | ts: ver texto | rC: |
 | --- | --- | --- |
 | Este sortilegio crea una<br>araña. La tela bloquea<br>x 3 metros. La telaraña<br>trapuestos a los que anc<br>de un pasillo. Criaturas<br>gigantes o dragones, p<br>y no se ven afectados<br>toquen la telaraña o es<br>lanzamiento quedan atr<br>derecho a una tirada de<br>la zona antes de que el c<br>ra atrapada sufre un -2<br>modificador por DES p<br>de moverse o de lanzar<br>nente somático. Una cr<br>telaraña con una tirada<br>La telaraña es vulnerab<br>asaltos, afectando a las<br>maraña con 1d6 puntos<br>teleportar (mago<br>tl: 1 | intrincada red<br>de manera efect<br>necesita de dos<br>lar las hebras,<br>enormes con g<br>ueden romper<br>por su existenc<br>tén en el área<br>apadas, aunque<br>salvación por<br>onjuro se haga<br>a sus tiradas de<br>asa a ser de -4.<br>conjuros que<br>iatura atrapada<br>de salvación p<br>le al fuego, qu<br>criaturas que<br>de daño por f<br>nivel 5)<br>AlCAnCe: toque | de pegajo<br>iva un áre<br>puntos só<br>como las d<br>ran fuerza,<br>la red sin<br>ia. Las cria<br>objetivo d<br>estas últim<br>DES para e<br>efectivo. U<br>ataque y d<br>Tampoco<br>requieran<br>podrá libe<br>or FUE exi<br>e la destrui<br>se encuent<br>uego.<br>CoMpon |
 | duraCión: instantáneo | ts: no | rC |
 
 Este conjuro transporta al conjurador, equipo y criaturas que así lo deseen, a una ubicación designada que puede encontrarse a cualquier distancia (no está permitido el viaje entre planos). El conjurador podrá transportar un máximo de peso más allá del suyo propio igual a 25 kilos por nivel. Para que este hechizo surta efecto, el conjurador debe conocer bien el lugar elegido como destino, habiendo estado allí antes físicamente.
 
-###### Telequinesis (mago nivel 5)
+#### Telequinesis (mago nivel 5)
 
-###### TL: 1 Alcance: 30 metros Componentes: V y S
+#### TL: 1 Alcance: 30 metros Componentes: V y S
 
-| duraCión: 1 asalto/nivel | ts: ver texto |  | rC: sí |
+| DuraCión: 1 asalto/nivel | ts: ver texto |  | rC: sí |
 | --- | --- | --- | --- |
 | El lanzador podrá mo<br>mientras mantenga la<br>ninguna otra acción. E<br>máximo de 10 kilos p<br>5 metros por asalto.<br>ser desplazadas, aunq<br>salvación de CAR con<br>es realizado contra su<br>los efectos sobre un o<br>salvación de FUE.<br>tentáculos may<br>tl: 1 | ver objetos o cr<br>concentración,<br>l peso que podrá<br>or nivel del lan<br>Las criaturas vi<br>ue tienen derec<br>un penalizado<br>voluntad. Tamb<br>bjeto que porte<br>ores de silas<br>AlCAnCe: 3 metros | iaturas c<br>no pudie<br>desplaz<br>zador a<br>vas tam<br>ho a un<br>r de -4 s<br>ién es p<br>n con u<br>(ilusioni<br>CoMpo | on la mente<br>ndo realizar<br>ar será como<br>lo largo de<br>bién podrán<br>a tirada de<br>i este efecto<br>osible evitar<br>na tirada de<br>sta nivel 2)<br>nentes: V y S |
 | duraCión: 2 asaltos | ts: INT niega |  | rC: sí |
@@ -1958,11 +1958,11 @@ Este conjuro transporta al conjurador, equipo y criaturas que así lo deseen, a 
 Este conjuro produce un enorme temblor dentro de un área de 20 x 20 metros a partir del punto que designe el lanzador. El efecto dura un asalto y afecta a todo lo que se encuentre en el área: criaturas, objetos, estructuras, vegetación, etc. Este conjuro provoca un daño de 20d6 puntos de base, que puede incrementarse (a discreción del Narrador) por la caída de objetos y cascotes, sobre todo en interiores. Una estructura se derrumbará si pierde el 50% de sus puntos de golpe estructurales.
 Los objetos inertes y construcciones reciben solo la mitad de daño, mientras que las criaturas vivas y la vegetación circundante reciben el daño completo salvo que superen una tirada de salvación de DES, en cuyo caso reducen el daño a la mitad.
 
-###### Terreno ilusorio (ilusionista nivel 3, mago nivel 4)
+#### Terreno ilusorio (ilusionista nivel 3, mago nivel 4)
 
-###### TL: 10 min Alcance: 40 metros Componentes: V y S
+#### TL: 10 min Alcance: 40 metros Componentes: V y S
 
-| duraCión: ver te | xto | ts: INT niega |  | rC |
+| DuraCión: ver te | xto | ts: INT niega |  | rC |
 | --- | --- | --- | --- | --- |
 | El lanzador pod<br>apariencia de otr<br>de hierba ilusori<br>tica. La superfici<br>no puede sobrep<br>no afectará a las<br>a su equipamien<br>disipar magia o<br>mediante una tir<br>tesoro ilus<br>tl: 1 | rá cam<br>o terren<br>a una co<br>e total q<br>asar los<br>criatura<br>to). Los<br>si una c<br>ada de s<br>orio (<br>Al | uflar un terre<br>o diferente. P<br>lina rocosa, o<br>ue puede en<br>3 x 3 metros<br>s que se encu<br>efectos del c<br>riatura intelig<br>alvación con<br>ilusionista n<br>CAnCe: 70 metr | n<br>or<br>d<br>m<br>p<br>e<br>o<br>e<br>é<br>i<br>os | o determin<br>ejemplo, p<br>e nieve una<br>ascararse de<br>or nivel del<br>ntren en dic<br>njuro finali<br>nte descubr<br>xito de INT.<br>vel 4)<br>CoMpone |
 | duraCión:<br>2 asaltos/nivel |  | ts: INT niega |  | r |
@@ -1971,11 +1971,11 @@ Los objetos inertes y construcciones reciben solo la mitad de daño, mientras qu
 
 El lanzador podrá crear un torbellino de viento huracanado de 3 metros de ancho en su base, 10 metros de ancho en la parte superior y 10 metros de altura. Este torbellino podrá moverse a voluntad del lanzador a una velocidad de 20 metros por asalto. Cualquier criatura que no supere los 12 metros de altura y entre en contacto con dicho torbellino deberá realizar una tirada de salvación de DES para no sufrir 3d6 puntos de daño. Criaturas de tamaño medio o pequeño tendrán que realizar una segunda tirada de salvación de DES para no ser arrastrados y elevados en el aire por la fuerza del torbellino, sufriendo 1d8 puntos de daño cada asalto posterior sin derecho a tirada de salvación.
 
-###### Tormenta de escarcha (druida nivel 4)
+#### Tormenta de escarcha (druida nivel 4)
 
-###### TL: 1 Alcance: 140 metros Componentes: V y S
+#### TL: 1 Alcance: 140 metros Componentes: V y S
 
-| duraCión: 1 asalto/nive | l ts: ver tex | to | r | C: no |
+| DuraCión: 1 asalto/nive | l ts: ver tex | to | r | C: no |
 | --- | --- | --- | --- | --- |
 | Este conjuro invo<br>punto designado<br>un área de 15 me<br>el movimiento y<br>suelo resbaladizo,<br>presentes en el áre<br>de DES cada asalt<br>tormenta d<br>nivel 7)<br>tl: 1 | cará una terrib<br>por el lanzado<br>tros x 15 metr<br>la visibilidad<br>pudiendo así d<br>a, que deberán<br>o para no resba<br>e fuego<br>AlCAnCe: 50 | le tormen<br>r. Dicha<br>os x 6 m<br>a la mita<br>esequilib<br>tener éx<br>lar y caer<br>(clérigo<br>metros C | ta de<br>torme<br>etros,<br>d, y t<br>rar a l<br>ito en<br>.<br>nivel<br>oMpon | hielo en el<br>nta cubrirá<br>reduciendo<br>ornando el<br>as criaturas<br>una tirada<br>8, druida<br>entes: V y S |
 | duraCión: instantáne | o ts: DES m | itad | r | C: sí |
@@ -1984,11 +1984,11 @@ El lanzador podrá crear un torbellino de viento huracanado de 3 metros de ancho
 
 Este conjuro invoca una terrible tormenta de granizo en un área de 15 metros de diámetro y 15 metros de alto que causa 5d6 puntos de daño a todas las criaturas que se encuentren dentro de dicha área. Además, reduce la capacidad de movimiento en el área a la mitad durante 1 asalto por nivel del lanzador.
 
-###### Tormenta divina (druida nivel 9)
+#### Tormenta divina (druida nivel 9)
 
-###### TL: 1 Alcance: ver texto Componentes: V y S
+#### TL: 1 Alcance: ver texto Componentes: V y S
 
-| duraCión: 10 asaltos | ts: ver text | o rC: v |
+| DuraCión: 10 asaltos | ts: ver text | o rC: v |
 | --- | --- | --- |
 | Este poderoso conj<br>mágica que afectará<br>vocada a una dista<br>lanzador. Todas las<br>siguientes efectos:<br>Durante el primer a<br>tos de daño sin tira<br>En el segundo asalt<br>víctimas deberán re<br>para no quedar sord<br>En el tercer asalto, el<br>uno golpeará a una<br>cando 10d6 puntos<br>daño a la mitad.<br>En el cuarto asalto<br>causando 5d6 punt<br>salvación.<br>Del quinto al déci<br>con viento muy fue<br>enormemente, redu<br>afectadas a la mitad<br>mas, que tendrán u<br>conjuros durante el<br>trampa de fu<br>tl: 1 turno | uro nos perm<br>un área de 1<br>ncia máxima<br>criaturas den<br>salto lloverá<br>da de salvació<br>o comenzará<br>alizar una tira<br>as durante 1d<br>lanzador pod<br>criatura u obj<br>de daño. Un<br>se descargará<br>os de daño c<br>mo asalto llov<br>rte racheado,<br>ciendo el mo<br>, así como la<br>n 50% de po<br>lanzamiento.<br>ego (druida<br>AlCAnCe: to | itirá crear una<br>00 metros de r<br>de 200 metro<br>tro del área s<br>ácido, causando<br>n.<br>a tronar con fu<br>da de salvació<br>4 x 10 minutos<br>rá dirigir seis r<br>eto de su elecci<br>a tirada de DE<br>una tremenda<br>ontundente, sin<br>erá de manera<br>dificultando la<br>vimiento de la<br>concentración<br>sibilidades de<br>nivel 2, mago<br>que CoMpone |
 | duraCión: ver texto | ts: DES mit | ad r |
@@ -1998,11 +1998,11 @@ Este conjuro invoca una terrible tormenta de granizo en un área de 15 metros de
 Este conjuro permite crear una trampa de lazo mágica indetectable, salvo por métodos mágicos. El lanzador necesita una cuerda real con un lazo, que una vez encantada, se funde con el entorno. El lazo puede cubrir un área de seis metros de diámetro como máximo. La trampa precisará que exista un objeto estable y sólido cerca para asirse al mismo, algo como un árbol, un pilar, una piedra, etcétera. Al activarse, la trampa podrá apresar a una criatura pequeña o mediana dentro del área cubierta, causando 1d6 puntos de daño según la víctima es elevada en el aire y queda suspendida. Una criatura atrapada sufre un penalizador -2 en sus tiradas de característica, excepto para DES, cuyo penalizador es de -4.
 Para liberarse será necesario una prueba de FUE contra un grado de dificultad de 5. La soga tiene 5 puntos de golpe estructurales y una CA de 13.
 
-###### Trampa ilusoria (ilusionista nivel 2)
+#### Trampa ilusoria (ilusionista nivel 2)
 
-###### TL: 1 Alcance: 15 metros Componentes: V y S
+#### TL: 1 Alcance: 15 metros Componentes: V y S
 
-| duraCión: 1 min/nivel | ts: ver texto |  | rC: ver texto |
+| DuraCión: 1 min/nivel | ts: ver texto |  | rC: ver texto |
 | --- | --- | --- | --- |
 | El lanzador cubre un o<br>que parezca contener<br>busque trampas media<br>como tal. Si dicha cri<br>del lanzador, tendrá d<br>INT para darse cuent<br>desactivar o disparar la<br>conjuros de detectar tr<br>ninguna trampa. El ob<br>metros cúbicos de tam<br>trance onírico (<br>tl: 1 | bjeto con un<br>una trampa.<br>nte medios m<br>atura es de ni<br>erecho a una<br>a del engaño.<br>trampa term<br>ampas no ind<br>jeto afectado<br>año.<br>ilusionista ni<br>AlCAnCe: toque | velo m<br>Cualqui<br>undan<br>vel igua<br>tirada<br>Cualq<br>ina con<br>icarán<br>no pue<br>vel 9)<br>Co | ágico, haciendo<br>er criatura que<br>os, la percibirá<br>l o superior al<br>de salvación de<br>uier intento de<br>la ilusión. Los<br>la existencia de<br>de superar los 8<br>Mponentes: V y S |
 | duraCión: 1 asalto/nivel | ts: ver texto |  | rC: sí |
@@ -2011,15 +2011,15 @@ Para liberarse será necesario una prueba de FUE contra un grado de dificultad d
 
 El lanzador es capaz de moldear un trozo de piedra o madera para que adquiera la forma de su elección. Puede transformar incluso armas fabricadas en madera o piedra, y piezas de mobiliario de estos materiales. Incluso se puede alterar una puerta, abriendo un hueco en su superficie para que el lanzador la franquee. El conjuro afecta a 3 metros cúbicos de material más 0,5 metros adicionales por nivel del lanzador. La transformación no ocurre de forma instantánea, el lanzador precisará de 1 asalto completamente concentrado por cada metro cúbico de material afectado.
 
-###### Transitar por el aire (clérigo nivel 6, druida
+#### Transitar por el aire (clérigo nivel 6, druida
 
-nivel 7, ilusionista nivel 8)
+Nivel 7, ilusionista nivel 8)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance:
+#### Alcance:
 
-toque Componentes: V y S | duraCión: 1 min/nivel | ts: no | rC: |
+Toque Componentes: V y S | duraCión: 1 min/nivel | ts: no | rC: |
 | --- | --- | --- |
 | Este conjuro permite al la<br>por cada ocho niveles e<br>transformar su cuerpo en<br>en ese estado, un viento m<br>go de movimiento de 20<br>nube se puede mover en l<br>Mientras está en forma g<br>acción que no sea desplaz<br>que tiene alrededor.<br>transmigración (m<br>tl: 1 AlCA | nzador y a una criat<br>n la clase que otorga<br>gas y formar una n<br>ágico impulsa la nub<br>metros/asalto como<br>a dirección que desee<br>aseosa, no puede real<br>arse, aunque verá perf<br>ago nivel 5)<br>nCe: 50 metros CoMpo | ura<br>es<br>ube.<br>e co<br>má<br>el<br>izar<br>ect<br>nen |
 | duraCión: 1 min/nivel ts | : CAR niega | rC: |
@@ -2029,15 +2029,15 @@ Si hay posibles víctimas en el área y así lo desea el lanzador, este puede in
 Si el intento tiene éxito, el alma del lanzador se transfiere al cuerpo del anfitrión y el alma del anfitrión queda aprisionada en el contenedor. El lanzador mantiene su INT, SAB, CAR, nivel, clase, bonificación de ataque, selección de características principales y secundarias, alineamiento y cualquier otra habilidad mental. Mientras que del anfitrión se conservarán su FUE, DES, CON, puntos de golpe, habilidades naturales y habilidades extraordinarias dependientes de la especie. Sin embargo, se perderá cualquier característica o habilidad mágica, incluidos los conjuros memorizados y preparados por la víctima.
 El lanzador puede regresar al contenedor a voluntad, devolviendo cualquier alma atrapada a su cuerpo original. El hechizo termina inmediatamente si el lanzador decide regresar a su propio cuerpo, dejando el contenedor vacío. Si se alcanza la duración máxima del conjuro, el alma del lanzador regresa forzosamente a su cuerpo, sin importar si está en el contenedor o en el cuerpo de alguna víctima. Sin embargo, cualquier alma demasiado lejos de su cuerpo (lanzador o víctima) morirá. Destruir el contenedor por cualquier forma también termina el conjuro de forma inmediata.
 
-###### Transmutar barro y roca (druida nivel 5, mago
+#### Transmutar barro y roca (druida nivel 5, mago
 
-nivel 5)
+Nivel 5)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance: 50 metros Componentes: V y S
+#### Alcance: 50 metros Componentes: V y S
 
-| duraCión: permanente | ts: ver t | exto rC | : no |
+| DuraCión: permanente | ts: ver t | exto rC | : no |
 | --- | --- | --- | --- |
 | El conjuro permitir<br>determinada de bar<br>puede alterar un áre<br>nivel, aunque si el<br>la magia, el conjuro<br>sultante no excederá<br>de la zona transmu<br>de salvación de DES<br>terminar asfixiándos<br>en la roca. Si el hec<br>sección de galería, el<br>charco de al menos<br>pasaje. Cualquier cri<br>8d6 puntos de daño<br>tirada de salvación d<br>transmutar m<br>tl: 1 | á al lanzad<br>ro en roca,<br>a de dos cu<br>material a t<br>falla. La pr<br>los 3 metr<br>tada, deber<br>para salir<br>e, o para sa<br>hizo es lan<br>barro se pr<br>1,5 metros<br>atura bajo l<br>que puede<br>e DES con<br>etal en<br>AlCAnCe: 1 | or transformar un<br>y viceversa. En c<br>bos de 6 metros c<br>ransmutar está im<br>ofundidad del bar<br>os. Cualquier criat<br>á tener éxito en<br>y no hundirse en<br>ltar y evitar queda<br>zado sobre el tec<br>ecipitará al suelo c<br>según las caracte<br>a caída de este bar<br>reducirse a la mita<br>éxito.<br>madera (druid<br>5 metros CoMpone | a cantidad<br>oncreto se<br>úbicos por<br>buido por<br>ro/roca re-<br>ura dentro<br>una tirada<br>el barro y<br>r atrapada<br>ho de una<br>reando un<br>rísticas del<br>ro recibirá<br>d con una<br>a nivel 7)<br>ntes: V y S |
 | duraCión: ver texto | ts: n | o r | C: sí |
@@ -2049,11 +2049,11 @@ nivel 5)
 Este conjuro ha de ser lanzado sobre un trozo de cuerda y un extremo de la misma se alzará verticalmente como si estuviera colgada de un techo. Cualquier criatura que suba por la cuerda accederá a un espacio extradimensional del que realmente cuelga la cuerda. En este espacio caben hasta diez criaturas humanoides de tamaño normal. Una vez arriba, las criaturas pueden tirar de la cuerda y subirla al espacio extradimensional, con lo que su ubicación quedaría totalmente oculta. Las criaturas pueden ver perfectamente a través del espacio extradimensional y han de bajar del mismo antes de la expiración del conjuro, de lo contrario caerán desde la altura a la que subieron que será la de la cuerda, al menos 3 metros, y sufrirán el daño por caída correspondiente.
 V
 
-###### Velo (ilusionista nivel 6)
+#### Velo (ilusionista nivel 6)
 
-###### TL: 1 Alcance: 15 metros Componentes: V, S
+#### TL: 1 Alcance: 15 metros Componentes: V, S
 
-| duraCión: 1 hora/nivel | ts: ver texto |  |
+| DuraCión: 1 hora/nivel | ts: ver texto |  |
 | --- | --- | --- |
 | El lanzador altera la apa<br>conjurador puede afecta<br>les de experiencia y esta<br>ellas por más de 10 met<br>cualquiera que desee el<br>más o menos al tamaño<br>porcionar la apariencia<br>tener éxito en una tira<br>+6 (grado de dificultad<br>quieren recibir los efec<br>una tirada de salvación<br>interactúen con los blan<br>tirada de salvación de IN<br>ventriloquia (ilus<br>tl: 1 AlC | riencia de una<br>r a una criatu<br>s no pueden<br>ros. La nueva<br>conjurador, s<br>actual de los<br>de un individ<br>da de INT co<br>de 1). Si las<br>tos del conju<br>de INT para e<br>cos también t<br>T para detect<br>ionista nivel<br>AnCe: 15 metros | o var<br>ra po<br>estar<br>apari<br>iempr<br>blanc<br>uo es<br>n un<br>criatu<br>ro, ti<br>vitarl<br>ienen<br>ar el e<br>1)<br>Co |
 | duraCión: 3 asaltos<br>+ 1 asalto/nivel | ts: INT niega |  |
@@ -2066,22 +2066,22 @@ Este conjuro permite viajar rápidamente a lo largo de un camino hecho de sombra
 El viaje por el plano de las sombras es seguro porque la gran mayoría de él es solo una ilusión creada por el lanzador. El grupo se desplaza a través de la ilusión a una velocidad de 10 kilómetros por minuto aunque para ellos el desplazamiento ocurre a una velocidad normal. El lanzador es consciente de forma innata de la ubicación relativa al plano material y puede elegir el punto exacto donde emerger, si bien el lugar escogido debe contar también con sombras. Cualquier criatura que abandone el corredor quedará atrapada en el plano de las sombras o volverá a un lugar aleatorio del plano material (50%-50%).
 Viajar mediante sombras también se puede usar para visitar otros planos de existencia, aunque ello exige atravesar realmente el plano de las sombras y enfrentarse a sus peligros. Tal viaje tiene una duración aleatoria de 1d4 horas.
 
-###### Vínculo telepático (ilusionista nivel 7, mago
+#### Vínculo telepático (ilusionista nivel 7, mago
 
-nivel 5)
+Nivel 5)
 
-###### TL: 1
+#### TL: 1
 
-###### Alcance:
+#### Alcance:
 
-ver texto Componentes: V y S | duraCión: 1 h | ora | ts: no |  | r | C: no |
+Ver texto Componentes: V y S | duraCión: 1 h | ora | ts: no |  | r | C: no |
 | --- | --- | --- | --- | --- | --- |
 | El lanzador fo<br>ligentes. Solo<br>puede verse af<br>zador y deben<br>El vínculo sol<br>Todos los blan<br>tre ellos indep<br>vínculo, se m<br>bien no se ma<br>visión ver<br>tl: 1 min | rja un<br>una cri<br>ectada,<br>tener<br>o pued<br>cos po<br>endien<br>antiene<br>ntendr<br>dader | vínculo tele<br>atura por cad<br>todas deben<br>una puntua<br>e establecers<br>drán comun<br>temente del<br>aunque los<br>á entre plano<br>a (clérigo n<br>AlCAnCe: per | pático<br>a tres<br>estar<br>ción<br>e ent<br>icars<br>idiom<br>integ<br>s de<br>ivel 5<br>sonal | entre cri<br>niveles d<br>a 10 met<br>de INT d<br>re sujetos<br>e telepátic<br>a. Una ve<br>rantes se<br>existencia<br>, ilusionis<br>CoMpon | aturas inte-<br>el lanzador<br>ros del lan-<br>e 6 o más.<br>dispuestos.<br>amente en-<br>z creado el<br>separen, si<br>.<br>ta nivel 5)<br>entes: V y S |
 | duraCión: ver | texto | ts: ver tex | to | r | C: no |
 
 Este conjuro permite al receptor ver todas las cosas a su alrededor, a una distancia máxima de 40 metros, tal y como son realmente. Puede ver las puertas secretas, trampas, ilusiones, los objetos o criaturas invisibles, polimorfadas o transmutadas, incluso el aura de las criaturas. Además, permite ver el plano etéreo.
 
-| visiones oníric<br>tl: 1 | as (ilusionista niv<br>AlCAnCe: toque | el 7)<br>CoMponentes: V y S |
+| Visiones oníric<br>tl: 1 | as (ilusionista niv<br>AlCAnCe: toque | el 7)<br>CoMponentes: V y S |
 | --- | --- | --- |
 | duraCión: 1 asalto/nivel | ts: no | rC: sí |
 | El lanzador hace un<br>u objeto, lanza este<br>al sueño. Si el conju<br>recibirá visiones co<br>sobre el objeto de<br>bien conocidas o h<br>El Narrador estable<br>de recibir dentro de<br>Si la criatura u obje<br>el lugar en cuestión<br>dores. Si el objeto<br>conjurador conoce<br>un penalizador de -<br>precisa. Si solo se di<br>rales, la tirada se rea<br>obtenida será muy<br>volar (mago niv<br>tl: 1 | a pregunta sobre al<br>conjuro y entra en<br>rador tiene éxito en<br>n información extra<br>su pregunta (estas l<br>aber existido para s<br>ce qué cantidad de i<br>la duración del con<br>to está a mano, o si<br>, la tirada de INT s<br>de la pregunta no e<br>información detalla<br>5 y la información o<br>spone de rumores y<br>liza con un -10 y cu<br>vaga.<br>el 3)<br>AlCAnCe: toque | guna persona, lugar<br>un trance parecido<br>una tirada de INT,<br>ída de las leyendas<br>eyendas pueden ser<br>er luego olvidadas).<br>nformación se pue-<br>juro.<br>el lanzador está en<br>e hace sin penaliza-<br>stá a mano, pero el<br>da, la tirada recibe<br>btenida será menos<br>algunos datos gene-<br>alquier información<br>CoMponentes: V y S |

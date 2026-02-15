@@ -2,12 +2,11 @@
 
 En este capítulo se enumeran docenas de objetos y artefactos con los que los jugadores podrán pertrechar a sus aventureros, indicado en cada caso, su precio. La moneda más común en Crónicas de la Marca del Este es la moneda de oro (mo). Una moneda de oro equivale a 2 monedas de electro (me), o a 10 monedas de plata (mp). Cada moneda de plata equivale a 10 de cobre (mc), tal como podemos ver en la tabla de equivalencia monetaria. Ocasionalmente, los aventureros encontrarán monedas de platino (mpt), muy raras, que equivalen cada una a 10 monedas de oro.
 
-###### Tabla de equivalencia monetaria
+### Tabla de equivalencia monetaria
 
 | Monedas | Cobre | Plata | Electro | Oro | Platino |
-
-| Cobre (mc) | 1 | 1/10 | 1/50 | 1/100 | 1/1.000 |
 | --- | --- | --- | --- | --- | --- |
+| Cobre (mc) | 1 | 1/10 | 1/50 | 1/100 | 1/1.000 |
 | Plata (mp) | 10 | 1 | 1/5 | 1/5 | 1/100 |
 | Electro (me) | 50 | 5 | 1 | 1/2 | 1/20 |
 | Oro (mo) | 100 | 10 | 2 | 1 | 1/10 |
@@ -15,7 +14,7 @@ En este capítulo se enumeran docenas de objetos y artefactos con los que los ju
 
 Los precios para los diferentes objetos se han fijado teniendo en cuenta la ambientación por defecto de Crónicas de la Marca del Este, y dentro de esta, la zona más habitual de juego (Valion occidental). Los jugadores harían bien en consultar siempre los precios con el Narrador, pues este puede establecer otros valores en caso de jugar en otra ambientación o en otra localización dentro del mundo de la Marca del Este.
 
-###### Efectos de la carga
+#### Efectos de la carga
 
 Tan importante como conseguir un grupo equilibrado de aventureros, es disponer del equipo necesario, incluyendo armas y pertrechos, así como comida y bebida. Sin embargo, nuestros aventureros no pueden simplemente llevar consigo todo lo que deseen, deben tener cuidado de no sobrepasar sus límites o sus habilidades se verán mermadas.
 Los aventureros dependen principalmente de su característica de fuerza (FUE) para determinar cuánta carga pueden transportar. El límite de carga (LC) de un aventurero se calcula de la siguiente manera:
@@ -24,7 +23,7 @@ Los aventureros dependen principalmente de su característica de fuerza (FUE) pa
 1.	 Si además el aventurero también tiene la característica de constitución (CON) como primaria, suma otro +3 adicional.
 Todos los objetos tienen definido un valor de estorbo (VE), si bien para los más pequeños o ligeros puede ser directamente 0. El valor de estorbo indica mucho más que el simple peso en kilogramos, establece también lo voluminoso o complicado de transportar que es dicho objeto, en definitiva, cuánto estorba. Dependiendo del total de VE acumulado por un aventurero, se considerará que lleva carga ligera, porta una carga media o está sobrecargado, aplicándose los efectos descritos en la tabla de efectos de la carga.
 
-| tabla de<br>Categoría | efectos de la carga<br>total de ve acumulado | efectos |
+| Tabla de<br>Categoría | efectos de la carga<br>total de ve acumulado | efectos |
 | --- | --- | --- |
 | Carga ligera | Entre 0 y hasta LCx1 | Sin efectos |
 | Carga media | Más de LCx1 y hasta LCx3 | -2 a las tiradas de destreza (DES)<br>-3 al rango de movimiento. El rango final no puede ser inferior a 3 metros/asalto. |
@@ -34,18 +33,17 @@ Algunos pertrechos están diseñados para transportar y redistribuir el peso de 
 El VE de los objetos asignados a un contenedor no cuentan para el total de estorbo acarreado por nuestro aventurero, que solo añadirá a su total el VE del propio objeto contenedor. Los jugadores deben anotar en su hoja de aventurero qué objetos transportan dentro de qué contenedores.
 Las monedas en Crónicas de la Marca son pequeños trozos de metal bastante pesado. Aunque una moneda por sí misma no es impedimento alguno, una buena cantidad de ellas puede representar una carga importante. Ese es uno de los motivos por lo que muchos aventureros eligen cambiar las monedas ganadas por pequeñas gemas, mucho más fáciles de acarrear. Por cada 150 monedas transportadas de cualquier tipo, el aventurero debe sumar 1 VE a su total de estorbo, aunque nada impide que el aventurero distribuya o asigne este estorbo a objetos contenedores.
 
-###### Determinar nuevos valores de estorbo
+#### Determinar nuevos valores de estorbo
 
 El valor de estorbo (VE) de un objeto trata de capturar su tamaño, peso y volumen. Si el Narrador necesita establecer el VE de un objeto que no aparece listado en este capítulo, lo mejor es usar como guía algún otro objeto parecido que sí lo esté. Sin embargo, como cualquier abstracción, siempre habrá casos en los que parezca que el sistema no termina de capturar bien la realidad. En esos casos, nada puede reemplazar al sentido común del Narrador.
 
-##### Tablas de equipo
+### Tablas de equipo
 
-###### Armas
+#### Armas
 
 | Arma | Coste | Daño | Peso | VE | Alcance base |
-
-| Alabarda (a)(2) | 8 mo | 1d10 | 5 kilos | 5 | – |
 | --- | --- | --- | --- | --- | --- |
+| Alabarda (a)(2) | 8 mo | 1d10 | 5 kilos | 5 | – |
 | Arco corto (2) | 15 mo | 1d6 | 1 kilo | 3 | 20 metros |
 | Arco corto compuesto (2) | 25 mo | 1d8 | 1 kilo | 3 | 25 metros |
 | Arco largo (2) | 25 mo | 1d6 | 1,5 kilos | 4 | 30 metros |
@@ -82,23 +80,22 @@ El valor de estorbo (VE) de un objeto trata de capturar su tamaño, peso y volum
 | Martillo ligero | 1 mo | 1d4 | 1 kilo | 2 | 9 metros |
 | Maza | 5 mo | 1d6 | 3 kilos | 3 | – |
 | Pica (a)(2) | 8 mo | 1d8 | 7 kilos | 6 | – |
-
 | Tridente (a)(2) | 4 mo | 1d8 | 2,5 kilos | 5 | 3 metros |
+
 (1) Armas versátiles: estas armas pueden usarse tanto a una mano como a dos manos, de ahí que se den dos tiradas de daño diferente. (2) Estas armas siempre requieren el uso de las dos manos. (a) Armas de asta: causa doble de daño si se aguanta firme contra una carga. (m) Armas de caballería: causa doble de daño usada sobre una montura a la carga. * La ballesta de repetición es un artefacto ingenioso empleado por los tiradores dragón del ejército de Kang. Esta arma fue diseñada en Losang por los ingenieros enanos del Reino del Este. Dispone de un cargador de seis virotes, lo que permite disparar sin recargar durante seis asaltos seguidos. Es un arma costosa y muy rara.
 
-| proyectiles<br>nombre | Coste | peso | ve | notas |
+| Proyectiles<br>nombre | Coste | peso | ve | notas |
 | --- | --- | --- | --- | --- |
 | Dardos (20) | 10 mo | 0,5 kilos | 1 | Para cerbatana |
 | Flechas (10) | 3 mo | 0,5 kilos | 1 | Para todo tipo de arcos |
 | Virotes (20) | 5 mo | 1 kilo | 2 | Ballestas ligera, pesada y de repetición |
 | Virotes ligeros (20) | 5 mo | 0,5 kilos | 1 | Ballesta de mano |
 
-###### Armaduras
+#### Armaduras
 
 | Armadura | Coste | CA | Peso | VE |
-
-| Armadura de cuero acolchado | 5 mo | +1 | 5 kilos | 2 |
 | --- | --- | --- | --- | --- |
+| Armadura de cuero acolchado | 5 mo | +1 | 5 kilos | 2 |
 | Armadura de cuero endurecido | 20 mo | +2 | 7 kilos | 2 |
 | Armadura de cuero tachonado | 30 mo | +3 | 10 kilos | 3 |
 | Cota de escamas* | 65 mo | +4 | 16 kilos | 4 |
@@ -114,43 +111,40 @@ El valor de estorbo (VE) de un objeto trata de capturar su tamaño, peso y volum
 
 * Algunas armaduras incluyen yelmos sin coste adicional: cofia de cuero en el caso de la cota de escamas, cofia de mallas con la cota de mallas, yelmo con la armadura de placas y mallas, y yelmo completo con la armadura completa.
 
-###### Yelmos
+#### Yelmos
 
 | Yelmo | Coste | CA* | Peso | VE** |
-
-| Cofia de cuero | 4 mo | +1 | 1 kilo | 1 |
 | --- | --- | --- | --- | --- |
+| Cofia de cuero | 4 mo | +1 | 1 kilo | 1 |
 | Bacinete | 15 mo | +2 | 2 kilos | 1 |
 | Celada | 5 mo | +3 | 3 kilos | 1 |
 | Cofia de mallas | 15 mo | +4 | 2,5 kilos | 1 |
 | Yelmo | 10 mo | +5 | 2 kilos | 1 |
-
 | Yelmo completo | 20 mo | +7 | 4 kilos | 2 |
+
 * Los modificadores de CA solo se aplican contra golpes dirigidos contra la cabeza, tal y como se explica en la sección sobre CA en el capítulo sobre el combate.
 ** Solo aumentan el valor de VE total del aventurero si este carga con el yelmo sin llevarlo puesto.
 
-###### Escudos
+#### Escudos
 
 | Escudo | Coste | CA | Atacantes* | Peso | VE |
-
-| Broquel/Rodela | 2 mo | +1 | 1 | 1 kilo | 2 |
 | --- | --- | --- | --- | --- | --- |
+| Broquel/Rodela | 2 mo | +1 | 1 | 1 kilo | 2 |
 | Escudo pequeño - madera | 3 mo | +1 | 1 | 1,5 kilos | 2 |
 | Escudo pequeño - metal | 10 mo | +1 | 1 | 2,5 kilos | 2 |
 | Escudo medio – madera | 5 mo | +1 | 2 | 3 kilos | 3 |
 | Escudo medio – metal | 15 mo | +1 | 2 | 5 kilos | 3 |
 | Escudo pesado – madera | 7 mo | +1 | 3 | 5 kilos | 4 |
 | Escudo pesado – metal | 20 mo | +1 | 3 | 8 kilos | 4 |
-
 | Escudo pavés | 55 mo | +6 | todos | 22 kilos | 12 |
+
 * El número de atacantes indica contra cuántos contrincantes diferentes se puede usar el escudo durante un mismo asalto de combate. Un escudo protege contra todos los ataques de los contrincantes elegidos.
 
-###### Pertrechos
+#### Pertrechos
 
 | Equipo | Coste | Peso | VE | CAP. |
-
-| Aceite (frasco) | 1 mo | 0,5 kilos | 1 | – |
 | --- | --- | --- | --- | --- |
+| Aceite (frasco) | 1 mo | 0,5 kilos | 1 | – |
 | Ajo (3 cabezas) | 5 mo | – | – | – |
 | Agua bendita (frasco) | 25 mo | 0,5 kilos | 1 | – |
 | Alforjas | 1 mp | 4 kilos | 1 | 3 |
@@ -194,15 +188,13 @@ El valor de estorbo (VE) de un objeto trata de capturar su tamaño, peso y volum
 | Tiza (1 pieza grande) | 1 mc | 0,25 kilos | 1 | – |
 | Velas (10) | 1 mp | – | 1 | – |
 | Vial (30 mililitros, vacío) | 1 mp | – | – | – |
-
 | Yesca y pedernal | 1 mo | 0,25 kilos | – | – |
 
-###### Animales y transporte
+#### Animales y transporte
 
 | Elemento | Coste | Peso | VE | Notas |
-
-| Balsa | 5 mo | 35 kilos | 25 | 1-6 tripulantes, hasta 500 kilos (50 VE) de carga |
 | --- | --- | --- | --- | --- |
+| Balsa | 5 mo | 35 kilos | 25 | 1-6 tripulantes, hasta 500 kilos (50 VE) de carga |
 | Barcaza | 17.000 mo | – | – | 75 tripulantes, hasta 2.000 kilos (200 VE) de carga |
 | Barco de vela, grande | 22.000 mo | – | – | 80 tripulantes, hasta 15.000 kilos (1.500 VE) de carga |
 | Barco de vela, para transporte | 30.000 mo | – | – | 80 tripulantes, hasta 15.000 kilos (1.500 VE) de carga |
@@ -228,14 +220,13 @@ El valor de estorbo (VE) de un objeto trata de capturar su tamaño, peso y volum
 | Poni* | 30 mo | – | – | Puede transportar hasta 40 kilos (12 VE) |
 | Silla de montar | 25 mo | 15 kilos | 6 | Cuesta y pesa la mitad para animales pequeños |
 
-* ver la descripción “Animales de carga”.
+* Ver la descripción “Animales de carga”.
 
-###### Servicios y vestimenta
+#### Servicios y vestimenta
 
 | Elemento | Coste | Peso | VE |
-
-| Comida de taberna, buena | 1 mo | – | – |
 | --- | --- | --- | --- |
+| Comida de taberna, buena | 1 mo | – | – |
 | Comida de taberna, común | 2 mp | – | – |
 | Hospedaje, posada buena | 2 mo | – | – |
 | Hospedaje, posada común | 5 mp | – | – |
@@ -246,257 +237,146 @@ El valor de estorbo (VE) de un objeto trata de capturar su tamaño, peso y volum
 | Muda de ropa, noble | 50 mo | 4 kilos | 3 |
 | Vino común. vaso | 2 mp | 0,25 kilos | 1 |
 | Vino común, botella (1 litro) | 4 mp | 1 kilo | 1 |
-
 | Vino de calidad, vaso | 10 mo | – | – |
 
-###### Descripción del equipo
+### Descripción del equipo
 
 La mayor parte del equipo y objetos comunes que pueda necesitar un aventurero en sus peripecias está listado en esta sección. Sin embargo, algunos jugadores desearán adquirir equipo que no viene reflejado en las tablas anteriores, así que el Narrador es libre de crear, negar o alterar aquellos objetos que considere oportunos.
 En cuanto a su uso, en la mayoría de los casos resulta obvio. Sin embargo, en algunos casos, las siguientes descripciones deben tomarse como meras sugerencias, ya que depende del Narrador dictaminar si para su campaña efectivamente ese objeto dispone de las capacidades que se le atribuyen.
 
-###### Aceite (frasco):
+**Aceite (frasco):** Además de para recargar un farol, un frasco de aceite puede ser utilizado como arma explosiva, causando 1d6 puntos de daño por fuego.
 
-además de para recargar un farol, un frasco de aceite puede ser utilizado como arma explosiva, causando 1d6 puntos de daño por fuego.
+**Agua bendita:** Se trata de agua normal, pero que ha sido bendecida por un clérigo. Se utiliza en rituales litúrgicos y es un arma eficaz contra muertos vivientes (causa 1d8 puntos de daño si impacta a una de estas criaturas).
 
-###### Agua bendita:
+**Ajo:** El ajo es muy raro y apreciado en Valion. Muchas culturas creen que tiene la capacidad de ahuyentar y proteger contra las criaturas de Penumbra. En muchos lugares las familias compran ajos que, tras ser bendecidos en los templos, terminan adornando las puertas de sus casas. Los nobles lo usan también en gastronomía como muestra de distinción y riqueza, debido al alto precio que suele alcanzar este producto.
 
-se trata de agua normal, pero que ha sido bendecida por un clérigo. Se utiliza en rituales litúrgicos y es un arma eficaz contra muertos vivientes (causa 1d8 puntos de daño si impacta a una de estas criaturas).
+**Alforjas:** Están pensadas para acomodar equipo sobre una montura sin perjudicar la comodidad y maniobrabilidad de su jinete.
 
-###### Ajo:
+**Animales de carga:** La mayoría de caballos y mulas pueden acarrear el peso listado en su tabla a un rango de movimiento de aproximadamente 40 metros (para caballos) y 30 metros para los animales más pequeños. Una carga superior a la expuesta reduce su movimiento a la mitad.
 
-el ajo es muy raro y apreciado en Valion. Muchas culturas creen que tiene la capacidad de ahuyentar y proteger contra las criaturas de Penumbra. En muchos lugares las familias compran ajos que, tras ser bendecidos en los templos, terminan adornando las puertas de sus casas. Los nobles lo usan también en gastronomía como muestra de distinción y riqueza, debido al alto precio que suele alcanzar este producto.
+**Antorcha:** Una antorcha ilumina un área de 10 metros de radio y puede estar ardiendo durante 1 hora. Si una antorcha se utiliza como arma, causa 1d4 de daño.
 
-###### Alforjas:
+**Árnica:** Esta planta medicinal se suele utilizar como cataplasma para tratar inflamaciones, contusiones y hemorragias. Ingerida, en cambio, puede causar dolor de cabeza, vómitos y problemas renales.
 
-están pensadas para acomodar equipo sobre una montura sin perjudicar la comodidad y maniobrabilidad de su jinete.
+**Balsa:** Es una sencilla construcción de troncos de madera, atados entre sí, que sirve para navegar en aguas con poca corriente. No suelen ser superiores a 15 x 15 metros, pero pueden llegar a transportar hasta 500 kilos de carga y son capaces de transportar en ella hasta 6 humanoides de tamaño medio. Construir una pequeña balsa puede llevar entre 1 y 3 días.
 
-###### Animales de carga:
+**Barcaza:** Esta es una estrecha embarcación con capacidad para transportar hasta 2.000 kilos de carga. Tiene de 3-8 metros de ancho y 20-30 metros de largo. Requiere de la fuerza de 60 remeros para desplazarse, aunque también puede hacerlo con velas si sopla suficiente viento. Su tripulación suele estar compuesta por un capitán y 75 marineros.
 
-la mayoría de caballos y mulas pueden acarrear el peso listado en su tabla a un rango de movimiento de aproximadamente 40 metros (para caballos) y 30 metros para los animales más pequeños. Una carga superior a la expuesta reduce su movimiento a la mitad.
+**Barco de vela , grande:** Esta enorme embarcación puede transportar hasta 15.000 kilos de carga y mide de 30 a 50 metros de largo. Necesita una tripulación de 80 marineros y un capitán. Se desplaza gracias a tres grandes mástiles y suele estar armado con dos catapultas.
 
-###### Antorcha:
+**Barco de vela , pequeño:** Similar a su versión mayor, pero con una capacidad de carga de 5.000 kilos y unas medidas de 20-30 metros de largo. Dispone de un solo mástil para desplazarse.
 
-una antorcha ilumina un área de 10 metros de radio y puede estar ardiendo durante 1 hora. Si una antorcha se utiliza como arma, causa 1d4 de daño.
+**Barco de vela , para transporte:** Es idéntico en características a su versión grande. Sin embargo, está especialmente diseñado para transportar tropas, monturas y equipo bélico.
 
-###### Árnica:
+**Barda:** Es una armadura especialmente diseñada para animales de combate, normalmente caballos. Está fabricada en cuero o malla con pequeños broqueles plateados incrustados. Cualquier animal equipado con esta pieza debe reducir su rango de movimiento en 5 metros.
 
-esta planta medicinal se suele utilizar como cataplasma para tratar inflamaciones, contusiones y hemorragias. Ingerida, en cambio, puede causar dolor de cabeza, vómitos y problemas renales.
-Balsa: es una sencilla construcción de troncos de madera, atados entre sí, que sirve para navegar en aguas con poca corriente. No suelen ser superiores a 15 x 15 metros, pero pueden llegar a transportar hasta 500 kilos de carga y son capaces de transportar en ella hasta 6 humanoides de tamaño medio. Construir una pequeña balsa puede llevar entre 1 y 3 días.
+**Barra:** Una barra, también conocida como palanqueta, es un listón de medio metro de hierro sólido con su punta ligeramente curvada. Se puede utilizar para forzar puertas o cofres cerrados.
 
-###### Barcaza:
+**Bote , de transporte:** En este tipo de embarcación ligera se pueden transportar hasta 1.500 kilos de peso. Su longitud oscila en torno a los 3 metros de ancho y entre 8-10 metros de largo. Los botes avanzan con remos y pértigas. Su precio se incrementa en 1.000 mo si dispone de techo.
 
-esta es una estrecha embarcación con capacidad para transportar hasta 2.000 kilos de carga. Tiene de 3-8 metros de ancho y 20-30 metros de largo. Requiere de la fuerza de 60 remeros para desplazarse, aunque también puede hacerlo con velas si sopla suficiente viento. Su tripulación suele estar compuesta por un capitán y 75 marineros.
+**Bote , salvavidas:** Esta embarcación tiene una capacidad para transportar 750 kilos de peso. Sus medidas son de 1-2 metros de ancho por 3 metros de largo. Van equipados con varias raciones de comida para que diez humanos puedan sobrevivir una semana. Estas embarcaciones se suelen emplear en casos de emergencia al tener que abandonar navíos de mayor tonelaje.
 
-###### Barco de vela , grande:
+**Botella:** Recipiente de cristal con tapón de seguridad capaz de conseguir un cierre hermético.
 
-esta enorme embarcación puede transportar hasta 15.000 kilos de carga y mide de 30 a 50 metros de largo. Necesita una tripulación de 80 marineros y un capitán. Se desplaza gracias a tres grandes mástiles y suele estar armado con dos catapultas.
+**Cadena:** Construidas habitualmente con eslabones de hierro fundido.
 
-###### Barco de vela , pequeño:
+**Canoa:** La canoa es un pequeño bote que pesa 25 kilos. Se pueden transportar hasta 300 kilos de material y mide 8 metros de largo.
 
-similar a su versión mayor, pero con una capacidad de carga de 5.000 kilos y unas medidas de 20-30 metros de largo. Dispone de un solo mástil para desplazarse.
+**Carro:** Los carros necesitan de un buen camino para transitar. Normalmente, van tirados por uno o dos animales de arrastre, desplazándose con un rango de movimiento de 20 metros. En un carro normal se pueden transportar hasta 250 kilos de carga.
 
-###### Barco de vela , para transporte:
+**Carromato:** Básicamente, consiste en un vehículo de transporte con cuatro ruedas y de techo abierto. Se desplaza gracias a la fuerza de dos o cuatro caballos (u otros animales de tiro) que son dirigidos desde el carromato. Dos monturas pueden acarrear 750 kilos de peso, mientras que cuatro pueden llegar a 2.500 kilos.
 
-Es idéntico en características a su versión grande. Sin embargo, está especialmente diseñado para transportar tropas, monturas y equipo bélico.
+**Catalejo:** Es un objeto de artesanía muy poco común. Permite ampliar el tamaño de los objetos observados al doble.
 
-###### Barda:
+**Cerrojo:** Es un objeto de hierro que se abre y se cierra por medio de una llave.
 
-es una armadura especialmente diseñada para animales de combate, normalmente caballos. Está fabricada en cuero o malla con pequeños broqueles plateados incrustados. Cualquier animal equipado con esta pieza debe reducir su rango de movimiento en 5 metros.
+**Cuerda:** Ningún aventurero debería prescindir de este elemento con multitud de aplicaciones. Su precio puede variar en base a su longitud y al material con el que esté fabricada.
 
-###### Barra:
+**Escala:** Las hay de muchos tamaños diferentes (aunque en el equipo se liste solo la de 3 metros de longitud). Están construidas mediante dos cuerdas unidas por pequeños travesaños, también de cuerda, a intervalos regulares. Algunas escalas de más calidad –y precio– suelen emplear madera para los travesaños.
 
-una barra, también conocida como palanqueta, es un listón de medio metro de hierro sólido con su punta ligeramente curvada. Se puede utilizar para forzar puertas o cofres cerrados.
+**Escarpias:** Una escarpia es una especie de clavo de hierro de cabeza curva y alargada. Puede tener varias aplicaciones, desde anclar una cuerda o bloquear una puerta, hasta servir de improvisadas escalas para trepar.
 
-###### Bote , de transporte:
+**Espejo de metal pulido:** Es un objeto muy popular entre los aventureros, ya que permite observar lo que aguarda en un corredor o sala sin tener que abandonar una posición segura.
 
-en este tipo de embarcación ligera se pueden transportar hasta 1.500 kilos de peso. Su longitud oscila en torno a los 3 metros de ancho y entre 8-10 metros de largo. Los botes avanzan con remos y pértigas. Su precio se incrementa en 1.000 mo si dispone de techo.
+**Estacas:** Trozos largos de madera rematados en punta. Además de sus usos habituales, mucho más prosaicos, varias leyendas aseguran que una estaca puede acabar con ciertos muertos vivientes si se consigue clavar en su corazón.
 
-###### Bote , salvavidas:
+**Estuche para pergaminos:** Puede almacenar un total de 3 hojas de papel enrolladas o cinco rollos de pergamino. Estos estuches se fabrican normalmente en cuero.
 
-esta embarcación tiene una capacidad para transportar 750 kilos de peso. Sus medidas son de 1-2 metros de ancho por 3 metros de largo. Van equipados con varias raciones de comida para que diez humanos puedan sobrevivir una semana. Estas embarcaciones se suelen emplear en casos de emergencia al tener que abandonar navíos de mayor tonelaje.
+**Farol de aceite (con capuchón):** Consiste en un pequeño objeto con aceite en su interior que al prenderlo ilumina un radio de 10 metros. Suele durar en torno a las cuatro horas antes de que sea necesario recargarlo. Su ventaja reside en que puede cerrarse para ocultar la luz.
 
-###### Botella:
+**Galera, grande:** Esta gran embarcación tiene suficiente fuerza como para transportar una carga de 2.000 kilos. En su lado más ancho puede llegar a medir entre 7-10 metros por 50-70 metros de largo. El barco se mueve gracias al impulso de 180 remeros. Además del capitán, la tripulación de a bordo suele estar compuesta por 70 marineros. Ocasionalmente, esta embarcación está equipada con dos catapultas y balistas.
 
-recipiente de cristal con tapón de seguridad capaz de conseguir un cierre hermético.
-Cadena: construidas habitualmente con eslabones de hierro fundido.
+**Galera, pequeña:** Muy similar a la anterior, pero de calado ligeramente inferior (3-5 metros de ancho y 20-30 metros de largo). Además, solo son necesarios 50 remeros y su tripulación suele estar compuesta por un capitán y 40 marineros. Puede estar armada con una catapulta y balistas.
 
-###### Canoa:
+**Galera, de guerra:** Es la galera más grande de todas. Con capacidad para transportar hasta 3.000 kilos de carga y unas medidas de 7-10 metros de ancho por 40-50 de largo. Para moverla hacen falta 300 remeros. Su tripulación se compone de un capitán y 100 marineros. Estas embarcaciones están equipadas con 3 catapultas y balistas pesadas.
 
-la canoa es un pequeño bote que pesa 25 kilos. Se pueden transportar hasta 300 kilos de material y mide 8 metros de largo.
+**Grilletes:** Se utilizan para inmovilizar pies y manos de un prisionero. Son de hierro y se abren y cierran por medio de un cerrojo (incluido).
 
-###### Carro:
+**Herramientas de ladrón:** Este equipo se compone de una serie de herramientas básicas que un ladrón necesita para cometer sus fechorías.
 
-los carros necesitan de un buen camino para transitar. Normalmente, van tirados por uno o dos animales de arrastre, desplazándose con un rango de movimiento de 20 metros. En un carro normal se pueden transportar hasta 250 kilos de carga.
+**Libro de conjuros (vacío):** Un libro de conjuros está compuesto por 100 pergaminos en blanco. En cada página se puede inscribir un hechizo por nivel del conjuro. Por ejemplo, un conjuro de nivel 1, ocupa una página; un sortilegio de nivel 2, ocupa dos páginas... y así sucesivamente. Este libro solo puede ser utilizado por un practicante de la magia.
 
-###### Carromato:
+**Manta:** Puede usarse para dormir junto a un petate en aquellos climas más fríos que así lo requieran.
 
-básicamente, consiste en un vehículo de transporte con cuatro ruedas y de techo abierto. Se desplaza gracias a la fuerza de dos o cuatro caballos (u otros animales de tiro) que son dirigidos desde el carromato. Dos monturas pueden acarrear 750 kilos de peso, mientras que cuatro pueden llegar a 2.500 kilos.
+**Martillo:** A diferencia del martillo de combate, esta herramienta es más pequeña, pero puede causar 1d4 de daño. Su uso está pensado para la forja y la construcción.
 
-###### Catalejo:
+**Mochila:** Este objeto es imprescindible para cualquier aventurero que quiera transportar, de manera cómoda, cierta cantidad de objetos. La mochila deja libres los brazos para actuar con libertad. Puede cargar con un único objeto de hasta 7 puntos de VE o con varios objetos que sumen hasta 8 VE.
 
-es un objeto de artesanía muy poco común. Permite ampliar el tamaño de los objetos observados al doble.
+**Muda de ropa:** Incluye todas las prendas necesarias para vestirse por completo, incluyendo los principales complementos.
 
-###### Cerrojo:
+**Odre:** Este envase, fabricado con pieles, puede contener hasta dos litros de bebida.
 
-es un objeto de hierro que se abre y se cierra por medio de una llave.
+**Pala:** Normalmente construida con cabeza de hierro fundido y mango de madera.
 
-###### Cuerda:
+**Pergamino:** Son elaborados con pieles de animales para contener escritura normal o mágica. Resultan más baratos y comunes que su contrapartida, la hoja de papel.
 
-ningún aventurero debería prescindir de este elemento con multitud de aplicaciones. Su precio puede variar en base a su longitud y al material con el que esté fabricada.
+**Pértiga:** Un largo listón de madera que puede alcanzar los 3 metros de largo. Es un elemento con cierta fama entre aventureros, ya que permite comprobar la estabilidad del suelo o la existencia de trampas desde una cierta distancia de seguridad.
 
-###### Escala:
+**Petate:** Esterilla enrollable que se usa principalmente para dormir, extendiéndose sobre el suelo, y que ayuda a aislarse de la humedad del suelo.
 
-las hay de muchos tamaños diferentes (aunque en el equipo se liste solo la de 3 metros de longitud). Están construidas mediante dos cuerdas unidas por pequeños travesaños, también de cuerda, a intervalos regulares. Algunas escalas de más calidad –y precio– suelen emplear madera para los travesaños.
+**Pica de escalada:** Pequeña herramienta que puede usarse para fijar escarpias durante una escalada o para liberar gemas engastadas.
 
-###### Escarpias:
+**Pluma:** Están diseñadas especialmente para escribir con tinta sobre papel o pergamino, a diferencia de los punzones, utilizados para la escritura sobre tablillas de arcilla.
 
-una escarpia es una especie de clavo de hierro de cabeza curva y alargada. Puede tener varias aplicaciones, desde anclar una cuerda o bloquear una puerta, hasta servir de improvisadas escalas para trepar.
+**Polea:** Incluye el mecanismo básico de madera, un gancho para colgar bultos y un enganche para colgar la polea de un soporte. No incluye la cuerda o cadena que serán necesarias para operar el utensilio. Permite izar hasta cuatro veces el peso que podría levantar una persona por sus propios medios.
 
-###### Espejo de metal pulido:
+**Púas:** También conocidas como abrojos. Pequeñas formas de metal similares a pirámides pero con puntas afiladas. Suelen lanzarse sobre el suelo para retrasar y dificultar el paso.
 
-es un objeto muy popular entre los aventureros, ya que permite observar lo que aguarda en un corredor o sala sin tener que abandonar una posición segura.
+**Ración de comida:** Consiste en comida secada y protegida para servir como alimento durante largos viajes. Contiene las viandas necesarias para cubrir las necesidades de todo un día.
 
-###### Estacas:
+**Saco:** Sencilla funda entrelazada que, dependiendo de su tamaño, puede contener entre 10 y 30 kilos de peso.
 
-trozos largos de madera rematados en punta. Además de sus usos habituales, mucho más prosaicos, varias leyendas aseguran que una estaca puede acabar con ciertos muertos vivientes si se consigue clavar en su corazón.
+**Símbolo sagrado:** Los clérigos están obligados a llevar un símbolo que represente a su deidad. Normalmente, van prendidos del cuello y son de diferentes formas y materiales dependiendo del dios al que reverencien. La creencia popular dice que los símbolos de plata son mejores canalizadores que sus contrapartidas de otros materiales.
 
-###### Estuche para pergaminos:
+**Tinta:** Por lo general, se trata de un líquido viscoso de color negro. Si uno quiere comprarla de otro color, debe pagar la diferencia, a discreción del Narrador.
 
-puede almacenar un total de 3 hojas de papel enrolladas o cinco rollos de pergamino. Estos estuches se fabrican normalmente en cuero.
+**Tiza:** Vendida en forma de barritas, los aventureros suelen hacer uso de esta arcilla blanca para realizar pequeñas marcas durante el transcurso de sus exploraciones; por ejemplo, para marcar lugares ya transitados.
 
-###### Farol de aceite (con capuchón):
+**Vela:** Con este sencillo cilindro de cera se puede iluminar tenuemente un radio de 2 metros. Su duración es escasa, pues la cera se consume en 1 hora.
 
-consiste en un pequeño objeto con aceite en su interior que al prenderlo ilumina un radio de 10 metros. Suele durar en torno a las cuatro horas antes de que sea necesario recargarlo. Su ventaja reside en que puede cerrarse para ocultar la luz.
+**Vial:** Un vial puede almacenar 1/4 de litro de líquido y generalmente se fabrican en vidrio, metal, arcilla o piel curtida e impermeabilizada.
 
-###### Galera , grande:
+**Yesca y pedernal:** Con estas dos sencillas herramientas se puede encender un fuego, prender una antorcha, o encender una hoguera. Utilizar yesca y un pedernal lleva un turno completo (1 minuto).
 
-esta gran embarcación tiene suficiente fuerza como para transportar una carga de 2.000 kilos. En su lado más ancho puede llegar a medir entre 7-10 metros por 50-70 metros de largo. El barco se mueve gracias al impulso de 180 remeros. Además del capitán, la tripulación de a bordo suele estar compuesta por 70 marineros. Ocasionalmente, esta embarcación está equipada con dos catapultas y balistas.
-
-###### Galera , pequeña:
-
-muy similar a la anterior, pero de calado ligeramente inferior (3-5 metros de ancho y 20-30 metros de largo). Además, solo son necesarios 50 remeros y su tripulación suele estar compuesta por un capitán y 40 marineros. Puede estar armada con una catapulta y balistas.
-
-###### Galera , de guerra:
-
-es la galera más grande de todas. Con capacidad para transportar hasta 3.000 kilos de carga y unas medidas de 7-10 metros de ancho por 40-50 de largo. Para moverla hacen falta 300 remeros. Su tripulación se compone de un capitán y 100 marineros. Estas embarcaciones están equipadas con 3 catapultas y balistas pesadas.
-
-###### Grilletes:
-
-se utilizan para inmovilizar pies y manos de un prisionero. Son de hierro y se abren y cierran por medio de un cerrojo (incluido).
-
-###### Herramientas de ladrón:
-
-este equipo se compone de una serie de herramientas básicas que un ladrón necesita para cometer sus fechorías.
-
-###### Libro de conjuros (vacío):
-
-un libro de conjuros está compuesto por 100 pergaminos en blanco. En cada página se puede inscribir un hechizo por nivel del conjuro. Por ejemplo, un conjuro de nivel 1, ocupa una página; un sortilegio de nivel 2, ocupa dos páginas... y así sucesivamente. Este libro solo puede ser utilizado por un practicante de la magia.
-
-###### Manta:
-
-puede usarse para dormir junto a un petate en aquellos climas más fríos que así lo requieran.
-
-###### Martillo:
-
-a diferencia del martillo de combate, esta herramienta es más pequeña, pero puede causar 1d4 de daño. Su uso está pensado para la forja y la construcción.
-
-###### Mochila:
-
-este objeto es imprescindible para cualquier aventurero que quiera transportar, de manera cómoda, cierta cantidad de objetos. La mochila deja libres los brazos para actuar con libertad. Puede cargar con un único objeto de hasta 7 puntos de VE o con varios objetos que sumen hasta 8 VE.
-
-###### Muda de ropa:
-
-incluye todas las prendas necesarias para vestirse por completo, incluyendo los principales complementos.
-
-###### Odre:
-
-este envase, fabricado con pieles, puede contener hasta dos litros de bebida.
-
-###### Pala:
-
-normalmente construida con cabeza de hierro fundido y mango de madera.
-
-###### Pergamino:
-
-son elaborados con pieles de animales para contener escritura normal o mágica. Resultan más baratos y comunes que su contrapartida, la hoja de papel.
-
-###### Pértiga:
-
-un largo listón de madera que puede alcanzar los 3 metros de largo. Es un elemento con cierta fama entre aventureros, ya que permite comprobar la estabilidad del suelo o la existencia de trampas desde una cierta distancia de seguridad.
-
-###### Petate:
-
-esterilla enrollable que se usa principalmente para dormir, extendiéndose sobre el suelo, y que ayuda a aislarse de la humedad del suelo.
-
-###### Pica de escalada:
-
-pequeña herramienta que puede usarse para fijar escarpias durante una escalada o para liberar gemas engastadas.
-
-###### Pluma:
-
-están diseñadas especialmente para escribir con tinta sobre papel o pergamino, a diferencia de los punzones, utilizados para la escritura sobre tablillas de arcilla.
-
-###### Polea:
-
-Incluye el mecanismo básico de madera, un gancho para colgar bultos y un enganche para colgar la polea de un soporte. No incluye la cuerda o cadena que serán necesarias para operar el utensilio. Permite izar hasta cuatro veces el peso que podría levantar una persona por sus propios medios.
-
-###### Púas:
-
-también conocidas como abrojos. Pequeñas formas de metal similares a pirámides pero con puntas afiladas. Suelen lanzarse sobre el suelo para retrasar y dificultar el paso.
-
-###### Ración de comida:
-
-consiste en comida secada y protegida para servir como alimento durante largos viajes. Contiene las viandas necesarias para cubrir las necesidades de todo un día.
-
-###### Saco:
-
-sencilla funda entrelazada que, dependiendo de su tamaño, puede contener entre 10 y 30 kilos de peso.
-
-###### Símbolo sagrado:
-
-los clérigos están obligados a llevar un símbolo que represente a su deidad. Normalmente, van prendidos del cuello y son de diferentes formas y materiales
-
-###### Paquetes de equipo
+#### Paquetes de equipo
 
 Una manera rápida de lidiar con el equipamiento de los aventureros es ofrecerles paquetes de equipo ya generados, con el coste total calculado aproximadamente. Como, por ejemplo, estos que ofrecemos a continuación:
-PAQUETE A PAQUETE B PAQUETE C
-OBJETO VE OBJETO VE OBJETOS
 
+
+| PAQUETE A | | PAQUETE B | | PAQUETE C | | PAQUETE D | | PAQUETE E | |
+| :--- | :---: | :--- | :---: | :--- | :---: | :--- | :---: | :--- | :---: |
+| **OBJETO** | **VE** | **OBJETO** | **VE** | **OBJETO** | **VE** | **OBJETO** | **VE** | **OBJETO** | **VE** |
 | Mochila | 2 | Mochila | 2 | Mochila | 2 | Mochila | 2 | Mochila | 2 |
-| --- | --- | --- | --- | --- | --- | --- |
 | Muda común | 3 | Muda común | 3 | Muda común | 3 | Muda común | 3 | Muda común | 3 |
 | Manta | 2 | Manta | 2 | Manta | 2 | Manta | 2 | Manta | 2 |
 | Farol de aceite | 2 | 1 saco grande | 2 | Farol de aceite | 2 | 1 saco pequeño | 1 | 1 saco pequeño | 1 |
 | 2 cargas de aceite | 2 | 8 antorchas | 2 | 2 cargas de aceite | 2 | 8 antorchas | 2 | 8 antorchas | 2 |
 | Yesca y pedernal | - | Yesca y pedernal | - | Yesca y pedernal | - | Yesca y pedernal | - | Pluma y tinta | - |
 | 12 escarpias | 2 | Odre de agua | 2 | Cuerda de 15m | 3 | Pluma y tinta | - | Cuerda de 15 m | 3 |
-|  |  | 2 tizas<br>- |  | Espejo de metal 1 |  | Símbolo sagrado<br>1<br>de madera |  |  |  |
+| 1 martillo | 2 | 2 tizas | - | Espejo de metal | 1 | Símbolo sagrado de madera | 1 | Herramientas de ladrón | 1 |
 | 1 odre | 2 | Cuerda 15m | 3 | Odre de agua | 2 | Agua bendita | 1 | Odre de agua | 2 |
 | 4 raciones | 4 | 4 raciones | 4 | 5 raciones | 5 | Odre de agua | 2 | 4 raciones | 4 |
-|  |  |  |  |  |  | 4 raciones | 4 | Yesca y pedernal | - |
-|  |  | Coste 9<br>totAL mo |  | Coste 25<br>totAL mo |  | Coste 42<br>totAL mo |  |  |  |
-| ve totAL | 21 | ve totAL | 20 | ve totAL | 22 | ve totAL | 18 | ve totAL | 20 |
-
-dependiendo del dios al que reverencien. La creencia popular dice que los símbolos de plata son mejores canalizadores que sus contrapartidas de otros materiales.
-
-###### Tinta:
-
-por lo general, se trata de un líquido viscoso de color negro. Si uno quiere comprarla de otro color, debe pagar la diferencia, a discreción del Narrador.
-
-###### Tiza:
-
-vendida en forma de barritas, los aventureros suelen hacer uso de esta arcilla blanca para realizar pequeñas marcas durante el transcurso de sus exploraciones; por ejemplo, para marcar lugares ya transitados.
-
-###### Vela:
-
-con este sencillo cilindro de cera se puede iluminar tenuemente un radio de 2 metros. Su duración es escasa, pues la cera se consume en 1 hora.
-
-###### Vial:
-
-un vial puede almacenar 1/4 de litro de líquido y generalmente se fabrican en vidrio, metal, arcilla o piel curtida e impermeabilizada.
-
-###### Yesca y pedernal:
-
-con estas dos sencillas herramientas se puede encender un fuego, prender una antorcha, o encender una hoguera. Utilizar yesca y un pedernal lleva un turno completo (1 minuto).
-PAQUETE D PAQUETE E
-VE OBJETO VE OBJETO VE
+| | | | | | | 4 raciones | 4 | Yesca y pedernal | - |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **COSTE TOTAL** | **20 MO** | **COSTE TOTAL** | **9 MO** | **COSTE TOTAL** | **25 MO** | **COSTE TOTAL** | **42 MO** | **COSTE TOTAL** | **47 MO** |
+| **VE TOTAL** | **21** | **VE TOTAL** | **20** | **VE TOTAL** | **22** | **VE TOTAL** | **18** | **VE TOTAL** | **20** |

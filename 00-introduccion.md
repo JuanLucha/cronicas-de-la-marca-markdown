@@ -1,10 +1,10 @@
 # Reglamento básico
 
-##### Créditos
+## Créditos
 
 **Autores: Javier García “Dwayne Hicks”, Pedro Gil “Steinkel”.**
 
-###### Con la inestimable ayuda de:
+### Con la inestimable ayuda de:
 
 Alfredo Tercero, Capitán Mórdigan, Héctor D. Ruiz, Jorge Moreno, José Mariano Sáez, Juan Carlos Mesonero, Juan García Rodenas, Juanmi Férez, Luis Silla, Ricardo Silla, Sergio Cotelo y Sergio Rebollo.
 Corrección: Alfredo Tercero, Ignacio C. Cidrón “Teller”, Javier García, José Mariano Sáez, Juanmi Férez, Pedro Gil, Sergio Cotelo y Sergio Rebollo.
@@ -20,16 +20,16 @@ Agradecimientos especiales: Atanagildo, Carlos M., Javier Arce, Lorenzo León, P
 
 ## Índice
 
-###### Introducción
+### Introducción
 
-Abreviaciones comunes 5 
+Abreviaciones comunes 5
 ¿Qué necesitas para jugar? 5
 Los dados 5
 Creación de aventureros 5
 Medidas 6
 El mundo de la Marca del Este 6
 
-###### Capítulo 1:
+### Capítulo 1:
 
 Características Las seis características principales 7
 Generar las características del aventurero 8
@@ -37,9 +37,9 @@ Modificadores de característica 8
 Características primarias y secundarias 8
 Tiradas de característica 8
 
-###### Capítulo 2:
+### Capítulo 2:
 
-Clases de aventurero 10 
+Clases de aventurero 10
 Asesino 11
 Bárbaro 14
 Bardo 16
@@ -55,7 +55,7 @@ Místico 31
 Paladín 33
 Aventureros multiclase (regla opcional) 35
 
-###### Capítulo 3:
+### Capítulo 3:
 
 Especies Elfo 36
 Elfo oscuro 37
@@ -64,9 +64,9 @@ Gnomo 40
 Semielfo 42
 Semiorco
 
-###### Capítulo 4:
+### Capítulo 4:
 
-Detalles finales 44 
+Detalles finales 44
 Apariencia y trasfondo 44
 Alineamiento 44
 Elegir una deidad 45
@@ -75,12 +75,12 @@ Clase de armadura (CA) 46
 Dinero inicial 46
 Habilidades secundarias 46
 
-###### Capítulo 5:
+### Capítulo 5:
 
 Equipo Efectos de la carga 47
 Tablas de equipo 49
 
-###### Capítulo 6:
+### Capítulo 6:
 
 Combate y resolución de conflictos Duración de los encuentros, asaltos y turnos 58
 Secuencia de combate 58
@@ -98,9 +98,9 @@ Críticos y pifias (regla opcional) 66
 Tiradas de moral (regla opcional) 66
 Tiradas de salvación 67
 
-###### Capítulo 7:
+### Capítulo 7:
 
-Aventuras y desventuras 
+Aventuras y desventuras
 Tiradas de característica 70
 Puntos de experiencia 73
 Grupos de aventureros 73
@@ -108,7 +108,7 @@ Aventuras bajo tierra 74
 Aventuras al aire libre 76
 Aventuras en el mar 77
 
-###### Capítulo 8:
+### Capítulo 8:
 
 Magia Aprender conjuros de magia arcana 80
 Aprender conjuros de magia divina 81
@@ -120,7 +120,7 @@ Conjuros iniciales 81
 Descripción de los conjuros 81
 Conjuros por orden alfabético 86
 
-###### Capítulo 9:
+### Capítulo 9:
 
 Consejos para el Narrador El camino a la aventura 144
 Aplicar las reglas 145
@@ -134,30 +134,19 @@ Diseñar una aventura 148
 Diseñar un dungeon 148
 Diseñar un escenario de campaña 149
 
-###### Capítulo 10:
+### Capítulo 10:
 
 Objetos mágicos y tesoro Cómo se determina el tesoro 150
 Monedas 151
 Gemas, joyas y objetos de arte 151
 Objetos mágicos 152
 
-###### Capítulo 11:
+### Capítulo 11:
 
 Monstruos Atributos de los monstruos 158
 Listado de monstruos 162
 
-###### Capítulo 12:
-
-La Marca del Este 198 La ciudad de Robleda 200
-
-###### Capítulo 13:
-
-Ecos del pasado	 201 Introducción 201
-Arrancando la aventura 201
-Los salones de los amos de las estrellas 202
-Terminando la aventura 206
-
-###### Apéndices
+### Apéndices
 
 Conversión de Aventuras en la Marca a
 Crónicas de la Marca 207
@@ -175,7 +164,7 @@ Existen dos clases de jugadores en Crónicas de la Marca del Este: los aventurer
 Por lo tanto, un juego de rol es una actividad colaborativa donde los jugadores no compiten entre ellos, lo importante es cooperar entre todos, resolviendo los enigmas que nos plantea el Narrador y entretejiendo una historia... ¡Una aventura que resulte entretenida y memorable!
 El papel del Narrador es el de moderador y juez último. Sus decisiones son inapelables en lo referente a reglas y otras cuestiones sobre el juego. Su tarea es guiar y desarrollar la aventura, decidiendo por los monstruos y aventureros no jugadores. Un aventurero no jugador (ANJ), es un personaje que puede aparecer puntualmente durante la historia y cuyas acciones y comportamiento están dirigidos por el Narrador.
 
-##### Abreviaciones comunes
+### Abreviaciones comunes
 
 A lo largo de este manual emplearemos una serie de abreviaturas para referirnos a términos de uso común a fin de facilitar su lectura. Recomendamos a los lectores familiarizarse con ellos.
 | Abreviatura | Significado |
@@ -211,16 +200,16 @@ A lo largo de este manual emplearemos una serie de abreviaturas para referirnos 
 
 | VE | Valor de estorbo |
 
-##### ¿Qué necesitas para jugar?
+### ¿Qué necesitas para jugar?
 
 Para jugar a Crónicas de la Marca del Este no necesitarás más que este libro y unos dados poliédricos. Sería recomendable que cada jugador poseyera un juego de dados propio, que es posible adquirir en tiendas especializadas. También es preciso disponer de algunos folios en blanco para dibujar mapas y hacer anotaciones, así como unos lápices y gomas de borrar. Como veremos más adelante, cada jugador, exceptuando al Narrador, debe poseer una hoja de aventurero que recoja todas las características e información de su aventurero. Se puede fotocopiar la hoja de aventurero que se encuentra al final de este libro.
 
-##### Los dados
+### Los dados
 
 En Crónicas de la Marca del Este usamos los siguientes dados con los que resolver las acciones: dados de cuatro (d4), seis (d6), ocho (d8), diez (d10), doce (d12) y veinte (d20) caras. Para simplificar, cuando queremos establecer el número y tipo de dado necesario para resolver una acción empleamos la siguiente nomenclatura: primero establecemos la cantidad de dados a lanzar, seguidos por la letra “d” y el número de caras de dichos dados. Por ejemplo, cuando escribimos 3d6 queremos decir que para resolver la tirada es necesario lanzar 3 dados de 6 caras. Pongamos otro ejemplo: 3d4+5 significa que debemos efectuar una tirada con 3 dados de 4 caras y sumar 5 al resultado total obtenido.
 En algunas ocasiones se hará necesario hacer tiradas porcentuales, que identificaremos como d100. Para realizar este tipo de tiradas de porcentaje, en la cual obtendremos resultados del 1 al 100, emplearemos dos dados de 10 caras. Uno de ellos, designado previamente, nos dará las decenas y el otro las unidades. Dos 0 en los dados de diez indican un 100.
 
-##### Creación de aventureros
+### Creación de aventureros
 
 Para crear nuestro aventurero deberemos seguir por orden los capítulos del 1 al 5. En cualquier caso, el proceso se puede resumir en estos sencillos pasos:
 1.	 En primer lugar, generaremos sus características, la parte más importante si cabe en este sencillo proceso.
@@ -250,11 +239,11 @@ Para crear nuestro aventurero deberemos seguir por orden los capítulos del 1 al
 4.	 Tras esto, podemos detallar un poco más a nuestro aventurero, decidiendo su edad, aspecto físico (color de ojos y cabello, cicatrices si las hubiera, etcétera) y, si así lo deseamos, un pequeño trasfondo. Completaremos nuestro aventurero calculando sus puntos de golpe, su clase de armadura inicial o su alineamiento.
 5.	 Con los pasos anteriores completados, calcularemos el dinero inicial con el que cuenta nuestro aventurero y lo equiparemos con armas, armaduras y otros pertrechos. Hecho esto, y anotado todo en la hoja de aventurero, ya podremos lanzarnos en pos de aventuras.
 
-##### Medidas
+### Medidas
 
 En Crónicas de la Marca del Este se ha empleado el sistema métrico tradicional, así pues todas las distancias y pesos están referidas en metros, kilómetros, kilogramos, etcétera.
 
-##### El mundo de la Marca del Este
+### El mundo de la Marca del Este
 
 Crónicas de la Marca del Este es un reglamento que puede utilizarse sin problemas con cualquier ambientación de fantasía que el Narrador desee. Ya sea esta una de su entera creación o una basada en cualquiera de las ambientaciones famosas y bien conocidas gracias a novelas, películas u otros juegos de rol. Sin embargo, a lo largo del texto podrás encontrar varias referencias al mundo de la Marca del Este.
 El mundo medieval de la Marca del Este es un lugar donde la magia y lo extraordinario están presentes, aunque no de forma evidente para la mayoría de sus habitantes. Solo aquellos individuos más dotados, valientes e inteligentes, aventureros decididos, son quienes se enfrentan a esta realidad, mientras el común de los mortales intenta simplemente sobrevivir, encontrar un techo, trabajo y sustento para sus familias. Resumiendo, el mundo de la Marca del Este se mantiene en su mayoría fiel a los cánones del género de espada y brujería. También es cierto que hay algo de alta fantasía. Por ello podríamos decir, en propiedad, que el mundo de la Marca del Este está a medio camino entre la espada y brujería clásica y la alta fantasía.

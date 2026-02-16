@@ -23,16 +23,17 @@ Tras dictaminar si algún bando ha quedado sorprendido, el Narrador establece la
 
 La mayoría de los monstruos con los que se encontrarán nuestros aventureros en sus expediciones reaccionarán de manera hostil en los encuentros, atacando de manera inmediata. Aun así, a discreción del Narrador, algunas criaturas podrán actuar de manera diversa según las circunstancias. Pueden mostrarse hostiles, amistosas, temerosas, etc. También es posible establecer la reacción de la criatura realizando una tirada de 2d6 y comprobando el resultado en la tabla siguiente para determinar cuál es la reacción del monstruo.
 
-| Tabla de<br>tirada | reacción de los monstruos<br>Reacción |
+Tabla de reacción de los monstruos
+
+| Tirada | Reacción |
 | --- | --- |
 | 2 | Amistoso, servicial |
 | 3-5 | Indiferente, desinteresado, se marcha o está<br>dispuesto a parlamentar |
 | 6-8 | Neutral, incierto |
 | 9-11 | Desconfiado, puede atacar |
 | 12 | Hostil, ataca |
-| Una vez ambo<br>del otro, y dep | s contendientes son conscientes de la presencia<br>endiendo de la actitud de los monstruos según |
 
-De iniciativa para determinar el orden en el que aventureros y monstruos actúan durante el asalto. En este punto, tanto los jugadores como el Narrador (este último interpretando a los monstruos y ANJ), decidirán qué hacen sus respectivos aventureros: luchar, escapar, rendirse, intentar dialogar con el enemigo, con arreglo siempre a su tirada de iniciativa.
+Una vez ambos contendientes son conscientes de la presencia del otro, y dependiendo de la actitud de los monstruos según el resultado en la tabla de reacción, se llevará a cabo la tirada de iniciativa para determinar el orden en el que aventureros y monstruos actúan durante el asalto. En este punto, tanto los jugadores como el Narrador (este último interpretando a los monstruos y ANJ), decidirán qué hacen sus respectivos aventureros: luchar, escapar, rendirse, intentar dialogar con el enemigo, con arreglo siempre a su tirada de iniciativa.
 
 #### Tiradas de iniciativa
 
@@ -97,12 +98,13 @@ Las tiradas de ataque a distancia se verán penalizadas por la distancia al obje
 
 #### Tabla de modificadores por distancia
 
-Rango Modificador
+| RANGO | MODIFICADOR |
+| :--- | :---: |
+| **Alcance efectivo** <br> ($3 \le \text{distancia} \le \text{alcance base}$) | +0 |
+| **Alcance medio** <br> ($\text{alcance base} < \text{distancia} \le \text{alcance base} \times 2$) | -2 |
+| **Alcance largo** <br> ($\text{alcance base} \times 2 < \text{distancia} \le \text{alcance base} \times 3$) | -6 |
 
-| Alcance efectivo<br>(3 ≤ distancia ≤ alcance ba | se) |
-| --- | --- |
-| Alcance medio<br>(alcance base < distancia ≤ alcanc | e base x2) |
-| Alcance largo<br>(alcance base x2 < distancia ≤ alcan | ce base x3) |
+
 
 Además, también podremos apuntar. Por ejemplo, cuando un aventurero use un arma de proyectiles, podrá elegir consumir un asalto completo apuntando a su objetivo a expensas de no poder realizar otra acción y perdiendo su modificador de DES a la CA. En el siguiente asalto podrá disparar el arma con un +4 de bonificador circunstancial al ataque (+8 si está utilizando una ballesta), y siempre que esté a una distancia viable, ateniéndose también a los incrementos de rango aplicables.
 Los viales de agua bendita o aceite para quemar pueden lanzarse como armas de proyectiles con un alcance base de 6 metros, causando 1d8 de daño en el primer caso (solo contra criaturas impías, demonios, diablos, muertos vivientes y similares), y de 1d6 en el segundo. Para estos casos, el aventurero que arroje estos objetos debe tener éxito en una tirada de ataque a distancia tal y como se describe en esta misma sección.
@@ -120,23 +122,21 @@ A lo largo de nuestras aventuras, viviremos muchas y diversas situaciones de com
 
 #### Tabla de modificadores al combate
 
-Situación Modificador
+| SITUACIÓN | MODIFICADOR |
+| :--- | :---: |
+| Defensor cegado o postrado | +5 |
+| Defensor postrado e indefenso | +10 |
+| Atacante en una posición elevada | +11 |
+| Defensor aturdido o acobardado | +2 |
+| Defensor invisible o atacante ciego | -10 |
+| Atacante sobre superficie inestable | -2 |
+| Ataque a distancia sobre montura o superficie inestable o irregular | -4 |
+| Defensor con cobertura ¼ o en niebla ligera | -2 |
+| Defensor con cobertura ½ o en niebla densa | -4 |
+| Defensor en cobertura ¾ o en penumbra | -6 |
+| Defensor casi completamente a cubierto | -10 |
+| Apuntar con un arma de proyectiles durante un asalto completo | +4 (+8 para ballestas) |
 
-| Defensor cegado o postrado | +5 |  |  |  |
-| --- | --- | --- | --- | --- |
-| Defensor postrado e indefenso | +10 |  |  |  |
-| Atacante en una posición elevada | +1 |  |  |  |
-| Defensor aturdido o acobardado | +2 |  |  |  |
-| Defensor invisible o atacante ciego | -10 |  |  |  |
-| Atacante sobre superficie inestable | -2 |  |  |  |
-| Ataque a distancia sobre montura o superficie<br>inestable o irregular | -4 |  |  |  |
-| Defensor con cobertura ¼ o en niebla ligera | -2 |  |  |  |
-| Defensor con cobertura ½ o en niebla densa | -4 |  |  |  |
-| Defensor en cobertura ¾ o en penumbra | -6 |  | ¼ de cobertura | +2 |
-| Defensor casi completamente a cubierto | -10 |  | ½ de cobertura | +4 |
-|  |  |  | ¾ de cobertura | +6 |
-
-Asalto completo ballestas)
 
 ### Clase de armadura (CA)
 
@@ -148,6 +148,17 @@ Los escudos también proveen cierta protección, y según su tamaño, protegerá
 Los yelmos, en cambio, actúan de forma algo diferente, ya que su bonificador solo se añade a nuestra CA si recibimos un ataque específicamente en la cabeza. Este caso puede darse si la cabeza es la única parte visible de nuestro aventurero, al activar una trampa cuya descripción así lo indique o si el Narrador decide que dadas las circunstancias de la escena, tiene sentido que se produzca esta eventualidad.
 Si el Narrador utiliza las reglas opcionales de críticos y pifias, puede permitir que un yelmo evite los efectos de un golpe crítico, pasando a resolverse como un impacto normal, aunque con el coste de perder nuestro yelmo, totalmente destrozado por el golpe.
 Cobertura total +10
+
+#### Cobertura
+
+Aparte del escudo, yelmo y armadura que portemos, hay otros modificadores ocasionales que deberemos tener en consideración, como el grado de cobertura del que dispongamos; por ello, si nos protegemos tras algún parapeto u otro tipo de obstáculo o defensa estática física, emplearemos la siguiente tabla para definir el grado de protección por cobertura y el bonificador a la CA que obtendremos.
+
+| PARTE DEL CUERPO A CUBIERTO | MODIFICADOR A LA CA |
+| :--- | :---: |
+| ¼ de cobertura | +2 |
+| ½ de cobertura | +4 |
+| ¾ de cobertura | +6 |
+| Cobertura total | +10 |
 
 #### Otros modificadores circunstanciales
 
@@ -229,10 +240,9 @@ Los aventureros que caigan desde una altura superior a 3 metros pueden sufrir da
 
 #### Tabla de daño por caída según la distancia
 
-Altura de la caída* Incremento* Daño total recibido
-
-| Menos de 3 m | 0 | 0 |
+| Altura de la caída | Incremento | Daño total recibido |
 | --- | --- | --- |
+| Menos de 3 m | 0 | 0 |
 | Entre 3 m y menos de 6 m | +1d6 | 1d6 |
 | Entre 6 m y menos de 9 m | +2d6 | 3d6 |
 | Entre 9 m y menos de 12 m | +3d6 | 6d6 |
@@ -274,9 +284,9 @@ Destreza Trampas, ataque de aliento (como el aliento de fuego de un dragón)
 | Constitución | Enfermedad, drenaje de energía, veneno |
 | --- | --- |
 | Inteligencia | Magia arcana, ilusiones |
-| Sabiduría | Magia divina, confusión, ataque de mirada<br>(como el ataque petrificador de una medusa o<br>basilisco), polimorfismo, petrificación, parálisis |
+| Sabiduría | Magia divina, confusión, ataque de mirada (como el ataque petrificador de una medusa o basilisco), polimorfismo, petrificación, parálisis |
 | Carisma | Ataque de muerte, encantamiento, miedo |
-| Variable según las<br>circunstancias | Ciertos conjuros y habilidades especiales, efectos<br>mágicos de objetos y artefactos |
+| Variable según las circunstancias | Ciertos conjuros y habilidades especiales, efectos mágicos de objetos y artefactos |
 
 A todos los efectos, una tirada de salvación funciona como una tirada de característica. Esto es: el jugador lanza 1d20 y añade al resultado el nivel de su aventurero más el bonificador de la característica asociada, si lo hubiera. Si la característica asociada a la tirada de salvación es primaria, el nivel base para establecer el nivel de desafío o ND será 12. Y si la característica asociada es secundaria, el nivel base para establecer el ND será de 18. El Narrador establecerá el ND final con arreglo a varios considerandos, como, por ejemplo, los DG del monstruo, el nivel del lanzador de un conjuro, una trampa o veneno, etcétera, incluyendo los bonificadores o penalizadores que considere convenientes. Si el resultado de la tirada del 1d20, más el nivel del aventurero y el bonificador de la característica asociada iguala o supera el ND establecido por el Narrador, la tirada de salvación habrá resultado exitosa.
 Tirada de salvación = 1d20 + modificador de característica + nivel del aventurero ≥ al nivel de desafío o ND
@@ -310,12 +320,13 @@ Este tipo de ataque es muy poco habitual. Solo algunas criaturas muy poderosas y
 
 Los sortilegios o habilidades innatas en monstruos que producen efectos de confusión suelen ser bastante habituales. Una tirada de salvación fallada en esta categoría representará que nuestro aventurero ha resultado obnubilado, alelado, pasmado, turbado o desorientado, confundido en definitiva y por ende desconcertado en mayor o menor medida. Las acciones de un aventurero confundido, o bien se resuelven según lo establecido en el conjuro/ habilidad utilizado o bien mediante la tirada de 1d10 y consultando la tabla siguiente:
 
-| Tabla d<br>Resultado<br>en 1d10 | e efectos de la confusión<br>efectos |
+##### Tabla de efectos de la confusión
+| Resultado en 1d10 | Efectos |
 | --- | --- |
-| 1 | La criatura afectada abandona el campo de batalla,<br>deambulando erráticamente durante 1 minuto |
-| 2-6 | La criatura afectada es incapaz de realizar ninguna<br>acción en su asalto |
-| 7-9 | La criatura afectada atacará a la criatura más cercana,<br>sea amigo o enemigo |
-| 10 | Efectos muy leves. La criatura afectada actúa<br>normalmente |
+| 1 | La criatura afectada abandona el campo de batalla, deambulando erráticamente durante 1 minuto |
+| 2-6 | La criatura afectada es incapaz de realizar ninguna acción en su asalto |
+| 7-9 | La criatura afectada atacará a la criatura más cercana, sea amigo o enemigo |
+| 10 | Efectos muy leves. La criatura afectada actúa normalmente |
 
 Cualquier criatura bajo los efectos de la confusión que resulte atacada, responderá al ataque en su siguiente asalto de forma normal.
 

@@ -15,7 +15,8 @@ ND = (12 o 18) + grado de dificultad establecido por el Narrador (GD)
 Es habitual utilizar el nivel o dados de golpe de la criatura contra la que nos enfrentamos como el grado de dificultad establecido por el Narrador. Por ejemplo, imaginemos que nuestro aventurero Feltin, un consumado ladrón, quiere intentar robar un objeto a un monstruo de 5 DG de golpe o a un aventurero no jugador de nivel 5. En estas circunstancias, el Narrador podría establecer que el grado de dificultad es de 5.
 No siempre será tan sencillo disponer del nivel o DG de un contrincante para establecer el grado de dificultad de una acción. Para esas situaciones, el Narrador puede utilizar la siguiente tabla como guía.
 
-| Tabla de grados de<br>dificultad de la tarea | dificultad<br>grado de dificultad |
+#### Tabla de grados de dificultad
+| Dificultad de la tarea | Grado de dificultad |
 | --- | --- |
 | Tareas sencillas | 1-5 |
 | Tareas difíciles | 6-10 |
@@ -137,12 +138,11 @@ Hay muchos lugares donde nuestros aventureros podrán contratar buenos ayudantes
 Hay que tener en cuenta que los ayudantes adquieren experiencia como los aventureros y pueden también subir de nivel. Por supuesto, contarán para cualquier reparto de puntos de experiencia siempre que hayan tomado parte activa en la aventura. De igual modo, tendrán su parte en el reparto del botín, siempre que se haya acordado previamente tal punto.
 La siguiente tabla nos da una idea de los precios de contratar ayudantes de nivel 1. Esta tabla solo tiene un carácter orientativo, ya que los precios, el equipo base o el nivel del mercenario puede cambiar según la localización donde nos encontremos.
 
-#### Tabla de precios orientativos para ayudantes y mercenarios
+#### Tabla de precios orientativos para ayudantes y mercenarios (salario por mes y especie en piezas de oro)
 
-Tipo de mercenario Equipo
-
-| Plebeyo | - | - | - | - | 1 | - |
+| Tipo de mercenario | Equipo | Enano | Elfo | Goblin | Humano | Orco |
 | --- | --- | --- | --- | --- | --- | --- |
+| Plebeyo | - | - | - | - | 1 | - |
 | Infantería ligera | Espada, escudo, armadura de cuero | - | 5 | 1 | 3 | 2 |
 | Infantería pesada | Espada, escudo, cota de mallas | 5 | 7 | - | 4 | 2 |
 | Ballestero | Ballesta pesada, cota de mallas | 7 | - | - | 5 | 3 |
@@ -153,16 +153,13 @@ Tipo de mercenario Equipo
 | Lancero ligero | Lanza, armadura de cuero | - | 25 | - | 10 | - |
 | Lancero medio | Lanza, cota de mallas | 15 | - | - | 15 | - |
 | Lancero pesado | Lanza, espada, armadura de placas | 20 | - | - | 20 | - |
-
-Jinete de huargo Lanza, armadura de cuero, huargo
+| Jinete de huargo | Lanza, armadura de cuero, huargo | - | - | 6 | - | - |
 
 ### Aventuras bajo tierra
 
 Como comentábamos en la introducción, un recurso típico de las aventuras con un fuerte componente de exploración es basar la aventura en una localización. Y aunque las localizaciones bajo tierra son de lo más habitual, ya sean grutas insondables o mazmorras deleznables, todo lo que se recoge en este punto es de igual aplicación para localizaciones de cualquier otra naturaleza.
 Al explorar complejos subterráneos y mazmorras de intrincado diseño, siempre será conveniente dibujar un mapa para situar la acción y evitar extraviarse. Por ello, resultará siempre práctico designar a un jugador hábil como cartógrafo del grupo, cuya tarea fundamental será la de dibujar el mapa de la localización a medida que la describe el Narrador.
 Cualquier grupo de aventureros efectivo hará bien en establecer un orden de marcha, escribiendo el mismo en una hoja de papel para evitar posibles malentendidos durante los encuentros. Según las circunstancias, los aventureros podrán ir en parejas o de uno en uno. Es conveniente situar a los aventureros más fuertes en la vanguardia y retaguardia del grupo, mientras que los lanzadores de conjuros deberían quedarse en el centro, resguardados por sus compañeros.
-Salario por mes y especie en  piezas de oro Enano Elfo Goblin Humano Orco
-- - 6 - -
 
 #### Tiempo y movimiento
 
@@ -187,14 +184,16 @@ Las aventuras que se desarrollan al aire libre, por ejemplo en valles o en monta
 
 El movimiento al aire libre es medido en kilómetros. Los aventureros podrán moverse el equivalente en kilómetros de su rango de movimiento multiplicado por 2. Por ejemplo, un aventurero que tiene un rango de movimiento de 10 metros podría caminar 20 kilómetros en un día. Lógicamente, no todos los aventureros podrán moverse a la misma velocidad, así que si viajan en grupo solo podrán recorrer la cantidad máxima de kilómetros posibles para el aventurero más lento del grupo. Hay que tener en cuenta que los aventureros podrán recorrer esos 20 kilómetros en condiciones óptimas, es decir, siempre que caminen por un sendero, senda o similar relativamente despejado y de fácil tránsito, o bien campo a través por zonas de suave orografía. Otras condiciones diferentes a estas supondrán una merma en la cantidad posible de kilómetros a recorrer en una jornada. La siguiente tabla nos ayudará a determinar qué distancia podremos recorrer según las circunstancias.
 
-| De terreno<br>tipo de terreno | Ajuste |
+##### Tabla de ajustes por tipo de terrerno
+
+| Tipo de terreno | Ajuste |
 | --- | --- |
 | Desierto, colinas, áreas boscosas | -1/3 |
 | Junglas, pantanos, montañas | -1/2 |
 | Caminos, sendas abiertas | +1/2 |
-| Por ejemplo, según podemos<br>reros pueden recorrer 20 kiló | ver en la tabla, si los aventu-<br>metros normalmente, podrán |
 
-Llegar hasta los 30 kilómetros si lo hacen siguiendo un camino bien pavimentado (20 + 10 = 30). Por el contrario, si nuestros aventureros atraviesan terreno pantanoso de difícil acceso, se reducirá su ratio de movimiento a solo 10 km al día (20 – 10 = 10). A criterio del Narrador, pueden reducirse o aumentarse estos rangos de movimiento según el terreno que se atraviese. También es posible realizar una marcha forzada, que permitiría a los jugadores avanzar en un día su rango de movimiento x4 en kilómetros, aunque necesariamente deberían descansar toda una jornada tras el agotador esfuerzo.
+Por ejemplo, según podemos ver en la tabla, si los aventureros pueden recorrer 20 kilómetros normalmente, podrán llegar hasta los 30 kilómetros si lo hacen siguiendo un camino bien pavimentado (20 + 10 = 30). Por el contrario, si nuestros aventureros atraviesan terreno pantanoso de difícil acceso, se reducirá su ratio de movimiento a solo 10 km al día (20 – 10 = 10). A criterio del Narrador, pueden reducirse o aumentarse estos rangos de movimiento según el terreno que se atraviese. También es posible realizar una marcha forzada, que permitiría a los jugadores avanzar en un día su rango de movimiento x4 en kilómetros, aunque necesariamente deberían descansar toda una jornada tras el agotador esfuerzo.
+
 Puede que estas distancias parezcan demasiado reducidas, pero hay que tener en consideración que los aventureros marchan cargados con pesada impedimenta, armaduras de metal, diversas armas y equipo, monedas, tesoro y docenas de objetos de diferente índole. Aparte de ello, normalmente caminan por terrenos inexplorados, repletos de monstruos y otras criaturas peligrosas, y deben estar extraordinariamente atentos a lo que ocurre a su alrededor e intentar no llamar la atención.
 
 #### Perder la dirección
@@ -203,10 +202,9 @@ Cuando se viaja campo a través y no se está siguiendo un sendero, camino o car
 
 #### Tabla de embarcaciones
 
-Tipo de embarcación Tripulación Navegando (m/min) Remando (m/min) Navegando (km/h)
-
+| Tipo de embarcación | Tripulación | Navegando (m/min) |  Remando (m/min) | Navegando (km/h) | Remando (km/h) | Carga | CA | PGE |
+| --- | --- | --- | --- | --- | --- | --- | --- | -- |
 | Balsa | 1 | - | 10 | - | 0,6 | 500 | 11 | 3-6 |
-| --- | --- | --- | --- | --- | --- |
 | Barcaza | 75 | 50 | 30 | 3 | 1,8 | 2.000 | 12 | 65-80 |
 | Barco de vela grande | 80 | 40 | - | 2,4 | - | 15.000 | 13 | 125-180 |
 | Barco de vela pequeño | 12 | 50 | - | 3 | - | 5.000 | 12 | 65-90 |
@@ -220,17 +218,15 @@ Tipo de embarcación Tripulación Navegando (m/min) Remando (m/min) Navegando (k
 
 #### Tabla de probabilidades de perderse
 
-Probabilidad de perder la dirección
-Tipo de terreno
 
-| Llanura | 15% |
+| Tipo de terreno | Probabilidad de perder la dirección |
 | --- | --- |
+| Llanura | 15% |
 | Montañas o colinas | 32% |
 | Bosque | 32% |
 | Mar | 32% |
 | Desierto | 50% |
-
-Jungla o pantano 50%
+| Jungla o pantano | 50% |
 
 #### Escalar
 
@@ -244,10 +240,9 @@ En muy raras ocasiones, los aventureros tendrán la oportunidad de viajar a lomo
 
 #### Tabla de condiciones del viento en el mar
 
-Resultado (2d6) Ajuste al movimiento
-
-| 2-4 | Ninguno | Normal |
+| Resultado (2d6)| Ajuste al movimiento| Condiciones del viento |
 | --- | --- | --- |
+| 2-4 | Ninguno | Normal |
 | 5 | Sin velas; -2/3 remos | Sin viento |
 | 6 | -2/3 a todo movimiento | Poco viento |
 | 7 | -1/2 a todo movimiento | Brisa |

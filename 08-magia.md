@@ -56,21 +56,6 @@ En este apartado se especifica si para lanzar el conjuro es necesario articular 
 
 Casi todos los conjuros poseen una duración determinada. Una vez concluido el tiempo –indicado en el apartado de duración de cada conjuro– los efectos del conjuro terminarán de manera automática.
 
-| Conjuros de c<br>nivel 0 (trucos) | lérigo por niv<br>nivel 1 | el<br>nivel 2 | nivel 3 | nivel 4 |
-| --- | --- | --- | --- | --- |
-| Crear agua | Bendecir/maldecir | Arma espiritual | Crear comida y agua | Adivinación |
-| Detectar alineamiento | Bendecir agua/maldecir<br>agua | Augurio | Curar enfermedad/ causar<br>enfermedad | Caminar por las aguas/aire |
-| Detectar magia | Curar heridas leves/causar<br>heridas leves | Auxilio divino | Curar heridas graves/<br>causar heridas graves | Círculo sanador |
-| Detectar veneno | Detectar muertos vivientes | Consagrar/profanar | Disipar magia | Consagrar mayor |
-| Luz | Detectar puertas secretas | Detectar trampas | Glifo custodio | Controlar las aguas |
-| Primeros auxilios | Escudo de la fe | Hablar con los muertos | Luz permanente | Detectar mentiras/ocultar<br>mentiras |
-| Purificar agua y comida/<br>pudrir | Invisibilidad a los muertos<br>vivientes | Inmovilizar persona | Localizar objeto/ocultar<br>objeto | Exorcismo |
-| Resistir a los elementos | Onda sónica | Lentificar veneno | Plegaria | Lenguas |
-|  | Protección contra el mal/<br>bien | Oscuridad/luz diurna | Protección contra el mal/<br>bien en grupo | Libertad de movimiento |
-|  | Quitar el miedo/causar<br>miedo | Quitar parálisis | Quitar ceguera o sordera/<br>causar ceguera o sordera | Neutralizar veneno |
-|  | Santuario | Restablecimiento menor | Quitar maldición/lanzar<br>maldición | Recado |
-|  | Soportar los elementos | Silencio | Revivir a los muertos | Restablecimiento |
-
 #### Tirada de salvación (TS)
 
 Los efectos de algunos conjuros pueden ser evitados o mitigados si tenemos éxito en una tirada de salvación, lo que se indicará en este apartado. Según lo que se especifique, los efectos del conjuro pueden tener diversa consideración:
@@ -82,174 +67,168 @@ Los efectos de algunos conjuros pueden ser evitados o mitigados si tenemos éxit
 
 La gran mayoría de los seres posee una resistencia natural a los efectos de determinados conjuros. Básicamente, se comporta como una clase de armadura (CA), pero contra ataques mágicos. Si la criatura no incluye en su perfil una RC específica, se debe asumir un valor mínimo de 1.
 Si un conjuro indica que resulta factible resistir sus efectos, el lanzador del hechizo debe tirar un d20. El conjuro solo tendrá efecto si el resultado de la tirada es igual o mayor que la RC del objetivo. La resistencia a conjuros se aplica incluso si el conjuro lanzado permite al blanco realizar una tirada de salvación, y debería resolverse antes que cualquier otra tirada. En cualquier caso, la resistencia a conjuros solo debe aplicarse cuando el conjuro se lanza sobre un blanco que desea resistirse. Si la criatura no desea resistirse o se topa con un conjuro activo lanzado anteriormente, la resistencia a conjuros no se aplica.
-Nivel 5 Nivel 6 Nivel 7 Nivel 8 Nivel 9
-Comunión Barrera de cuchillas Auxilio Aliado mayor de los planos Antipatía/simpatía
-Curar heridas críticas/ causar heridas críticas Crear muerto viviente Controlar los elementos Aura sagrada/impía Atar alma
-Custodia contra la muerte Destierro Escudriñamiento mayor Crear muerto viviente mayor Atrapar el alma
-Desplazamiento de plano Encontrar el camino/ perder el camino Palabra sagrada/impía Discernir ubicación/ ocultar ubicación Drenar energía
 
+#### Conjuros de clérigo por nivel
+
+| NIVEL 0 (TRUCOS) | NIVEL 1 | NIVEL 2 | NIVEL 3 | NIVEL 4 |
+| :--- | :--- | :--- | :--- | :--- |
+| Crear agua | Bendecir/maldecir | Arma espiritual | Crear comida y agua | Adivinación |
+| Detectar alineamiento | Bendecir agua/maldecir agua | Augurio | Curar enfermedad/causar enfermedad | Caminar por las aguas/aire |
+| Detectar magia | Curar heridas leves/causar heridas leves | Auxilio divino | Curar heridas graves/causar heridas graves | Círculo sanador |
+| Detectar veneno | Detectar muertos vivientes | Consagrar/profanar | Disipar magia | Consagrar mayor |
+| Luz | Detectar puertas secretas | Detectar trampas | Glifo custodio | Controlar las aguas |
+| Primeros auxilios | Escudo de la fe | Hablar con los muertos | Luz permanente | Detectar mentiras/ocultar mentiras |
+| Purificar agua y comida/pudrir | Invisibilidad a los muertos vivientes | Inmovilizar persona | Localizar objeto/ocultar objeto | Exorcismo |
+| Resistir a los elementos | Onda sónica | Lentificar veneno | Plegaria | Lenguas |
+| | Protección contra el mal/bien | Oscuridad/luz diurna | Protección contra el mal/bien en grupo | Libertad de movimiento |
+| | Quitar el miedo/causar miedo | Quitar parálisis | Quitar ceguera o sordera/causar ceguera o sordera | Neutralizar veneno |
+| | Santuario | Restablecimiento menor | Quitar maldición/lanzar maldición | Recado |
+| | Soportar los elementos | Silencio | Revivir a los muertos | Restablecimiento |
+
+| NIVEL 5 | NIVEL 6 | NIVEL 7 | NIVEL 8 | NIVEL 9 |
+| :--- | :--- | :--- | :--- | :--- |
+| Comunión | Barrera de cuchillas | Auxilio | Aliado mayor de los planos | Antipatía/simpatía |
+| Curar heridas críticas/causar heridas críticas | Crear muerto viviente | Controlar los elementos | Aura sagrada/impía | Atar alma |
+| Custodia contra la muerte | Destierro | Escudriñamiento mayor | Crear muerto viviente mayor | Atrapar el alma |
+| Desplazamiento de plano | Encontrar el camino/perder el camino | Palabra sagrada/impía | Discernir ubicación/ocultar ubicación | Drenar energía |
 | Disipar el mal/bien | Geas | Regenerar | Sanar en masa/dañar en masa | Mente en blanco |
-| --- | --- | --- | --- | --- |
 | Escudriñamiento | Palabra de regreso | Repulsión | Símbolo | Portal interdimensional |
 | Excursión etérea | Sanar/dañar | Restablecimiento mayor | Terremoto | Proyección astral |
 | Expiación | Transitar por el aire | Resurrección mayor | Tormenta de fuego | Resurrección verdadera |
-| Golpe flamígero |  |  |  |  |
-| Plaga de insectos |  |  |  |  |
-| Resurrección |  |  |  |  |
+| Golpe flamígero | | | | |
+| Plaga de insectos | | | | |
+| Resurrección | | | | |
+| Visión verdadera | | | | |
 
-Visión verdadera
+#### Conjuros de Druida por nivel
 
-#### Conjuros de druida por nivel
-
-Nivel 0 (Trucos) Nivel 1 Nivel 2 Nivel 3 Nivel 4
-Crear agua Alarma Animal mensajero Crecimiento vegetal/ decrecimiento vegetal Caparazón antivegetal
-Detectar neutralidad Amistad animal Calentar metal/enfriar metal Curar enfermedad/causar enfermedad Controlar plantas
-Detectar veneno Buenas bayas Curar heridas leves/causar heridas leves Fundirse con la piedra Convocar animal
-Discernir dirección Calmar animales Deformar madera Hablar con las plantas Curar heridas graves/ causar heridas graves
-
+| NIVEL 0 (TRUCOS) | NIVEL 1 | NIVEL 2 | NIVEL 3 | NIVEL 4 |
+| :--- | :--- | :--- | :--- | :--- |
+| Crear agua | Alarma | Animal mensajero | Crecimiento vegetal/decrecimiento vegetal | Caparazón antivegetal |
+| Detectar neutralidad | Amistad animal | Calentar metal/enfriar metal | Curar enfermedad/causar enfermedad | Controlar plantas |
+| Detectar veneno | Buenas bayas | Curar heridas leves/causar heridas leves | Fundirse con la piedra | Convocar animal |
+| Discernir dirección | Calmar animales | Deformar madera | Hablar con las plantas | Curar heridas graves/causar heridas graves |
 | Luz | Detectar trampas y fosos | Enjambre | Llamar al relámpago | Disipar magia |
-| --- | --- | --- | --- | --- |
 | Primeros auxilios | Enmarañar | Hablar con los animales | Muro de viento | Escudriñamiento |
-| Purificar agua y comida/<br>pudrir | Fuego feérico | Hechizar persona o animal | Neutralizar veneno | Extinguir fuego |
+| Purificar agua y comida/pudrir | Fuego feérico | Hechizar persona o animal | Neutralizar veneno | Extinguir fuego |
 | Resistir a los elementos | Garrote | Inmovilizar animal | Pirotecnia | Libertad de movimiento |
-|  | Invisibilidad a los animales | Lentificar veneno | Protección contra los<br>elementos | Piedras puntiagudas |
-|  | Niebla de oscurecimiento | Piel robliza | Respirar bajo el agua | Reencarnar |
-|  | Pasar sin dejar rastro | Producir llama | Trampa de lazo | Repeler sabandijas |
+| | Invisibilidad a los animales | Lentificar veneno | Protección contra los elementos | Piedras puntiagudas |
+| | Niebla de oscurecimiento | Piel robliza | Respirar bajo el agua | Reencarnar |
+| | Pasar sin dejar rastro | Producir llama | Trampa de lazo | Repeler sabandijas |
+| | Piedra mágica | Trampa de fuego | Transformar piedra y madera | Tormenta de escarcha |
 
-Piedra mágica Trampa de fuego Transformar piedra y madera Tormenta de escarcha
-Nivel 5 Nivel 6 Nivel 7 Nivel 8 Nivel 9
-
-| Comunión con la<br>naturaleza | Caparazón antivida | Bastón cambiante | Comandar plantas | Antipatía/simpatía |
-| --- | --- | --- | --- | --- |
+| NIVEL 5 | NIVEL 6 | NIVEL 7 | NIVEL 8 | NIVEL 9 |
+| :--- | :--- | :--- | :--- | :--- |
+| Comunión con la naturaleza | Caparazón antivida | Bastón cambiante | Comandar plantas | Antipatía/simpatía |
 | Controlar los vientos | Convocar elemental | Controlar los elementos | Explosión solar | Cambiar de forma |
-| Convocar animal o planta | Madera férrea | Convocar bestia mágica o<br>feérica | Formas de animal | Enjambre elemental |
+| Convocar animal o planta | Madera férrea | Convocar bestia mágica o feérica | Formas de animal | Enjambre elemental |
 | Crecimiento animal | Muro de piedra | Escudriñamiento mayor | Palabra de regreso | Muro prismático |
-| Curar heridas críticas/<br>causar heridas críticas | Piedra parlante | Marabunta | Rayo de muerte | Proyección astral |
+| Curar heridas críticas/ causar heridas críticas | Piedra parlante | Marabunta | Rayo de muerte | Proyección astral |
 | Custodia contra la muerte | Repeler madera | Tormenta de fuego | Regenerar | Sanar/dañar |
 | Dotar de consciencia | Semillas de fuego | Transitar por el aire | Repeler piedra o metal | Terremoto |
 | Muro de espinas | Viajar mediante plantas | Transmutar metal en madera | Torbellino | Tormenta divina |
-| Muro de fuego |  |  |  |  |
-| Plaga de insectos |  |  |  |  |
-| Tormenta de hielo |  |  |  |  |
-
-Transmutar barro y roca
+| Muro de fuego | | | | |
+| Plaga de insectos | | | | |
+| Tormenta de hielo | | | | |
+| Transmutar barro y roca | | | | |
 
 #### Conjuros de ilusionista por nivel
 
-Nivel 0 (Trucos) Nivel 1 Nivel 2 Nivel 3 Nivel 4
-
+| NIVEL 0 (TRUCOS) | NIVEL 1 | NIVEL 2 | NIVEL 3 | NIVEL 4 |
+| :--- | :--- | :--- | :--- | :--- |
 | Aura mágica | Apariencia de dragón | Alterar el yo | Ayuda providencial | Adoptar apariencia |
-| --- | --- | --- | --- | --- |
 | Detectar ilusiones | Armadura ilusoria | Boca mágica | Desplazamiento | Asesino fantasma |
 | Huella de dragón | Aturdir | Bruma | Disipar ilusiones | Confusión |
-
-Influenciar Aura indetectable Curar heridas leves/causar heridas leves Disipar magia Creación menor
-
-| Luces danzantes | Borrar | Detectar magia | Doblar tesoro | Curar heridas graves/<br>causar heridas graves |
-| --- | --- | --- | --- | --- |
+| Influenciar | Aura indetectable | Curar heridas leves/causar heridas leves | Disipar magia | Creación menor |
+| Luces danzantes | Borrar | Detectar magia | Doblar tesoro | Curar heridas graves/causar heridas graves |
 | Luz | Cambiar el yo | Emborronar | Escritura ilusoria | Escamas de dragón |
 | Marca arcana | Detectar lo invisible | Engaño | Espantar | Espejismo arcano |
 | Mensaje | Fuerza temporal de Dejavú | Imagen bendita | Imagen desplazada | Hechizar monstruo |
 | Prestidigitación | Glamour feérico | Imagen menor | Imagen mayor | Ídolo protector |
 | Primeros auxilios | Hechizar persona | Imagen reflejada | Indetectabilidad | Implantar emoción |
 | Reparar | Hipnosis | Invisibilidad | Inmovilizar persona | Invisibilidad mejorada |
+| Sonido fantasma | Imagen silenciosa | Invisibilidad temporal de Dejavú | Invisibilidad en grupo | Miedo |
+| | Leer magia | Mordisco de dragón | Lenguas | Moldear sombras |
+| | Mastines ilusorios | Ojos llameantes | Luz permanente | Niebla sólida |
+| | Niebla de oscurecimiento | Patrón hipnótico | Montura de dragón | Pared ilusoria |
+| | Niebla ofuscadora | Percepción extrasensorial | Página secreta | Patrón arcoíris |
+| | Oscuridad/luz diurna | Pirotecnia | Runas explosivas | Portal ilusorio de Dejavú |
+| | Rociada de color | Quitar ceguera o sordera/causar ceguera o sordera | Sugestión | Refugio seguro |
+| | Tentáculos menores de Silas | Tentáculos mayores de Silas | Terreno ilusorio | Tentáculos verdaderos de Silas |
+| | Ventriloquia | Trampa ilusoria | Truco de la cuerda | Tesoro ilusorio |
 
-Sonido fantasma Imagen silenciosa Invisibilidad temporal  de Dejavú Invisibilidad en grupo Miedo
-
-|  | Leer magia | Mordisco de dragón | Lenguas | Moldear sombras |
-| --- | --- | --- | --- | --- |
-|  | Mastines ilusorios | Ojos llameantes | Luz permanente | Niebla sólida |
-|  | Niebla de oscurecimiento | Patrón hipnótico | Montura de dragón | Pared ilusoria |
-|  | Niebla ofuscadora | Percepción extrasensorial | Página secreta | Patrón arcoíris |
-|  | Oscuridad/luz diurna | Pirotecnia | Runas explosivas | Portal ilusorio de Dejavú |
-
-Rociada de color Quitar ceguera o sordera/ causar ceguera o sordera Sugestión Refugio seguro
-Tentáculos menores de Silas Tentáculos mayores de Silas Terreno ilusorio Tentáculos verdaderos de Silas Ventriloquia Trampa ilusoria Truco de la cuerda Tesoro ilusorio
-Nivel 5 Nivel 6 Nivel 7 Nivel 8 Nivel 9 Aliento de dragón Atontar Atemorizar Antipatía/simpatía Asesino fantasma de masas Cofre secreto de Karkemish Capa protectora de Silas Invisibilidad de masas Atrapar el alma Clonar
-Creación mayor Curar heridas críticas/ causar heridas críticas Laberinto Distorsionar la realidad Esfera prismática
-Encubrir Despistar Locura Encontrar el camino/ perder el camino Mano apresadora de Fistan
-
+| NIVEL 5 | NIVEL 6 | NIVEL 7 | NIVEL 8 | NIVEL 9 |
+| :--- | :--- | :--- | :--- | :--- |
+| Aliento de dragón | Atontar | Atemorizar | Antipatía/simpatía | Asesino fantasma de masas |
+| Cofre secreto de Karkemish | Capa protectora de Silas | Invisibilidad de masas | Atrapar el alma | Clonar |
+| Creación mayor | Curar heridas críticas/ causar heridas críticas | Laberinto | Distorsionar la realidad | Esfera prismática |
+| Encubrir | Despistar | Locura | Encontrar el camino/ perder el camino | Mano apresadora de Fistan |
 | Guardas y custodias | Escudo contra ilusiones | Palabra poderosa aturdir | Encubrir verdadero | Mente en blanco |
-| --- | --- | --- | --- | --- |
 | Imagen verdadera | Geas | Reclusión | Explosión solar | Palabra poderosa matar |
-| Invisibilidad extendida de<br>Dejavú | Imagen permanente | Restablecimiento | Hechizar a las masas | Polimorfar objeto |
+| Invisibilidad extendida de Dejavú | Imagen permanente | Restablecimiento | Hechizar a las masas | Polimorfar objeto |
 | Localizar humanoide | Imagen programada | Rociada prismática | Muro prismático | Proyección astral |
 | Mastín fiel de Fistan | Leones ilusorios | Simulacro | Nube incendiaria | Regenerar |
 | Mensaje onírico | Moldear energía mayor | Viajar mediante sombras | Palabra poderosa cegar | Sanar/dañar |
-| Moldear energía | Moldear sombras<br>verdadero | Vínculo telepático | Polimorfar | Símbolo |
+| Moldear energía | Moldear sombras verdadero | Vínculo telepático | Polimorfar | Símbolo |
 | Moldear sombras mayor | Velo | Visiones oníricas | Transitar por el aire | Trance onírico |
-| Muro de espejos |  |  |  |  |
-| Neutralizar veneno |  |  |  |  |
-| Paralizar monstruo |  |  |  |  |
-| Proyectar imagen |  |  |  |  |
-| Proyectar pesadillas |  |  |  |  |
-| Sombra de dragón |  |  |  |  |
-| Sugestión de masas |  |  |  |  |
-
-Visión verdadera
+| Muro de espejos | | | | |
+| Neutralizar veneno | | | | |
+| Paralizar monstruo | | | | |
+| Proyectar imagen | | | | |
+| Proyectar pesadillas | | | | |
+| Sombra de dragón | | | | |
+| Sugestión de masas | | | | |
+| Visión verdadera | | | | |
 
 #### Conjuros de mago por nivel
 
-Nivel 0 (Trucos) Nivel 1 Nivel 2 Nivel 3 Nivel 4
-
+| NIVEL 0 (TRUCOS) | NIVEL 1 | NIVEL 2 | NIVEL 3 | NIVEL 4 |
+| :--- | :--- | :--- | :--- | :--- |
 | Abrir/cerrar | Agrandar/empequeñecer | Alterar atributo | Acelerar/ralentizar | Alarido ensordecedor |
-| --- | --- | --- | --- | --- |
 | Detectar magia | Borrar | Apertura/cerradura | Bola de fuego | Confusión |
 | Detectar veneno | Caída de pluma | Boca mágica | Clarividencia | Detectar escudriñamiento |
-
-Luces danzantes Cambiar el yo Bruma Convocar Monstruos I Escudo de fuego/hielo de Karkemish
-
+| Luces danzantes | Cambiar el yo | Bruma | Convocar Monstruos I | Escudo de fuego/hielo de Karkemish |
 | Luz | Cerrar portal | Detectar lo invisible | Desplazamiento | Escudriñamiento |
-| --- | --- | --- | --- | --- |
 | Mano mágica | Descarga eléctrica | Espantar | Disipar magia | Esfera invulnerable menor |
 | Marca arcana | Disco flotante de Nébula | Estallar | Forma gaseosa | Globo elástico de Fistan |
 | Mensaje | Dormir | Flecha ácida de Nefertiri | Golpe de viento | Hechizar monstruo |
 | Prestidigitación | Encontrar familiar | Imagen reflejada | Indetectabilidad | Localizar criatura |
 | Reparar | Escalada de araña | Invisibilidad | Inmovilizar persona | Miedo |
 | Resistir a los elementos | Escudo | Levitar | Invisibilidad en grupo | Mnemotecnia de Fistan |
+| Sonido fantasma | Hechizar persona | Localizar objeto/ocultar objeto | Lenguas | Muro de fuego |
+| | Identificar | Luz permanente | Nube apestosa | Muro de hielo |
+| | Leer magia | Oscuridad/luz diurna | Pequeño refugio de Nébula | Ojo arcano |
+| | Leer y comprender lenguas | Percepción extrasensorial | Protección contra el mal/ bien en grupo | Polimorfar |
+| | Manos ardientes | Pirotecnia | Rayo centelleante | Puerta dimensional |
+| | Protección contra el mal/ bien | Protección contra flechas | Respirar bajo el agua | Quitar maldición/lanzar maldición |
+| | Proyectil mágico | Rayo debilitador de Karkemish | Runas explosivas | Terreno ilusorio |
+| | Salto | Telaraña | Sugestión | Tormenta de hielo |
+| | Sirviente invisible | Truco de la cuerda | Volar | Trampa de fuego |
 
-Sonido fantasma Hechizar persona Localizar objeto/ocultar objeto Lenguas Muro de fuego
-
-|  | Identificar | Luz permanente | Nube apestosa | Muro de hielo |
-| --- | --- | --- | --- | --- |
-|  | Leer magia | Oscuridad/luz diurna | Pequeño refugio de Nébula | Ojo arcano |
-|  | Leer y comprender lenguas | Percepción extrasensorial | Protección contra el mal/<br>bien en grupo | Polimorfar |
-|  | Manos ardientes | Pirotecnia | Rayo centelleante | Puerta dimensional |
-|  | Protección contra el mal/<br>bien | Protección contra flechas | Respirar bajo el agua | Quitar maldición/lanzar<br>maldición |
-
-Proyectil mágico Rayo debilitador de Karkemish Runas explosivas Terreno ilusorio
-Salto Telaraña Sugestión Tormenta de hielo Sirviente invisible Truco de la cuerda Volar Trampa de fuego
-Nivel 5 Nivel 6 Nivel 7 Nivel 8 Nivel 9
-Atontar Conocimiento de leyendas Bola de fuego de explosión retardada Antipatía/simpatía Aprisionar/liberar
-Cofre secreto de Karkemish Controlar los elementos Convocación instantánea de Nébula Atrapar el alma Auxilio
-
+| NIVEL 5 | NIVEL 6 | NIVEL 7 | NIVEL 8 | NIVEL 9 |
+| :--- | :--- | :--- | :--- | :--- |
+| Atontar | Conocimiento de leyendas | Bola de fuego de explosión retardada | Antipatía/simpatía | Aprisionar/liberar |
+| Cofre secreto de Karkemish | Controlar los elementos | Convocación instantánea de Nébula | Atrapar el alma | Auxilio |
 | Cono de frío | Desintegrar | Convocar monstruos III | Círculo de teleportación | Cambiar de forma |
-| --- | --- | --- | --- | --- |
 | Contactar con otro plano | Escudo antimagia | Deseo limitado | Clonar | Deseo |
-| Convocar monstruos II | Esfera invulnerable | Desvanecer | Danza irresistible de<br>Nébula | Detener el tiempo |
-
-Invocar elemental Geas Escudriñamiento mayor Hechizar a las masas Disipación mayor de Nébula
-
+| Convocar monstruos II | Esfera invulnerable | Desvanecer | Danza irresistible de Nébula | Detener el tiempo |
+| Invocar elemental | Geas | Escudriñamiento mayor | Hechizar a las masas | Disipación mayor de Nébula |
 | Mastín fiel de Fistan | Guardas y custodias | Invisibilidad de masas | Laberinto | Esfera prismática |
-| --- | --- | --- | --- | --- |
-| Muro de fuerza | Mover la tierra | Mano apresadora de Fistan | Mente en blanco | Estasis temporal |
+| Muro de fuerza | Mover la tierra | Mano apresadora de Fistan | Mente en blanco | Éstasis temporal |
 | Muro de hierro | Proyectar imagen | Palabra poderosa aturdir | Nube incendiaria | Lluvia de meteoritos |
 | Muro de piedra | Rayo zigzagueante | Puerta de fase | Palabra poderosa cegar | Palabra poderosa matar |
 | Nube aniquiladora | Sugestión de masas | Rayo de muerte | Polimorfar objeto | Portal interdimensional |
 | Paralizar monstruo | Transmutar piedra y carne | Reclusión | Símbolo | Proyección astral |
-| Pasadizo arcano |  |  |  |  |
-| Permanencia |  |  |  |  |
-| Revivir a los muertos |  |  |  |  |
-| Teleportar |  |  |  |  |
-| Telequinesis |  |  |  |  |
-| Transmigración |  |  |  |  |
-| Transmutar barro y roca |  |  |  |  |
+| Pasadizo arcano | | | | |
+| Permanencia | | | | |
+| Revivir a los muertos | | | | |
+| Teleportar | | | | |
+| Telequinesis | | | | |
+| Transmigración | | | | |
+| Transmutar barro y roca | | | | |
+| Vínculo telepático | | | | |
 
-Vínculo telepático
-
-### Conjuros por
-
-### Orden alfabético
+### Conjuros por orden alfabético
 
 A
 
